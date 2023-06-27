@@ -11,7 +11,7 @@ export const Header = () => {
   
   return (<nav className="navbar navbar-expand-sm bg-dark navbar-dark">
       <div className="container-fluid">
-        <a className="navbar-brand" href="https://github.com/uadam12/unimaid_gst/raw/main/UNIMAID%20GST.apk">
+        <a className="navbar-brand" href="https://github.com/uadam12/unimaid-gst/raw/main/UNIMAID%20GST.apk">
           <img src={ require("../logo.jpg") } className="rounded-pill" style={{width: "40px"}} alt="UNIMAID GST"/>
         </a>
     

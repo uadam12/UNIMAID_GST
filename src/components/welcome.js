@@ -5,7 +5,7 @@ export const Welcome = props => (<div className="card m-3 mx-auto" style={{ maxW
 
   <div className="card-body">
     <p>
-      <a className="navbar-brand" href="https://github.com/uadam12/unimaid_gst/raw/main/UNIMAID%20GST.apk">
+      <a className="navbar-brand" href="https://github.com/uadam12/unimaid-gst/raw/main/UNIMAID%20GST.apk">
         <img src={ require("../logo.jpg") } className="rounded d-block mx-auto" style={{
           width: "450px",
           maxWidth: "100%"
