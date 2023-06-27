@@ -2299,8 +2299,8 @@
     },
     {
         "id": 225,
-        "question": "..... is the branch of philosophy that is concerned with knowledge.",
-        "correct": "Philosophy of Science"
+        "question": "*Philosophy of Science* is the branch of philosophy that is concerned with .....",
+        "correct": "knowledge"
     },
     {
         "id": 226,

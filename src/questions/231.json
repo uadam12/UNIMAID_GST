@@ -202,8 +202,8 @@
     },
     {
         "id": 40,
-        "question": "..... is limited only to his/her level of investment in the business.",
-        "correct": "Limited Partner"
+        "question": "..... partner is limited only to his/her level of investment in the business.",
+        "correct": "Limited"
     },
     {
         "id": 41,
@@ -283,8 +283,8 @@
     },
     {
         "id": 55,
-        "question": "Element of marketing is also known as .....",
-        "correct": "Marketing Mix"
+        "question": "Element of marketing is also known as ..... Mix",
+        "correct": "Marketing"
     },
     {
         "id": 56,

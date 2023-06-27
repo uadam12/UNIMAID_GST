@@ -17,6 +17,9 @@ export const Question = props => {
 
       return <li key={opt} 
         onClick={e => {
+          const lss = Array.from(e.target.parentElement.children);
+
+          lss.forEach(li => li.classList.remove("active"));
           e.target.classList.add("active");
           props.quiz.selectAnswer(opt);
         }} 
