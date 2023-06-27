@@ -3,11 +3,15 @@ import { getCourse, saveCourse, saveMode } from "./store";
 export const Header = () => {
   const courses = [111, 112, 113, 122, 123, 211, 212, 221, 224, 231].map(code => 
     <li key={code}><span onClick={() => {
-      saveCourse(code); 
+      saveCourse(code);
+      window.Location.reload();
     }} data-code={code} className="dropdown-item">GST {code}</span></li>);
     
   const modes = ["Quick", "Test", "Exam"].map(mode => 
-    <li key={mode}><span onClick={e => saveMode(mode) } data-mode={mode.toLowerCase()} className="dropdown-item">{mode}</span></li>);
+    <li key={mode}><span onClick={() => {
+      saveMode(mode);
+      window.location.reload();
+    }} data-mode={mode.toLowerCase()} className="dropdown-item">{mode}</span></li>);
   
   return (<nav className="navbar navbar-expand-sm bg-dark navbar-dark">
       <div className="container-fluid">
