@@ -1,11 +1,7 @@
 import Timer from "./timer.js";
 import { Question } from "./question.js";
 
-export const QuizComp = props => (<div className="card my-3" style={{ 
-  maxWidth: "600px", 
-  marginLeft: "auto", 
-  marginRight: "auto" 
-}}>
+export const QuizComp = props => (<div className="card m-3 mx-auto" style={{ maxWidth: "600px"}}>
   <div className="card-header">
     <p className="text-info text-left">Question {props.quiz.state.index+1} of {props.quiz.questions.length}</p>
     <Timer quiz={props.quiz} />

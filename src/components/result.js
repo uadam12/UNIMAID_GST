@@ -3,10 +3,11 @@ import { Text } from "./formatter.js";
 export const Result = props => {
   const quiz = props.quiz;
   const result = quiz.result();
-  const correction = result.wrongs.map(q => {
+  const wrongs = result.wrongs;
+  const correction = wrongs.map(q => {
     const statements = q.statements? q.statements.map(stm => <p key={stm}>{stm}</p>): "";
 
-    return (<div key={q.id}> <hr />
+    return (<li key={q.id}> <hr />
 
       <div className="text-start">
         <Text content={ q.question } />
@@ -16,10 +17,10 @@ export const Result = props => {
       <p>Your answer: <span className="text-danger">{ q.answer  }</span></p>
       <p>Correct answer: <span className="text-success">{ q.correct }</span></p>
 
-    </div>);
+    </li>);
   });
   
-  return (<div className='card my-3' style={{ maxWidth: "600px", marginLeft: "auto", marginRight: "auto" }}>
+  return (<div className='card m-3 mx-auto' style={{ maxWidth: "600px"}}>
     <h1 className="card-header text-primary">Your Result</h1>
 
     <div className="card-body text-start">
@@ -31,8 +32,13 @@ export const Result = props => {
         <p className="text-danger">Failed</p>
       }
 
-      <h2 className="text-center text-success">Correction</h2>
-      {correction}
+      { (wrongs.length > 0) ? 
+        <div>
+          <h2 className="text-center text-success">Corrections</h2>
+          <ol>{ correction} </ol>
+        </div>:
+        <h2 className="text-center text-success">You are the BOSS!!!</h2>
+      }
     </div>
 
     <div className="card-footer">

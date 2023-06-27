@@ -1,15 +1,16 @@
 import { getCourse, getMode } from "./store";
 
-export const Welcome = props => (<div className="card my-3" style={{ maxWidth: "600px", marginLeft: "auto", marginRight: "auto" }}>
+export const Welcome = props => (<div className="card m-3 mx-auto" style={{ maxWidth: "600px"}}>
   <h1 className="card-header text-primary">GST {getCourse()}, {getMode()} mode</h1>
 
   <div className="card-body">
     <p>
       <a className="navbar-brand" href="https://github.com/uadam12/unimaid_gst/raw/main/UNIMAID%20GST.apk">
-        <img src={ require("../logo.jpg") } className="rounded" style={{
+        <img src={ require("../logo.jpg") } className="rounded d-block mx-auto" style={{
           width: "450px",
           maxWidth: "100%"
         }} alt="UNIMAID GST"/>
+        <button className="btn btn-success">Download Now</button>
       </a>
     </p>
     <p>
