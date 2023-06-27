@@ -1,0 +1,937 @@
+[
+    {
+        "id": 1,
+        "question": "..... is a discipline that gives birth, touches and covers all other disciplines",
+        "correct": "Philosophy"
+    },
+    {
+        "id": 2,
+        "question": "Philosophy was the only available body of knowledge in the 12th - 13th century",
+        "correct": "a",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 3,
+        "question": "All other ..... refer to philosophy as the *king of all discipline*",
+        "correct": "disciplines"
+    },
+    {
+        "id": 4,
+        "question": "Philosophy is called by some as mother or pillar of knowledge or foundation of all disciplines.",
+        "correct": "a",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 5,
+        "question": "..... is defined as *_study of universe_* and *_search for knowledge_*.",
+        "correct": "Philosophy"
+    },
+    {
+        "id": 6,
+        "question": "The universe is simply the entire world.",
+        "correct": "a",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 7,
+        "question": "..... is an important aspect of philosophy",
+        "correct": "Knowledge"
+    },
+    {
+        "id": 8,
+        "question": "The 2 essential faculties inbuilt in man by God are *thinking* and .....",
+        "correct": "reasoning"
+    },
+    {
+        "id": 9,
+        "question": "There is no limit for knowledge in philosophy but it makes man superior.",
+        "correct": "a",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 10,
+        "question": "Philosophy is a one letter word having two Greek words _philo_ and _sophy_ which means *love* and ..... respectively",
+        "correct": "wisdom"
+    },
+    {
+        "id": 11,
+        "question": "A philosopher is a hater of wisdom.",
+        "correct": "b",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 12,
+        "question": "There are ..... major branches of philosophy",
+        "correct": "5"
+    },
+    {
+        "id": 13,
+        "question": "The theory of knowledge is called *epistemology* while metaphysics is the theory of .....",
+        "correct": "reality"
+    },
+    {
+        "id": 14,
+        "question": "The four classifications of philosophy are *_Western_*, *_African_*, *_Oriental_* and .....",
+        "correct": "Asian"
+    },
+    {
+        "id": 15,
+        "question": "*Korea republic* falls under the ..... group of philosophy",
+        "correct": "oriental"
+    },
+    {
+        "id": 16,
+        "question": "The study of seen and unseen realities is called .....",
+        "correct": "metaphysics"
+    },
+    {
+        "id": 17,
+        "question": "In metaphysics, the *physics* refers to the seen realities while the ..... refers to the aspect of unseen realities",
+        "correct": "meta"
+    },
+    {
+        "id": 18,
+        "question": "The most abstract branch of philosophy is the .....",
+        "correct": "metaphysics"
+    },
+    {
+        "id": 19,
+        "question": "Branches of metaphysics are *_natural philosophy, ontology, philosophy of religion, philosophy of mind and philosophy of_* .....",
+        "correct": "perception"
+    },
+    {
+        "id": 20,
+        "question": "..... is concerned with _the study of existence_",
+        "correct": "Ontology"
+    },
+    {
+        "id": 21,
+        "question": "*Philosophy of religion* evaluates various claims and arguments about the existence of .....",
+        "correct": "God"
+    },
+    {
+        "id": 22,
+        "question": "The doctrines in philosophy of religion are *_Theism, Atheism, Agnoticism, Monotheism and Polytheism_*",
+        "correct": "a",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 23,
+        "question": "*Atheism* states that God exist while *Theism* states that God does not exist",
+        "correct": "b",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 24,
+        "question": "The doctrine which states that the existence of God is not known and can never be known is .....",
+        "correct": "Agnoticism"
+    },
+    {
+        "id": 25,
+        "question": "The doctrine that leads to monotheism and polytheism is .....",
+        "correct": "Theism"
+    },
+    {
+        "id": 26,
+        "question": "Judaism practice _polytheism doctrine_",
+        "correct": "b",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 27,
+        "question": "*Hinduism* is to Indians while *Zoroastrianism* is to .....",
+        "correct": "Chinese"
+    },
+    {
+        "id": 28,
+        "question": "Philosophy of mind attempt to reconcile the controversy between the *mind* and .....",
+        "correct": "body"
+    },
+    {
+        "id": 29,
+        "question": "The theories under the philosophy of mind are _Monism and Dualism_",
+        "correct": "a",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 30,
+        "question": "In the theory of ....., the mind is seen as *inanimate object* because it cannot be seen or touched",
+        "correct": "Dualism"
+    },
+    {
+        "id": 31,
+        "question": "Perception can be *internal or external*",
+        "correct": "a",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 32,
+        "question": "Internal perception refers to activities that occur inside the body while external occur outside the body",
+        "correct": "a",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 33,
+        "question": "_Fatigue, pain and thinking_ are all examples of internal .....",
+        "correct": "perception"
+    },
+    {
+        "id": 34,
+        "question": "Epistemology is concerned with three questions: \nwhat is knowledge? \nHow do we acquire knowledge? \nAnd what do we know?",
+        "correct": "a",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 35,
+        "question": "..... refer to familiarity gained through experience",
+        "correct": "Knowledge"
+    },
+    {
+        "id": 36,
+        "question": "The byproduct of outcome of research is called .....",
+        "correct": "knowledge"
+    },
+    {
+        "id": 37,
+        "question": "Knowledge can be acquired through three important ways as identified by philosophers namely proportional, personal and ..... knowledge",
+        "correct": "procedural"
+    },
+    {
+        "id": 38,
+        "question": "*Proportional knowledge* makes a declarative statement and is also called _half ..... knowledge_",
+        "correct": "baked"
+    },
+    {
+        "id": 39,
+        "question": "Personal knowledge gives all the information that we need to know about an object and is called ..... knowledge",
+        "correct": "reliable"
+    },
+    {
+        "id": 40,
+        "question": "Knowledge that talks about methods required in performing certain activities involving practical and physical manipulation of objects to get result is called ..... knowledge",
+        "correct": "procedural"
+    },
+    {
+        "id": 41,
+        "question": "..... classified ways of acquiring knowledge into three namely: _discipline of nature, discipline of society and discipline of superior force_",
+        "correct": "Educationists"
+    },
+    {
+        "id": 42,
+        "question": "..... of nature is the same thing as trial and error",
+        "correct": "Discipline"
+    },
+    {
+        "id": 43,
+        "question": "Discipline of superior force means _learning by the hard way as a corrective measure_",
+        "correct": "a",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 44,
+        "question": "There are seven types of knowledge",
+        "correct": "a",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 45,
+        "question": "..... knowledge employs use of reasoning to discover knowledge and it emphasizes the power of intellect",
+        "correct": "Rational"
+    },
+    {
+        "id": 46,
+        "question": "*Empirical knowledge* is the use of senses to discover knowledge",
+        "correct": "a",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 47,
+        "question": "*Empirical knowledge* states that knowledge is the product of experience",
+        "correct": "a",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 48,
+        "question": "The two most celebrated knowledge in philosophy that ..... each other are _rational and empirical_ knowledge",
+        "correct": "oppose"
+    },
+    {
+        "id": 49,
+        "question": "Knowledge that enable man to do _extra ordinary and unimaginable_ things is called ..... knowledge",
+        "correct": "intuitive"
+    },
+    {
+        "id": 50,
+        "question": "..... knowledge is the knowledge possessed by _magicians, spiritualists and Babalawo_.",
+        "correct": "Mystic"
+    },
+    {
+        "id": 51,
+        "question": "The type of knowledge that use strange language only understood by their practitioners, enchantment and incantation is ..... knowledge",
+        "correct": "mystic"
+    },
+    {
+        "id": 52,
+        "question": "*Mystic knowledge* has the problem of .....",
+        "correct": "verifiability"
+    },
+    {
+        "id": 53,
+        "question": "*Revealed knowledge* is the knowledge of God and other spiritual entities as revealed to man by the ..... books",
+        "correct": "Holy"
+    },
+    {
+        "id": 54,
+        "question": "..... knowledge is based on observation and experimentation",
+        "correct": "Scientific"
+    },
+    {
+        "id": 55,
+        "question": "Both scientific and empirical knowledge *do not* rely on the use of senses",
+        "correct": "b",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 56,
+        "question": "According to ....., for anything to exist, it must be _tested and proved_",
+        "correct": "scientists"
+    },
+    {
+        "id": 57,
+        "question": "*Folk knowledge* is the same thing as common experience acquired on daily basis",
+        "correct": "a",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 58,
+        "question": "Most of the knowledge acquired by man comes from folk knowledge",
+        "correct": "a",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 59,
+        "question": "Man can learn from _Apriori and Aposteriori_ .....",
+        "correct": "knowledge"
+    },
+    {
+        "id": 60,
+        "question": "..... knowledge exist independent of experience while _*Aposteriori knowledge*_ depends on experience",
+        "correct": "Apriori"
+    },
+    {
+        "id": 61,
+        "question": "*Apriori knowledge* is rational knowledge while ..... knowledge is empirical knowledge",
+        "correct": "Aposteriori"
+    },
+    {
+        "id": 62,
+        "question": "The question of what do we know? \nIs answered by the theory of .....",
+        "correct": "Skepticism"
+    },
+    {
+        "id": 63,
+        "question": "*Theory of skepticism* states that it is possible for man to acquire knowledge",
+        "correct": "b",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 64,
+        "question": "A person with _the habit of doubting_ is called a .....",
+        "correct": "skeptic"
+    },
+    {
+        "id": 65,
+        "question": "Aesthetics is the study of sensory and emotional values otherwise called *judgment of sentiments*",
+        "correct": "a",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 66,
+        "question": "In the study of *_aesthetics_*, we say that beauty is ..... that is based on individual's perception",
+        "correct": "relative"
+    },
+    {
+        "id": 67,
+        "question": "The 5 factors that affects ..... judgment are: \nculture, \nemotion, \nsenses, \ndesirability and \nintellectual capacity",
+        "correct": "aesthetic"
+    },
+    {
+        "id": 68,
+        "question": "The essential pillars of ..... are _thinking and reasoning_",
+        "correct": "logics"
+    },
+    {
+        "id": 69,
+        "question": "..... is the tool that prepare the man for _critical and independent_ thinking",
+        "correct": "Logic"
+    },
+    {
+        "id": 70,
+        "question": "There are *three forms* of logic",
+        "correct": "a",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 71,
+        "question": "*Formal logic* makes extensive use of _language_ while *Symbolic logic* employs the use of _signs and symbols_ to establishment truth of argument",
+        "correct": "a",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 72,
+        "question": "*Informal logic* is used to clarify _confusing terms and concepts_",
+        "correct": "a",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 73,
+        "question": "The *properties of logic* are _consistency, soundness and ....._",
+        "correct": "completeness"
+    },
+    {
+        "id": 74,
+        "question": "Reasonings are of two major types, _deductive_ and .....",
+        "correct": "inductive"
+    },
+    {
+        "id": 75,
+        "question": "*Inductive reasoning* begins with general statement and end in a particular conclusion while *Deductive reasoning* begins with specific statement to end in general conclusion",
+        "correct": "b",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 76,
+        "question": "There are three laws of ..... namely: \n_law of contradiction, \nlaw of identity_, and \n_law of excluded middle_.",
+        "correct": "thoughts"
+    },
+    {
+        "id": 77,
+        "question": "The law of *excluded middle* says that _in every logical statement, there should be no middle position_",
+        "correct": "a",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 78,
+        "question": "..... is the theory of _morality_",
+        "correct": "Ethics"
+    },
+    {
+        "id": 79,
+        "question": "..... is the study of _value systems_",
+        "correct": "Axiology"
+    },
+    {
+        "id": 80,
+        "question": "..... is the theory that sees man as *Homo-sapien* that is having capacity to do good and avoid evil",
+        "correct": "Ethics"
+    },
+    {
+        "id": 81,
+        "question": "Ethics is seen as the basic principle of life which enables man to live a self moral life",
+        "correct": "a",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 82,
+        "question": "The three types of *ethics* are \n_Meta ethics, \n..... ethics_ and \n_Applied ethics_",
+        "correct": "Normative"
+    },
+    {
+        "id": 83,
+        "question": "*Meta ethics* study _meaning and origin of our ethical principles_.",
+        "correct": "a",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 84,
+        "question": "..... ethics has to do with the quality of life of man",
+        "correct": "Normative"
+    },
+    {
+        "id": 85,
+        "question": "..... ethics has two theories namely: _virtue theory_ and _duty theory_",
+        "correct": "Normative"
+    },
+    {
+        "id": 86,
+        "question": "Four virtues that enables man to live a sound moral life are _wisdom_, ....., _temperance_ and _justice_",
+        "correct": "courage"
+    },
+    {
+        "id": 87,
+        "question": "Three duties we are to perform are duty towards _God_, duty towards _others_ and duty towards .....",
+        "correct": "self"
+    },
+    {
+        "id": 88,
+        "question": "Our duty towards others include _respect, love, and being each others keeper_.",
+        "correct": "a",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 89,
+        "question": "..... ethics is the branch of ethics _used to solve matters of urgent importance, critical issues that require saving human life_",
+        "correct": "Applied"
+    },
+    {
+        "id": 90,
+        "question": "Some of the issues where ..... ethics is used to solve include _abortion_ and _euthanasia_",
+        "correct": "applied"
+    },
+    {
+        "id": 91,
+        "question": "*Western philosophy* is also called ..... philosophy",
+        "correct": "European"
+    },
+    {
+        "id": 92,
+        "question": "The two major approaches or perspectives to philosophy are _academic perspective_ and ..... perspective",
+        "correct": "personal"
+    },
+    {
+        "id": 93,
+        "question": "..... sciences includes _Chemistry, Physics, Biology, Mathematics and Geology_",
+        "correct": "Natural"
+    },
+    {
+        "id": 94,
+        "question": "..... stands for Traditional African Religion",
+        "correct": "TAR"
+    },
+    {
+        "id": 95,
+        "question": "*Logic* helps to avoid _errors, for clarity of expression, in decision making, in evaluation of lengthy argument, correct reasoning and creates power of persuasion_",
+        "correct": "a",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 96,
+        "question": "The folloeing are founding fathers of first generation history of philosophy, _except_: ",
+        "correct": "c",
+        "options": {
+            "a": "Thales (624 BC)",
+            "b": "Anaxemes (585 BC)",
+            "c": "Aristotle (384BC)",
+            "d": "Pythagoras (580 BC)",
+            "e": "Heraclitus (540 BC)"
+        }
+    },
+    {
+        "id": 97,
+        "question": "..... says that the most fundamental thing in the universe is _water_ and he predicted eclipse in 585 BC (sun eclipse)",
+        "correct": "Thales"
+    },
+    {
+        "id": 98,
+        "question": "..... was born in the year eclipse occurred and he said that _the most important thing in the world is air_",
+        "correct": "Anaxemes"
+    },
+    {
+        "id": 99,
+        "question": "..... said all things exist in _number_ and the most important number is _10_ because it covers all other original numbers.",
+        "correct": "Pythagoras"
+    },
+    {
+        "id": 100,
+        "question": "The philosopher that is a _religious person and a mathematician_ is called .....",
+        "correct": "Pythagoras"
+    },
+    {
+        "id": 101,
+        "question": "..... says at death, _human soul continue in journey to purity_.",
+        "correct": "Pythagoras"
+    },
+    {
+        "id": 102,
+        "question": "*Heraclitus* said that everything is in a state of *rest*.",
+        "correct": "b",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 103,
+        "question": "The following are philosophers in second generation history of philosophy, except:",
+        "correct": "a",
+        "options": {
+            "a": "Heraclitus (540 BC)",
+            "b": "Socrates (469 BC)",
+            "c": "Aristotle (384BC)",
+            "d": "Plato (429 BC)"
+        }
+    },
+    {
+        "id": 104,
+        "question": "The first philosopher to discuss the study and importance of knowledge is Socrates.",
+        "correct": "a",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 105,
+        "question": "*Plato* categorized individuals into three in the society namely: _guardians, producers_ and .....",
+        "correct": "rulers"
+    },
+    {
+        "id": 106,
+        "question": "*Aristotle* says that all men are ..... animals",
+        "correct": "political"
+    },
+    {
+        "id": 107,
+        "question": "*Symbolic logic* is completely empty of knowledge.",
+        "correct": "a",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 108,
+        "question": "In *inductive reasoning*, the conclusion must agree with the premise (body of argument).",
+        "correct": "a",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 109,
+        "question": "*Logic* help in the avoidance of fallacies",
+        "correct": "a",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 110,
+        "question": "..... is the sum total of information available to man",
+        "correct": "Knowledge"
+    },
+    {
+        "id": 111,
+        "question": "..... knowledge is known as _familiarity by acquaintance_",
+        "correct": "Personal"
+    },
+    {
+        "id": 112,
+        "question": "*Procedural knowledge* is _practical_ while ..... knowledge is _theoretical_",
+        "correct": "proportional"
+    },
+    {
+        "id": 113,
+        "question": "*Discipline of society* is the same as learning by .....",
+        "correct": "imitation"
+    },
+    {
+        "id": 114,
+        "question": "The conditions to acquire knowledge are _truth, belief_ and .....",
+        "correct": "justification"
+    },
+    {
+        "id": 115,
+        "question": "*Sensory knowledge* is _empirical_ while *reasoning* is _rational knowledge_",
+        "correct": "a",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 116,
+        "question": "The ..... books include _Holy Quran and Holy Bible_",
+        "correct": "Holy"
+    },
+    {
+        "id": 117,
+        "question": "The principle of *predestination* is called ..... which _sees man as a helpless being_ and was said by _Richard Reidoff_",
+        "correct": "fatalism"
+    },
+    {
+        "id": 118,
+        "question": "The theory of ..... says that _it is man that determines what happen_ and _man is free to choose any action of his choice_",
+        "correct": "existentialism"
+    },
+    {
+        "id": 119,
+        "question": "..... says that _logic and mathematics_ are two areas of knowledge that always gives man reliable information",
+        "correct": "Rationalism"
+    },
+    {
+        "id": 120,
+        "question": "The pillar of *scientific theory* is .....",
+        "correct": "empiricism"
+    },
+    {
+        "id": 121,
+        "question": "The founding father of materials is ..... Marx",
+        "correct": "Karl"
+    },
+    {
+        "id": 122,
+        "question": "*Pragmatism* believes in action and is concerned with testing facts and looking forward to result",
+        "correct": "a",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 123,
+        "question": "The theory of happiness and satisfaction is .....",
+        "correct": "utilitarianism"
+    },
+    {
+        "id": 124,
+        "question": "The principle that says _for every event that occur there is always a cause_ is called .....",
+        "correct": "Determinism"
+    },
+    {
+        "id": 125,
+        "question": "Determinism says that *cause* is _the primary event_ while ..... is _the secondary event_",
+        "correct": "effect"
+    },
+    {
+        "id": 126,
+        "question": "The theory of pleasure is .....",
+        "correct": "Epicureanism"
+    },
+    {
+        "id": 127,
+        "question": "According to the principle of ....., it is ideas that rule the world",
+        "correct": "idealism"
+    },
+    {
+        "id": 128,
+        "question": "The type of ethics that _deals with norms and values_ is ..... ethics",
+        "correct": "normative"
+    },
+    {
+        "id": 129,
+        "question": "Religions that practice ..... include _Christianity, Islam_ and _Judaism_.",
+        "correct": "monotheism"
+    },
+    {
+        "id": 130,
+        "question": "Hinduism religion is practiced in India.",
+        "correct": "a",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 131,
+        "question": "Jumping, kissing and running are *not* examples of external perception.",
+        "correct": "b",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 132,
+        "question": "Plato said that producers (workers) are _those who work hard to ensure economic survival of the state_.",
+        "correct": "a",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 133,
+        "question": "..... is concerned with the problem of truth",
+        "correct": "Epistemology"
+    },
+    {
+        "id": 134,
+        "question": "*Epistemology* is derived from two Greek words \"*Episteme*\" means ..... and \"*logos*\" means _study_",
+        "correct": "knowledge"
+    },
+    {
+        "id": 135,
+        "question": "There are three types of truth namely _correspondent truth, coherence truth_ and ..... truth",
+        "correct": "pragmatist"
+    },
+    {
+        "id": 136,
+        "question": "..... truth considers the idea of truth _to be an affair of practical experience_",
+        "correct": "Pragmatist"
+    },
+    {
+        "id": 137,
+        "question": "*The five sensory organs* in human body are _smelling, hearing, touch, sight_ and .....",
+        "correct": "taste"
+    },
+    {
+        "id": 138,
+        "question": "The sources of ..... are _sensory experience, reasoning, authority_, and _intuition_",
+        "correct": "knowledge"
+    },
+    {
+        "id": 139,
+        "question": "The three conditions for knowledge are _objective, subjective_ and _evidential_ requirements.",
+        "correct": "a",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 140,
+        "question": "*Aesthetics* is from the Greek word ..... meaning _science of how things are known via the senses_.",
+        "correct": "Aisthetike"
+    },
+    {
+        "id": 141,
+        "question": "The theory with the view that everything is predetermined and what happen is not affected by what we do is .....",
+        "correct": "Fatalism"
+    },
+    {
+        "id": 142,
+        "question": "*Fatalism* sees ..... _as a helpless being_ or _lacks strength or capacity to initiate any action on his own_",
+        "correct": "man"
+    },
+    {
+        "id": 143,
+        "question": "The theory concerned with man, _his question for existence_ and _choice of destiny_ is ....",
+        "correct": "Existentialism"
+    },
+    {
+        "id": 144,
+        "question": "The founders of theory of ..... are _Martin Heideggar_ and _Karl Jasper_",
+        "correct": "Existentialism"
+    },
+    {
+        "id": 145,
+        "question": "For *Idealist philosophers*, _true knowledge_ is desirable from reason alone.",
+        "correct": "a",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 146,
+        "question": "The theory that matters with reality is called .....",
+        "correct": "Materialism"
+    },
+    {
+        "id": 147,
+        "question": "*Materialism* believe in spiritual entities.",
+        "correct": "b",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 148,
+        "question": "The theory that establishes a relationship between event A and event B the effect, is called ..... and was founded by _Bernard Berosky_ and _Heraclitus_",
+        "correct": "Determinism"
+    },
+    {
+        "id": 149,
+        "question": "..... maintain that _our knowledge of external world comes from senses_ and _every knowledge must be a product of experience_",
+        "correct": "Empiricists"
+    },
+    {
+        "id": 150,
+        "question": "The theory of *Skepticism* was formed by _Sophist_ while that of *Epicureanism* was formed by .....",
+        "correct": "Epicurus"
+    }
+]

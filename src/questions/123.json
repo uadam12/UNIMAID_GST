@@ -1,0 +1,1344 @@
+[
+    {
+        "id": 1,
+        "question": "The _flat panel screen_ is also known as",
+        "correct": "b",
+        "options": {
+            "a": "CRT",
+            "b": "LCD",
+            "c": "OCR",
+            "d": "VCD"
+        }
+    },
+    {
+        "id": 2,
+        "question": "The device that the computer uses to keep data is",
+        "correct": "d",
+        "options": {
+            "a": "input device",
+            "b": "output device",
+            "c": "processing device",
+            "d": "storage device"
+        }
+    },
+    {
+        "id": 3,
+        "question": "The first key on the computer keyboard is",
+        "correct": "d",
+        "options": {
+            "a": "Caps Lock",
+            "b": "Delete",
+            "c": "Enter",
+            "d": "Esc"
+        }
+    },
+    {
+        "id": 4,
+        "question": "In which of the following are the storage devices arranged on the basis of lowest to the highest capacity?",
+        "correct": "c",
+        "options": {
+            "a": "CD, DVD, Floppy Disk and Hard Disk",
+            "b": "Floppy Disk, Hard Disk, DVD and CD",
+            "c": "Floppy Disk, CD, DVD and Hard Disk",
+            "d": "Floppy Disk, DVD, CD and Hard Disk"
+        }
+    },
+    {
+        "id": 5,
+        "question": "A pen drive",
+        "correct": "d",
+        "options": {
+            "a": "inputs information",
+            "b": "outputs information",
+            "c": "retrieves information",
+            "d": "stores information"
+        }
+    },
+    {
+        "id": 6,
+        "question": "The main storage medium within the system unit of the computer is the",
+        "correct": "c",
+        "options": {
+            "a": "CD-ROM",
+            "b": "FDD",
+            "c": "HDD",
+            "d": "USB"
+        }
+    },
+    {
+        "id": 7,
+        "question": "To boot a computer is the same as to",
+        "correct": "c",
+        "options": {
+            "a": "shut down the computer",
+            "b": "restart the computer",
+            "c": "start the computer",
+            "d": "stop the computer"
+        }
+    },
+    {
+        "id": 8,
+        "question": "On which bar is the system clock located?",
+        "correct": "c",
+        "options": {
+            "a": "Menu bar",
+            "b": "Scrollbar",
+            "c": "Task bar",
+            "d": "Toolbar"
+        }
+    },
+    {
+        "id": 9,
+        "question": "The command button used to exit windows application is the",
+        "correct": "a",
+        "options": {
+            "a": "close button",
+            "b": "maximize button",
+            "c": "minimize button",
+            "d": "restore button"
+        }
+    },
+    {
+        "id": 10,
+        "question": "An example of an operating system is",
+        "correct": "c",
+        "options": {
+            "a": "CALC",
+            "b": "DISK",
+            "c": "DOS",
+            "d": "WORD"
+        }
+    },
+    {
+        "id": 11,
+        "question": "To copy a file means to",
+        "correct": "c",
+        "options": {
+            "a": "cut the file from the desktop",
+            "b": "delete the file into recycle bin",
+            "c": "make a duplicate of the file",
+            "d": "remove the file from a folder"
+        }
+    },
+    {
+        "id": 12,
+        "question": "Programs that perform specific task for users are refered to as",
+        "correct": "a",
+        "options": {
+            "a": "application software",
+            "b": "computer software",
+            "c": "operating software",
+            "d": "system software"
+        }
+    },
+    {
+        "id": 13,
+        "question": "A group of files are stored in a",
+        "correct": "a",
+        "options": {
+            "a": "folder",
+            "b": "graphic",
+            "c": "text",
+            "d": "word"
+        }
+    },
+    {
+        "id": 14,
+        "question": "The operation whereby the computer manipulates data to produce information is known as",
+        "correct": "b",
+        "options": {
+            "a": "capturing",
+            "b": "processing",
+            "c": "recording",
+            "d": "retrieving"
+        }
+    },
+    {
+        "id": 15,
+        "question": "Which of the following components emits radiation?",
+        "correct": "c",
+        "options": {
+            "a": "Hard disk",
+            "b": "Keyboard",
+            "c": "Mobile phone",
+            "d": "Speaker"
+        }
+    },
+    {
+        "id": 16,
+        "question": "The legal right that does not allow people to copy intellectual property without the permission of the original owner is called",
+        "correct": "a",
+        "options": {
+            "a": "copyright",
+            "b": "freeware",
+            "c": "piracy",
+            "d": "privacy"
+        }
+    },
+    {
+        "id": 17,
+        "question": "Software that presents lessons in a movie-like manner is referred to as",
+        "correct": "b",
+        "options": {
+            "a": "multiplicity",
+            "b": "multimedia",
+            "c": "multipurpose",
+            "d": "multitasking"
+        }
+    },
+    {
+        "id": 18,
+        "question": "The symbos *B, I, U* are commonly used buttons found on the",
+        "correct": "b",
+        "options": {
+            "a": "drawing toolbar",
+            "b": "formatting toolbar",
+            "c": "menu toolbar",
+            "d": "standard toolbar"
+        }
+    },
+    {
+        "id": 19,
+        "question": "Right-clicking a mouse on an open window",
+        "correct": "b",
+        "options": {
+            "a": "creates a new document",
+            "b": "opens a file menu",
+            "c": "opens a new window",
+            "d": "opens a context menu if available"
+        }
+    },
+    {
+        "id": 20,
+        "question": "Which of the following computer keyboard keys is used to delete characters from left to right on-screen?",
+        "correct": "c",
+        "options": {
+            "a": "Alternate",
+            "b": "Backspace",
+            "c": "Delete",
+            "d": "shift"
+        }
+    },
+    {
+        "id": 21,
+        "question": "Which of the following computer keys allows the user to type *upper case letters*?",
+        "correct": "c",
+        "options": {
+            "a": "Alternate key",
+            "b": "Control key",
+            "c": "Caps Lock key",
+            "d": "Num Lock key"
+        }
+    },
+    {
+        "id": 22,
+        "question": "Which of the following keys is used for multiple selection of texts that are not continuous?",
+        "correct": "b",
+        "options": {
+            "a": "Alt",
+            "b": "Ctrl",
+            "c": "Del",
+            "d": "Shift"
+        }
+    },
+    {
+        "id": 23,
+        "question": "When a user clicks within a selected text by holding down the left mouse button, and then transfers the cursor to a different location within the same document, the text will be",
+        "correct": "b",
+        "options": {
+            "a": "cut",
+            "b": "moved",
+            "c": "copied",
+            "d": "deleted"
+        }
+    },
+    {
+        "id": 24,
+        "question": "Which of the following menu titles contains the bullets and numbering command?",
+        "correct": "c",
+        "options": {
+            "a": "Edit menu",
+            "b": "File menu",
+            "c": "Format menu",
+            "d": "Insert menu"
+        }
+    },
+    {
+        "id": 25,
+        "question": "In order to apply *bold* formatting to a section of existing text, the user _must first_",
+        "correct": "d",
+        "options": {
+            "a": "click on the formatting button",
+            "b": "click the shortcut mouse button",
+            "c": "save the document",
+            "d": "select the section to be formatted"
+        }
+    },
+    {
+        "id": 26,
+        "question": "The save command is found under which of the following menu buttons?",
+        "correct": "b",
+        "options": {
+            "a": "Edit",
+            "b": "File",
+            "c": "Insert",
+            "d": "Tools"
+        }
+    },
+    {
+        "id": 27,
+        "question": "Which of the following command buttons is found on the standard toolbar?",
+        "correct": "c",
+        "options": {
+            "a": "Bold",
+            "b": "Bullets",
+            "c": "Redo",
+            "d": "Underlined"
+        }
+    },
+    {
+        "id": 28,
+        "question": "When a text automatically moves to the next line at the end of a margin in a word processing program, it is referred to as",
+        "correct": "b",
+        "options": {
+            "a": "text wrap",
+            "b": "word wrap",
+            "c": "text movement",
+            "d": "word movement"
+        }
+    },
+    {
+        "id": 29,
+        "question": "Which of the following is a tool on the drawing toolbar?",
+        "correct": "a",
+        "options": {
+            "a": "Arrows",
+            "b": "Change Case",
+            "c": "Drop Cap",
+            "d": "Text Direction"
+        }
+    },
+    {
+        "id": 30,
+        "question": "A rectangle can be drawn in word processing application using the",
+        "correct": "d",
+        "options": {
+            "a": "Arrow",
+            "b": "Circle",
+            "c": "Oval",
+            "d": "Square"
+        }
+    },
+    {
+        "id": 31,
+        "question": "The device which is used to produce *hard copies* from personal computers in schools is",
+        "correct": "c",
+        "options": {
+            "a": "photocopier",
+            "b": "monitor",
+            "c": "printer",
+            "d": "scanner"
+        }
+    },
+    {
+        "id": 32,
+        "question": "A computer program that enables users to surf the internet is known as",
+        "correct": "c",
+        "options": {
+            "a": "internet explorer",
+            "b": "navigator",
+            "c": "web browser",
+            "d": "internet surfer"
+        }
+    },
+    {
+        "id": 33,
+        "question": "Word processing is used mainly by",
+        "correct": "d",
+        "options": {
+            "a": "accountants",
+            "b": "artists",
+            "c": "engineers",
+            "d": "secretaries"
+        }
+    },
+    {
+        "id": 34,
+        "question": "Which of the following devices will enable users to get access to the internet connection?",
+        "correct": "b",
+        "options": {
+            "a": "keyboard",
+            "b": "Modem",
+            "c": "Projector",
+            "d": "Scanner"
+        }
+    },
+    {
+        "id": 35,
+        "question": "Transferring data from a remote computer to local computer is referred to as",
+        "correct": "a",
+        "options": {
+            "a": "download",
+            "b": "linkdown",
+            "c": "upload",
+            "d": "linkup"
+        }
+    },
+    {
+        "id": 36,
+        "question": "Specialized programs that assist users to locate information on the internet are called",
+        "correct": "c",
+        "options": {
+            "a": "agents",
+            "b": "internet browsers",
+            "c": "search engines",
+            "d": "web"
+        }
+    },
+    {
+        "id": 37,
+        "question": "Which of the following refers to unsolicited e-mails in the form of advertising and chain letters?",
+        "correct": "c",
+        "options": {
+            "a": "Flaming",
+            "b": "Inbox",
+            "c": "Spam",
+            "d": "Trash"
+        }
+    },
+    {
+        "id": 38,
+        "question": "The software responsible for the management of the basic operations of the computer is the",
+        "correct": "c",
+        "options": {
+            "a": "application program",
+            "b": "device drivers",
+            "c": "operating system",
+            "d": "utility program"
+        }
+    },
+    {
+        "id": 39,
+        "question": "On which of the following toolbars is the print preview button located?",
+        "correct": "d",
+        "options": {
+            "a": "Drawing",
+            "b": "Formatting",
+            "c": "Header and Footer",
+            "d": "Standard"
+        }
+    },
+    {
+        "id": 40,
+        "question": "The intersection of the _8th row_ and the _7th column_ in a spreadsheet application will have the cell reference",
+        "correct": "b",
+        "options": {
+            "a": "8G",
+            "b": "G8",
+            "c": "7H",
+            "d": "H7"
+        }
+    },
+    {
+        "id": 41,
+        "question": "The device that converts computer output into displayed images is the",
+        "correct": "b",
+        "options": {
+            "a": "hard disk",
+            "b": "monitor",
+            "c": "printer",
+            "d": "processor"
+        }
+    },
+    {
+        "id": 42,
+        "question": "The least number of input devices that a computer system can have is",
+        "correct": "b",
+        "options": {
+            "a": "1",
+            "b": "2",
+            "c": "3",
+            "d": "4"
+        }
+    },
+    {
+        "id": 43,
+        "question": "Which of the following devices has the largest storage capacity",
+        "correct": "d",
+        "options": {
+            "a": "Compact disc",
+            "b": "Digital versatile disc",
+            "c": "Floppy disk",
+            "d": "Hard disk"
+        }
+    },
+    {
+        "id": 44,
+        "question": "The device used to ensure a constant flow of power supply to a computer system is the",
+        "correct": "d",
+        "options": {
+            "a": "stabilizer",
+            "b": "step-down transformer",
+            "c": "step-up transformer",
+            "d": "uninterruptible power supply"
+        }
+    },
+    {
+        "id": 45,
+        "question": "The total number of command buttons on the title bar of an opened word processing window is",
+        "correct": "b",
+        "options": {
+            "a": "2",
+            "b": "3",
+            "c": "5",
+            "d": "6"
+        }
+    },
+    {
+        "id": 46,
+        "question": "Processed or transformed facts which are meaningful to the user is called",
+        "correct": "b",
+        "options": {
+            "a": "data",
+            "b": "information",
+            "c": "input",
+            "d": "output"
+        }
+    },
+    {
+        "id": 47,
+        "question": "The following are possible health hazards of prolonged use of the computer system except",
+        "correct": "c",
+        "options": {
+            "a": "back and neck pains",
+            "b": "eye strain",
+            "c": "tuberculosis",
+            "d": "wrist pains"
+        }
+    },
+    {
+        "id": 48,
+        "question": "Which key on the keyboard is used to *erase characters from right to left* in word processing application?",
+        "correct": "a",
+        "options": {
+            "a": "Backspace",
+            "b": "Delete",
+            "c": "Insert",
+            "d": "Pause"
+        }
+    },
+    {
+        "id": 49,
+        "question": "The key on the _*QWERTY*_ keyboard used to produce alphabetic upper case letters is",
+        "correct": "a",
+        "options": {
+            "a": "Caps Lock",
+            "b": "Home",
+            "c": "Num Lock",
+            "d": "Tab"
+        }
+    },
+    {
+        "id": 50,
+        "question": "Given sizes and designs of letters, numbers and symbols that are displayed in a word processing document are referred to as",
+        "correct": "c",
+        "options": {
+            "a": "align",
+            "b": "bullet",
+            "c": "font",
+            "d": "indent"
+        }
+    },
+    {
+        "id": 51,
+        "question": "Which of the following is a tool on the drawing toolbar of a word processing program?",
+        "correct": "d",
+        "options": {
+            "a": "Align",
+            "b": "Bold",
+            "c": "View",
+            "d": "Oval"
+        }
+    },
+    {
+        "id": 52,
+        "question": "When an image is copied, it first goes to the",
+        "correct": "b",
+        "options": {
+            "a": "clip art",
+            "b": "clipboard",
+            "c": "my document",
+            "d": "recycle bin"
+        }
+    },
+    {
+        "id": 53,
+        "question": "To press the letter J, which finger is appropriate to use on a *QWERTY keyboard*?",
+        "correct": "c",
+        "options": {
+            "a": "Left index finger",
+            "b": "Left middle finger",
+            "c": "Right index finger",
+            "d": "Right middle finger"
+        }
+    },
+    {
+        "id": 54,
+        "question": "The internet is a",
+        "correct": "a",
+        "options": {
+            "a": "global network of computers",
+            "b": "government agency that links computers",
+            "c": "software for designing programs",
+            "d": "special network of computers in an office"
+        }
+    },
+    {
+        "id": 55,
+        "question": "The computer equivalence of a sheet of paper divided into rows and columns in the office suite is called",
+        "correct": "c",
+        "options": {
+            "a": "database",
+            "b": "electronic sheet",
+            "c": "spreadsheet",
+            "d": "word processor"
+        }
+    },
+    {
+        "id": 56,
+        "question": "The temporary working memory of a computer system is the",
+        "correct": "c",
+        "options": {
+            "a": "arithmetic logic unit",
+            "b": "flash memory",
+            "c": "random access memory",
+            "d": "read only memory"
+        }
+    },
+    {
+        "id": 57,
+        "question": "The software responsible for the management of the basic operations of the computer is the",
+        "correct": "c",
+        "options": {
+            "a": "application program",
+            "b": "device drivers",
+            "c": "operating system",
+            "d": "utility program"
+        }
+    },
+    {
+        "id": 58,
+        "question": "The bar on the desktop which displays opened applications and other icons is referred to as",
+        "correct": "b",
+        "options": {
+            "a": "scroll bar",
+            "b": "taskbar",
+            "c": "title bar",
+            "d": "toolbar"
+        }
+    },
+    {
+        "id": 59,
+        "question": "The act of pressing a computer mouse button twice quickly without moving the mouse is termed",
+        "correct": "a",
+        "options": {
+            "a": "double clicking",
+            "b": "right clicking",
+            "c": "single clicking",
+            "d": "normal clicking"
+        }
+    },
+    {
+        "id": 60,
+        "question": "The following are good practices in the computing environment except",
+        "correct": "d",
+        "options": {
+            "a": "copyrighting of software",
+            "b": "designing of cards",
+            "c": "networking of computers",
+            "d": "pirating of software"
+        }
+    },
+    {
+        "id": 61,
+        "question": "Which of the following software can be used to enhance teaching and learning through the use of pictures, video and sound?",
+        "correct": "a",
+        "options": {
+            "a": "Multimedia software",
+            "b": "Network software",
+            "c": "Programming software",
+            "d": "Utility software"
+        }
+    },
+    {
+        "id": 62,
+        "question": "The total number of keys on a standard _QWERTY keyboard_ is",
+        "correct": "a",
+        "options": {
+            "a": "69",
+            "b": "104",
+            "c": "108",
+            "d": "116"
+        }
+    },
+    {
+        "id": 63,
+        "question": "Which of the following is a valid folder name?",
+        "correct": "b",
+        "options": {
+            "a": "Black/Stars",
+            "b": "Black_Stars",
+            "c": "Black:Stars",
+            "d": "Black*"
+        }
+    },
+    {
+        "id": 64,
+        "question": "A program on the computer which enables users to type letters to friends is the .....",
+        "correct": "d",
+        "options": {
+            "a": "browser",
+            "b": "spreadsheet",
+            "c": "utility",
+            "d": "word processor"
+        }
+    },
+    {
+        "id": 65,
+        "question": "The command that enables the user to save a previously saved document under a new name is",
+        "correct": "d",
+        "options": {
+            "a": "new",
+            "b": "rename",
+            "c": "save",
+            "d": "save as"
+        }
+    },
+    {
+        "id": 66,
+        "question": "The standard toolbar contains buttons that",
+        "correct": "c",
+        "options": {
+            "a": "close and resize windows",
+            "b": "control page margins and tabs",
+            "c": "perform the most common tasks",
+            "d": "help users to navigate through the document"
+        }
+    },
+    {
+        "id": 67,
+        "question": "To see exactly how the pages of a current document will appear when printed, the command given is the .....",
+        "correct": "c",
+        "options": {
+            "a": "page setup command",
+            "b": "print command",
+            "c": "print preview command",
+            "d": "view command"
+        }
+    },
+    {
+        "id": 68,
+        "question": "A tool for locating information on the internet is the",
+        "correct": "c",
+        "options": {
+            "a": "database engine",
+            "b": "internet browser",
+            "c": "search engine",
+            "d": "web browser"
+        }
+    },
+    {
+        "id": 69,
+        "question": "An entity in a file system which contains a group of files is called a",
+        "correct": "d",
+        "options": {
+            "a": "cabinet",
+            "b": "container",
+            "c": "document",
+            "d": "folder"
+        }
+    },
+    {
+        "id": 70,
+        "question": "The creation of a copy of data on a computer system for safe keeping externally is referred to as .....",
+        "correct": "a",
+        "options": {
+            "a": "data backup",
+            "b": "data entry",
+            "c": "data filtering",
+            "d": "data restoration"
+        }
+    },
+    {
+        "id": 71,
+        "question": "The letter that normally represents the floppy disk in an operating system is",
+        "correct": "a",
+        "options": {
+            "a": "A",
+            "b": "C",
+            "c": "D",
+            "d": "E"
+        }
+    },
+    {
+        "id": 72,
+        "question": "Recycle bin or trash bin contains deleted files and folders from the",
+        "correct": "c",
+        "options": {
+            "a": "floppy disk",
+            "b": "flash disk",
+            "c": "hard disk",
+            "d": "zip disk"
+        }
+    },
+    {
+        "id": 73,
+        "question": "Keys on a computer keyboard which are used to move the cursor in a specified direction are called",
+        "correct": "a",
+        "options": {
+            "a": "arrow keys",
+            "b": "function keys",
+            "c": "shift keys",
+            "d": "special purpose keys"
+        }
+    },
+    {
+        "id": 74,
+        "question": "To underline a selected text in a word processing program, the keys used are",
+        "correct": "a",
+        "options": {
+            "a": "Ctrl + U",
+            "b": "Shift + U",
+            "c": "Alt + U",
+            "d": "Del + U"
+        }
+    },
+    {
+        "id": 75,
+        "question": "Double clicking on a word in a word processing program selects the",
+        "correct": "d",
+        "options": {
+            "a": "document",
+            "b": "paragraph",
+            "c": "sentence",
+            "d": "word"
+        }
+    },
+    {
+        "id": 76,
+        "question": "All of the following are reasons for using ICT in education except",
+        "correct": "a",
+        "options": {
+            "a": "forcing students to learn at others' pace",
+            "b": "increasing learner motivation and engagement",
+            "c": "facilitating the acquisition of basic skills in subject areas",
+            "d": "enhancing teaching through the use of presentation software"
+        }
+    },
+    {
+        "id": 77,
+        "question": "In word processing program, lines, block arrows and flow charts are found on which of the following toolbars?",
+        "correct": "a",
+        "options": {
+            "a": "Drawing",
+            "b": "Formatting",
+            "c": "Picture",
+            "d": "Standard"
+        }
+    },
+    {
+        "id": 78,
+        "question": "Which program icon on the desktop leads to the disk drives",
+        "correct": "b",
+        "options": {
+            "a": "Internet Explorer",
+            "b": "My Computer",
+            "c": "My Document",
+            "d": "My Network Places"
+        }
+    },
+    {
+        "id": 79,
+        "question": "Which of the following terms refers to unsolicited emails in the form of advertising or chain letters?",
+        "correct": "c",
+        "options": {
+            "a": "Compose",
+            "b": "Inbox",
+            "c": "Spam",
+            "d": "Trash"
+        }
+    },
+    {
+        "id": 80,
+        "question": "Computer virus is capable of",
+        "correct": "d",
+        "options": {
+            "a": "enhancing the contents of a file",
+            "b": "maintaining the computer system",
+            "c": "making the work of the computer easy",
+            "d": "slowing down the computer system performance"
+        }
+    },
+    {
+        "id": 81,
+        "question": "The *most* common means by which data are input into the computer is through the",
+        "correct": "b",
+        "options": {
+            "a": "mouse",
+            "b": "keyboard",
+            "c": "microphone",
+            "d": "joystick"
+        }
+    },
+    {
+        "id": 82,
+        "question": "Computer devices such as _mouse, trackpad and joystick_ are referred to as",
+        "correct": "b",
+        "options": {
+            "a": "Output devices",
+            "b": "Pointing devices",
+            "c": "Standard devices",
+            "d": "Internal devices"
+        }
+    },
+    {
+        "id": 83,
+        "question": "The *flat panel screen* is also known as",
+        "correct": "a",
+        "options": {
+            "a": "LCD",
+            "b": "VCD",
+            "c": "CRT",
+            "d": "OCR"
+        }
+    },
+    {
+        "id": 84,
+        "question": "Which of the following is a storage medium?",
+        "correct": "d",
+        "options": {
+            "a": "Mouse",
+            "b": "Printer",
+            "c": "Keyboard",
+            "d": "Flash memory"
+        }
+    },
+    {
+        "id": 85,
+        "question": "The two components of the personal computer main memory are",
+        "correct": "b",
+        "options": {
+            "a": "RAM and CU",
+            "b": "RAM and ROM",
+            "c": "ROM and CU",
+            "d": "ALU and CU"
+        }
+    },
+    {
+        "id": 86,
+        "question": "Which of the following devices has the *largest* storage capacity?",
+        "correct": "d",
+        "options": {
+            "a": "Digital versatile disc",
+            "b": "Compact disc",
+            "c": "Floppy disk",
+            "d": "Hard disk"
+        }
+    },
+    {
+        "id": 87,
+        "question": "The process that starts an operating system when a computer system is turned on is referred to as",
+        "correct": "c",
+        "options": {
+            "a": "loading",
+            "b": "start up",
+            "c": "booting",
+            "d": "shut down"
+        }
+    },
+    {
+        "id": 88,
+        "question": "Which of the following statements is not true?",
+        "correct": "d",
+        "options": {
+            "a": "Remove all removable storage media or device from the system unit when switching on a computer.",
+            "b": "Shut down a computer system before removing the electric power supply",
+            "c": "Random access memory is part of main memory",
+            "d": "The application software must be loaded before an operating system can be loaded when a computer system is switched on."
+        }
+    },
+    {
+        "id": 89,
+        "question": "*GUI* stands for",
+        "correct": "c",
+        "options": {
+            "a": "Grand User Interface",
+            "b": "General User Interface",
+            "c": "Graphic User Interface",
+            "d": "Graphical User Interrupt"
+        }
+    },
+    {
+        "id": 90,
+        "question": "The software that manages the communication between the hardware and the application software of a computer system is called",
+        "correct": "c",
+        "options": {
+            "a": "open office",
+            "b": "Microsoft office",
+            "c": "operating system",
+            "d": "internet"
+        }
+    },
+    {
+        "id": 91,
+        "question": "Windows organizes information on computers using a",
+        "correct": "a",
+        "options": {
+            "a": "directory",
+            "b": "folder",
+            "c": "subdirectory",
+            "d": "disk"
+        }
+    },
+    {
+        "id": 92,
+        "question": "Which of the following are valid folder names?",
+        "statements": [
+            "I. Black/Stars",
+            "II. Black : Stars",
+            "III. Black_Stars",
+            "IV. Black Stars"
+        ],
+        "correct": "c",
+        "options": {
+            "a": "I and II only",
+            "b": "II and III only",
+            "c": "III and IV only",
+            "d": "II and IV only"
+        }
+    },
+    {
+        "id": 93,
+        "question": "The sequence of the stages in the information processing cycle is:",
+        "statements": [
+            "I. Processing",
+            "II. Data",
+            "III. Information"
+        ],
+        "correct": "c",
+        "options": {
+            "a": "I, II and III",
+            "b": "II, III and I",
+            "c": "II, I and III",
+            "d": "III, I and II"
+        }
+    },
+    {
+        "id": 94,
+        "question": "Which of the following is not a safety measure to consider in the ICT environment?",
+        "correct": "c",
+        "options": {
+            "a": "Not overloading a socket",
+            "b": "Sitting in a correct posture behind the computer",
+            "c": "Allowing the battery of a laptop to run-down before charging",
+            "d": "Avoid plugging computers in damaged sockets"
+        }
+    },
+    {
+        "id": 95,
+        "question": "The legal right to control the production and selling of a book, play, film and software is known as",
+        "correct": "b",
+        "options": {
+            "a": "production right",
+            "b": "copyright",
+            "c": "trade mark",
+            "d": "patent"
+        }
+    },
+    {
+        "id": 96,
+        "question": "Which of the following can bring enhanced learning experience to the classroom through the use of pictures, videos and sound?",
+        "correct": "b",
+        "options": {
+            "a": "Software application",
+            "b": "Multimedia software",
+            "c": "Learning software",
+            "d": "Teaching and learning software"
+        }
+    },
+    {
+        "id": 97,
+        "question": "Which of the following is an effect of a loud ringing tone of a mobile phone?",
+        "correct": "d",
+        "options": {
+            "a": "Wrist pain",
+            "b": "Neck pain",
+            "c": "Headache",
+            "d": "Hearing impairment"
+        }
+    },
+    {
+        "id": 98,
+        "question": "To which of the following activities is ICT useful?",
+        "statements": [
+            "I. Education",
+            "II. Farming",
+            "III. Medicine"
+        ],
+        "correct": "d",
+        "options": {
+            "a": "I and II only",
+            "b": "I and III only",
+            "c": "II and III only",
+            "d": "I, II and III"
+        }
+    },
+    {
+        "id": 99,
+        "question": "Which of the following keys are frequently used in our daily typing work on a computer system?",
+        "statements": [
+            "I. Enter key",
+            "II. Space Bar",
+            "III. Print Screen",
+            "IV. Delete Key"
+        ],
+        "correct": "c",
+        "options": {
+            "a": "I, II, III and IV",
+            "b": "I, II and III only",
+            "c": "I, II and IV only",
+            "d": "II, III and IV only"
+        }
+    },
+    {
+        "id": 100,
+        "question": "During typing lessons, computer users are supposed to use",
+        "correct": "d",
+        "options": {
+            "a": "5 fingers",
+            "b": "6 fingers",
+            "c": "8 fingers",
+            "d": "10 fingers"
+        }
+    },
+    {
+        "id": 101,
+        "question": "The most appropriate finger required to type the letter F on a standard _QWERTY_ computer keyboard is the",
+        "correct": "c",
+        "options": {
+            "a": "left middle finger",
+            "b": "right middle finger",
+            "c": "left index finger",
+            "d": "right index finger"
+        }
+    },
+    {
+        "id": 102,
+        "question": "In the absence of a mouse, which of the following devices could be used to perform its functions?",
+        "correct": "c",
+        "options": {
+            "a": "Scanner",
+            "b": "Webcam",
+            "c": "Keyboard",
+            "d": "Microphone"
+        }
+    },
+    {
+        "id": 103,
+        "question": "In typing a class assignment given by a Ghanaian Language teacher using the computer, which of the following application programs will be appropriate to use by the student?",
+        "correct": "b",
+        "options": {
+            "a": "Spread sheet program",
+            "b": "Word processing program",
+            "c": "Database program",
+            "d": "Graphical program"
+        }
+    },
+    {
+        "id": 104,
+        "question": "A key on a keyboard of a computer has two symbols on it, top and down. Which of the following procedures will be appropriate to use to get the top key?",
+        "correct": "a",
+        "options": {
+            "a": "Hold down the Shift key and press the identified key",
+            "b": "Hold down the Alt key and press the identified key",
+            "c": "Hold down the Ctrl key and press the identified key",
+            "d": "Hold down the Del key and press the identified key"
+        }
+    },
+    {
+        "id": 105,
+        "question": "To save a previously saved document under a new name, use the",
+        "correct": "d",
+        "options": {
+            "a": "save command",
+            "b": "rename command",
+            "c": "resave command",
+            "d": "save as command"
+        }
+    },
+    {
+        "id": 106,
+        "question": "To bold a text in a word processing environment, first select the text, then use the shortcut keys",
+        "correct": "a",
+        "options": {
+            "a": "Ctrl + B",
+            "b": "Shift + B",
+            "c": "Alt + B",
+            "d": "Insert + B"
+        }
+    },
+    {
+        "id": 107,
+        "question": "The symbols *B, I, U* are commonly used buttons found on the",
+        "correct": "c",
+        "options": {
+            "a": "standard toolbar",
+            "b": "menu bar",
+            "c": "formatting toolbar",
+            "d": "drawing toolbar"
+        }
+    },
+    {
+        "id": 108,
+        "question": "Which of the following is not a tool on the drawing toolbar?",
+        "correct": "c",
+        "options": {
+            "a": "Arc",
+            "b": "Oval",
+            "c": "Drop cap",
+            "d": "Lines"
+        }
+    },
+    {
+        "id": 109,
+        "question": "Which of the following is not a toolbar?",
+        "correct": "d",
+        "options": {
+            "a": "Drawing toolbar",
+            "b": "Picture toolbar",
+            "c": "Word Art toolbar",
+            "d": "Word Wrap toolbar"
+        }
+    },
+    {
+        "id": 110,
+        "question": "*Lines, block arrows and flowcharts* are located on the",
+        "correct": "a",
+        "options": {
+            "a": "drawing toolbar",
+            "b": "standard toolbar",
+            "c": "formatting toolbar",
+            "d": "menu bar"
+        }
+    },
+    {
+        "id": 111,
+        "question": "The default orientation for a word processing document is",
+        "correct": "b",
+        "options": {
+            "a": "landscape",
+            "b": "portrait",
+            "c": "legal",
+            "d": "A4"
+        }
+    },
+    {
+        "id": 112,
+        "question": "To preview a document before printing is necessary because",
+        "correct": "b",
+        "options": {
+            "a": "it displays the name of the document",
+            "b": "it displays how the document will look like after printing",
+            "c": "it displays copy and paste of the document",
+            "d": "it formats the document"
+        }
+    },
+    {
+        "id": 113,
+        "question": "A computer program that enables users to surf the internet is known as",
+        "correct": "b",
+        "options": {
+            "a": "internet surfer",
+            "b": "internet browser",
+            "c": "web surfer",
+            "d": "web navigator"
+        }
+    },
+    {
+        "id": 114,
+        "question": "A teacher using the internet decided to send an electronic mail to Junior High School Students in Ghana. Which of the following will the teacher use to accomplish his/her mission?",
+        "correct": "c",
+        "options": {
+            "a": "Website address",
+            "b": "Data file address",
+            "c": "E-mail address",
+            "d": "Modern address"
+        }
+    },
+    {
+        "id": 115,
+        "question": "In e-mail context, what does _*bcc*_ stand for?",
+        "correct": "c",
+        "options": {
+            "a": "Blank carbon copy",
+            "b": "Bulk carbon copy",
+            "c": "Blind carbon copy",
+            "d": "Backup carbon copy"
+        }
+    },
+    {
+        "id": 116,
+        "question": "The world wide network that makes electronic information available to users is also known as",
+        "correct": "b",
+        "options": {
+            "a": "site",
+            "b": "web",
+            "c": "browser",
+            "d": "map"
+        }
+    },
+    {
+        "id": 117,
+        "question": "Transferring data from a remote computer to a local computer is referred to as",
+        "correct": "a",
+        "options": {
+            "a": "downloading",
+            "b": "downlinking",
+            "c": "uploading",
+            "d": "uplinking"
+        }
+    },
+    {
+        "id": 118,
+        "question": "A tool for locating information on the internet is the",
+        "correct": "c",
+        "options": {
+            "a": "universal engine",
+            "b": "database engine",
+            "c": "search engine",
+            "d": "deep web"
+        }
+    },
+    {
+        "id": 119,
+        "question": "A mathematical calculation in a spreadsheet is called",
+        "correct": "b",
+        "options": {
+            "a": "label",
+            "b": "formula",
+            "c": "number",
+            "d": "value"
+        }
+    },
+    {
+        "id": 120,
+        "question": "Which of the following features in a browser enables users to fetch the latest copy of a web page?",
+        "correct": "a",
+        "options": {
+            "a": "Refresh",
+            "b": "Forward",
+            "c": "Backward",
+            "d": "Stop"
+        }
+    }
+]

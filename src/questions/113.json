@@ -1,0 +1,1139 @@
+[
+    {
+        "id": 1,
+        "question": "Polluted water is desirable for aquatics.",
+        "correct": "b",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 2,
+        "question": "The act that students used to pass exam illegally is?",
+        "correct": "Malpractice"
+    },
+    {
+        "id": 3,
+        "question": "Nigeria lies at the extreme inner corner of the gulf of ?",
+        "correct": "Guinea"
+    },
+    {
+        "id": 4,
+        "question": "Nigeria was divided into protectorates, the protectorates were further divided into?",
+        "correct": "Province"
+    },
+    {
+        "id": 5,
+        "question": "British divided Nigeria to protectorate, then to province, then to ?",
+        "correct": "Units"
+    },
+    {
+        "id": 6,
+        "question": "Nigeria has approximately 250 ethnic groups.",
+        "correct": "a",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 7,
+        "question": "Newe was father of nationalism.",
+        "correct": "b",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 8,
+        "question": "First school in life is?",
+        "correct": "Home"
+    },
+    {
+        "id": 9,
+        "question": "*ECOWAS* is only for English speaking countries.",
+        "correct": "b",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 10,
+        "question": "Biotic and abiotic are living & dead.",
+        "correct": "a",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 11,
+        "question": "The Nigerian biggest hydropower is found in Niger state.",
+        "correct": "b",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 12,
+        "question": "Art is not part of culture.",
+        "correct": "b",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 13,
+        "question": "Islam has came to northern Nigeria through ..... traders.",
+        "correct": "Arab"
+    },
+    {
+        "id": 14,
+        "question": "What is the oldest mean of communication? Town .....",
+        "correct": "crier"
+    },
+    {
+        "id": 15,
+        "question": "African country is account for Berlin conference based on ..... revolution.",
+        "correct": "Industrial"
+    },
+    {
+        "id": 16,
+        "question": "Nigeria became first Republic in 1960-1963.",
+        "correct": "b",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 17,
+        "question": "J. H. Greenberg classified Nigerian language into 4.",
+        "correct": "b",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 18,
+        "question": "Does our ethics allows us to wear European dressing?",
+        "correct": "b",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 19,
+        "question": "The first population census in Nigeria is in 1963.",
+        "correct": "a",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 20 ,
+        "question": "For country to advance, its citizen has to improve political culture.",
+        "correct": "a",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 21,
+        "question": "Nigeria was colonized by British while Tunisia was colonized by French.",
+        "correct": "a",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 22,
+        "question": "..... means: _Nigerian National Democratic Party_",
+        "correct": "NNDP"
+    },
+    {
+        "id": 23,
+        "question": "The first political party in Nigeria was?",
+        "correct": "NNDP"
+    },
+    {
+        "id": 24,
+        "question": "Nigeria need a good ...... not a ruler",
+        "correct": "Leader"
+    },
+    {
+        "id": 25,
+        "question": "Berlin conference took place in 1884-.....",
+        "correct": "1885"
+    },
+    {
+        "id": 26,
+        "question": "Tin is found in.",
+        "correct": "Jos"
+    },
+    {
+        "id": 27,
+        "question": "Coal is found in Enugu and .....",
+        "correct": "Anambara"
+    },
+    {
+        "id": 28,
+        "question": "Northern part of Nigeria is characterized by ..... savannah.",
+        "correct": "Sahel"
+    },
+    {
+        "id": 29,
+        "question": "Hausa is a lingua franca in Enugu.",
+        "correct": "b",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 30,
+        "question": "Lingua franca in Nigeria is?",
+        "correct": "English"
+    },
+    {
+        "id": 31,
+        "question": "The major trade for the people in savannah zone is:",
+        "correct": "d",
+        "options": {
+            "a": "Hunting",
+            "b": "Farming",
+            "c": "Trading",
+            "d": "Farming and Trading"
+        }
+    },
+    {
+        "id": 32,
+        "question": "Karl max was born in?",
+        "correct": "1818"
+    },
+    {
+        "id": 33,
+        "question": "Leather was started in ..... Land",
+        "correct": "Hausa"
+    },
+    {
+        "id": 34,
+        "question": "Islam introduced into Nigeria in: ..... century",
+        "correct": "11th"
+    },
+    {
+        "id": 35,
+        "question": "Jihad in sokoto was done in 19th century by:",
+        "correct": "b",
+        "options": {
+            "a": "Sultan Muhammad Bello.",
+            "b": "Sheikh Usman Bin Fodiyo.",
+            "c": "Sheikh Inyaas.",
+            "d": "Sheikh Dahiru Bauchi."
+        }
+    },
+    {
+        "id": 36,
+        "question": "Environmental pollution leads to fire flame.",
+        "correct": "a",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 37,
+        "question": "Abolition of slave trade lead to the introduction of ..... trade",
+        "correct": "Legitimate"
+    },
+    {
+        "id": 38,
+        "question": "The Berlin conference was conveyed by Otto von .....",
+        "correct": "Bismarck"
+    },
+    {
+        "id": 39,
+        "question": "..... is characterize by open land and tall grasses.",
+        "correct": "Savannah"
+    },
+    {
+        "id": 40,
+        "question": "The sahel peoples depend on ..... as a source of economy.",
+        "correct": "Farming"
+    },
+    {
+        "id": 41,
+        "question": "Discipline can be defined as? ..... and self control",
+        "correct": "Orderliness"
+    },
+    {
+        "id": 42,
+        "question": "Nigeria as entity became reality in 1914",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "correct": "a"
+    },
+    {
+        "id": 43,
+        "question": "Niger Delter violence is as a result of",
+        "options": {
+            "a": "Oil spillage",
+            "b": "Sociis economic cross",
+            "c": "Selfishness"
+        },
+        "correct": "c"
+    },
+    {
+        "id": 44,
+        "question": "Borno empire was divided into",
+        "options": {
+            "a": "Sections",
+            "b": "Units",
+            "c": "Provinces",
+            "d": "Protectorates"
+        },
+        "correct": "b"
+    },
+    {
+        "id": 45,
+        "question": "Constitutional monarchies are associated with?",
+        "options": {
+            "a": "Cephalopods",
+            "b": "Centralized",
+            "c": "Sedimentary",
+            "d": "None of the above"
+        },
+        "correct": "b"
+    },
+    {
+        "id": 46,
+        "question": "Colonial masters occupied peacefully in ..... land",
+        "correct": "Yoruba"
+    },
+    {
+        "id": 47,
+        "question": "Nigeria as ..... became reality in 1914",
+        "correct": "entity"
+    },
+    {
+        "id": 48,
+        "question": "Civilization aid in the spread of Islam in northern Nigeria.",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "correct": "a"
+    },
+    {
+        "id": 49,
+        "question": "The first Republic of Nigeria was from 1963-1966.",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "correct": "a"
+    },
+    {
+        "id": 50,
+        "question": "France practice the policy of ..... in all its colonies.",
+        "correct": "Assimilation"
+    },
+    {
+        "id": 51,
+        "question": "One of the factor of Berlin conference was: ..... revolution",
+        "correct": "Industrial"
+    },
+    {
+        "id": 52,
+        "question": "African were consulted by Berlin conference.",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "correct": "b"
+    },
+    {
+        "id": 53,
+        "question": "Berlin is the capital of",
+        "correct": "Germany"
+    },
+    {
+        "id": 54,
+        "question": "African used the method of violence and ..... In gain of her independence",
+        "correct": "Nonviolence"
+    },
+    {
+        "id": 55,
+        "question": "Who assigned British to take influence over Nigeria? ..... conference.",
+        "correct": "Berlin"
+    },
+    {
+        "id": 56,
+        "question": "Nigerian geographical zone comprises how many states in each?",
+        "correct": "6"
+    },
+    {
+        "id": 57,
+        "question": "When did Nigeria became a republic state?",
+        "correct": "1963"
+    },
+    {
+        "id": 58,
+        "question": "What happened to British Parliament when Nigeria became republic? Their ..... was ceased.",
+        "correct": "Power"
+    },
+    {
+        "id": 59,
+        "question": "What happened to monarchical system when Nigeria became republic?",
+        "correct": "Abolished"
+    },
+    {
+        "id": 60,
+        "question": "Transparency, accountability & rule of law can only be relevant if there is good .....",
+        "correct": "Government"
+    },
+    {
+        "id": 61,
+        "question": "Nigeria located at: *_Latitude 4°E - 14°N & ..... 3°E - 15°N_*",
+        "correct": "Longitude"
+    },
+    {
+        "id": 62,
+        "question": "What is the 2 horses of court of arm representing? Pride and .....",
+        "correct": "Dignity"
+    },
+    {
+        "id": 63,
+        "question": "What is the super eagle representing?",
+        "correct": "Strength"
+    },
+    {
+        "id": 64,
+        "question": "To what extent can Nigeria be regarded as giant of Africa?",
+        "correct": "Population"
+    },
+    {
+        "id": 65,
+        "question": "Can history allow us to redefine ourselves as a Nation?",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "correct": "a"
+    },
+    {
+        "id": 66,
+        "question": "Is it true to say that exam malpractice can destroy relationship between the parent and institution?",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "correct": "b"
+    },
+    {
+        "id": 67,
+        "question": "The official language that serves as a mean of communication between different languages is called? Lingua .....",
+        "correct": "Franca"
+    },
+    {
+        "id": 68,
+        "question": "When did oil emerged in Nigeria? 1957/.....",
+        "correct": "58"
+    },
+    {
+        "id": 69,
+        "question": "When did oil revolution took place in Nigeria?",
+        "correct": "1975"
+    },
+    {
+        "id": 70,
+        "question": "Why do we consider culture as survival strategy? It ..... man into particular environment.",
+        "correct": "Fix"
+    },
+    {
+        "id": 71,
+        "question": "Is it reasonable to consider moral & sexual laxity as harmful to well-being of society?",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "correct": "a"
+    },
+    {
+        "id": 72,
+        "question": "Mai-tatsine crises was lead by Muhammad .....",
+        "correct": "Marwa"
+    },
+    {
+        "id": 73,
+        "question": "Is there any need for reorientation of our moral values?",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "correct": "a"
+    },
+    {
+        "id": 74,
+        "question": "Is it correct to say political plagiarism is designed to improve standard of government?",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "correct": "b"
+    },
+    {
+        "id": 75,
+        "question": "Moral obligation characters in the precolonial rule were well known & ensured in constitution",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "correct": "b"
+    },
+    {
+        "id": 76,
+        "question": "Can we attribute the departure of cultural characteristics to autonomy village?",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "correct": "b"
+    },
+    {
+        "id": 77,
+        "question": "In Nigeria, we have dry season and .....",
+        "options": {
+            "a": "Rainy season",
+            "b": "Raining season",
+            "c": "Rain season"
+        },
+        "correct": "a"
+    },
+    {
+        "id": 78,
+        "question": "Who is the founder of NNDP? Herbert .....",
+        "correct": "Macauli"
+    },
+    {
+        "id": 79,
+        "question": "The father of Nationalism was Herbert .....",
+        "correct": "Macauli"
+    },
+    {
+        "id": 80,
+        "question": "Nigeria is a country & west Africa is a subcontinent.",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "correct": "a"
+    },
+    {
+        "id": 81,
+        "question": "Lagos was destroyed in 1861 & reformed in .....",
+        "correct": "1886"
+    },
+    {
+        "id": 82,
+        "question": "Mode of pressing is not",
+        "options": {
+            "a": "Descent",
+            "b": "Decent",
+            "c": "Deset",
+            "d": "Desent"
+        },
+        "correct": "b"
+    },
+    {
+        "id": 83,
+        "question": "Fulani speak which of the following language in Nigeria?",
+        "options": {
+            "a": "Niger Congo",
+            "b": "Afro Asiatic",
+            "d": "Nilo Saharan"
+        },
+        "correct": "a"
+    },
+    {
+        "id": 84,
+        "question": "Nigeria has about approximately 500 ethnic groups.",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "correct": "b"
+    },
+    {
+        "id": 85,
+        "question": "Presidential monarchies & villages found in:",
+        "options": {
+            "a": "Yoruba land",
+            "b": "Igbo land",
+            "c": "Hausa land",
+            "d": "Tiv-Nupe"
+        },
+        "correct": "b"
+    },
+    {
+        "id": 86,
+        "question": "Flowing of air in savannah can cause",
+        "options": {
+            "a": "Coldness",
+            "b": "Dryness",
+            "c": "Hotness",
+            "d": "Freshness"
+        },
+        "correct": "b"
+    },
+    {
+        "id": 87,
+        "question": "In savannah region, we experience ..... erosion.",
+        "correct": "Soil"
+    },
+    {
+        "id": 88,
+        "question": "Nigeria derived it source from River Niger-Benue.",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "correct": "a"
+    },
+    {
+        "id": 89,
+        "question": "Land pollution is caused by",
+        "correct": "Desertification"
+    },
+    {
+        "id": 90,
+        "question": "Protectorate was formed in 1914.",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "correct": "b"
+    },
+    {
+        "id": 91,
+        "question": "Nigeria was separated into ..... in northern part",
+        "correct": "Province"
+    },
+    {
+        "id": 92,
+        "question": "Nigeria was separated into ..... in southern part",
+        "correct": "Province"
+    },
+    {
+        "id": 93,
+        "question": "Culture is universal.",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "correct": "a"
+    },
+    {
+        "id": 94,
+        "question": "Nigeria as a single entity became reality in",
+        "correct": "1914"
+    },
+    {
+        "id": 95,
+        "question": "H. O. David was the first father of nationalism.",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "correct": "b"
+    },
+    {
+        "id": 96,
+        "question": "Moral sexual relativity affect the behavior of a unit.",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "correct": "a"
+    },
+    {
+        "id": 97,
+        "question": "Islam came to Maiduguri through Arab traders.",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "correct": "a"
+    },
+    {
+        "id": 98,
+        "question": "Nigeria is the largest geographical zone in ..... Africa",
+        "correct": "West"
+    },
+    {
+        "id": 99,
+        "question": "The first governor general in Nigeria was: Sir Lord .....",
+        "correct": "Lugard"
+    },
+    {
+        "id": 100,
+        "question": "What is the status of political parties before 1951? ..... association.",
+        "correct": "Cultural"
+    },
+    {
+        "id": 101,
+        "question": "All African languages are native to Africans except: English and .....",
+        "correct": "Arabic"
+    },
+    {
+        "id": 102,
+        "question": "African language is a classification of J. H. William.",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "correct": "b"
+    },
+    {
+        "id": 103,
+        "question": "Majority of Nigerian speak Niger .....",
+        "correct": "Congo"
+    },
+    {
+        "id": 104,
+        "question": "Categorisation of people is based on people's culture and",
+        "options": {
+            "a": "Trade relation",
+            "b": "Social relation",
+            "c": "Occupational ties"
+        },
+        "correct": "c"
+    },
+    {
+        "id": 105,
+        "question": "Are Fulani citizens of world or northern Nigeria?",
+        "correct": "World"
+    },
+    {
+        "id": 106,
+        "question": "Nigeria has been facing a lot of crises, there is need to grab yard strategy. Must the president provide militaries with weapons?",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "correct": "b"
+    },
+    {
+        "id": 107,
+        "question": "Can we consider indigene and settler phenomenon as an inhabiting factor for conflict or ..... understanding each other?",
+        "correct": "miss"
+    },
+    {
+        "id": 108,
+        "question": "Major trade to citizenship in Nigeria Lies in the concept of foreigners.",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "correct": "a"
+    },
+    {
+        "id": 109,
+        "question": "When Nigeria became republic in 1963, British power was ceased and Monarchical system reinforced.",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "correct": "b"
+    },
+    {
+        "id": 110,
+        "question": "When military intervene in 1966, they begun politics. They lost their primary responsibilities to secondary responsibilities. Do we consider their participation of politics as *an aberration*?",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "correct": "a"
+    },
+    {
+        "id": 111,
+        "question": "Nigerian military were created by British at independence.",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "correct": "b"
+    },
+    {
+        "id": 112,
+        "question": "When did Nigeria evolved/emerged as a modern nation? ..... century",
+        "correct": "19th"
+    },
+    {
+        "id": 113,
+        "question": "Man was created by God. However, man is a master of his own destiny.",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "correct": "a"
+    },
+    {
+        "id": 114,
+        "question": "Emanuel Kant said *\"man is a master of his own destiny\"* therefore, human creativity is disfunctional in every society.",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "correct": "b"
+    },
+    {
+        "id": 115,
+        "question": "The major languages spoken in Africa are Hausa and .....",
+        "correct": "Swahili"
+    },
+    {
+        "id": 116,
+        "question": "Niger-Congo family occupy the area of Senegal River valley in West Africa to the Shores of Indian Oceans",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "correct": "a"
+    },
+    {
+        "id": 117,
+        "question": "Mutual suspicious among diverse ethnic groups is not only between majority and minority.",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "correct": "a"
+    },
+    {
+        "id": 118,
+        "question": "The highest duty of citizen is political",
+        "options": {
+            "a": "Participation",
+            "b": "Act",
+            "c": "Performance"
+        },
+        "correct": "a"
+    },
+    {
+        "id": 119,
+        "question": "Negative conduct is an act that negates an acceptable form of",
+        "options": {
+            "a": "Believes",
+            "b": "Believe",
+            "c": "Belief",
+            "d": "Behavior"
+        },
+        "correct": "d"
+    },
+    {
+        "id": 120,
+        "question": "How many African countries became independence in 1960?",
+        "correct": "17"
+    },
+    {
+        "id": 121,
+        "question": "Nigeria celebrated century or hundred years of existence in:",
+        "correct": "2014"
+    },
+    {
+        "id": 122,
+        "question": "The total embedment of life process is:",
+        "correct": "Culture"
+    },
+    {
+        "id": 123,
+        "question": "Culture is an inevitable part of man.",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "correct": "a"
+    },
+    {
+        "id": 124,
+        "question": "Culture of a particular society is the totality of their life process.",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "correct": "a"
+    },
+    {
+        "id": 125,
+        "question": "Social institution help to regulate the behavior of people in society.",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "correct": "a"
+    },
+    {
+        "id": 126,
+        "question": "Behavior of people in society can be regulated by way of formal school only.",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "correct": "b"
+    },
+    {
+        "id": 127,
+        "question": "Political system can be effective through the process of check and balance",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "correct": "b"
+    },
+    {
+        "id": 128,
+        "question": "J. H. Greenberg classified African languages into 4 classes called:",
+        "correct": "Phyla"
+    },
+    {
+        "id": 129,
+        "question": "The history of poetry in Nigeria started since  BC.",
+        "correct": "3000"
+    },
+    {
+        "id": 130,
+        "question": "Which of the following is not a natural disaster?",
+        "options": {
+            "a": "Flooding & erosion",
+            "b": "Flooding & draught",
+            "c": "Flooding & desertification",
+            "d": "Desert enrockment & oil spillage"
+        },
+        "correct": "d"
+    },
+    {
+        "id": 131,
+        "question": "In Nigeria, the leadership in the subregion differs due to",
+        "correct": "Environment"
+    },
+    {
+        "id": 132,
+        "question": "Most Igbo practice *crude* .....",
+        "correct": "democracy"
+    },
+    {
+        "id": 133,
+        "question": "Before independence, Nigeria was using amalgamation Jack flag.",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "correct": "a"
+    },
+    {
+        "id": 134,
+        "question": "The following sources are causes of erosion except?",
+        "options": {
+            "a": "Wind",
+            "b": "Rain",
+            "c": "Heavy farming",
+            "d": "Hunting"
+        },
+        "correct": "c"
+    },
+    {
+        "id": 135,
+        "question": "Check and balance has to do with ..... establishment",
+        "correct": "Military"
+    },
+    {
+        "id": 136,
+        "question": "British colonial rule begun in",
+        "correct": "1900"
+    },
+    {
+        "id": 137,
+        "question": "Nigeria are black African most populated & influenced state.",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "correct": "a"
+    },
+    {
+        "id": 138,
+        "question": "Nigeria is giant of Africa.",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "correct": "a"
+    },
+    {
+        "id": 139,
+        "question": "There is no language from the Khoisan phylum in Nigeria.",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "correct": "a"
+    },
+    {
+        "id": 140,
+        "question": "Africa was divided during the time of ..... conference",
+        "correct": "Berlin"
+    },
+    {
+        "id": 141,
+        "question": "Nigeria has about 248 ethnic groups.",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "correct": "a"
+    },
+    {
+        "id": 142,
+        "question": "The principles & methods of distinguishing right from wrong & good from bad is ..... values",
+        "correct": "Moral"
+    },
+    {
+        "id": 143,
+        "question": "The major disaster in Nigeria are ..... and corruption.",
+        "correct": "Bribery"
+    },
+    {
+        "id": 144,
+        "question": "Nigeria is more than 13 west African countries in terms of population.",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "correct": "a"
+    },
+    {
+        "id": 145,
+        "question": "NYSC was established in the year",
+        "correct": "1976"
+    },
+    {
+        "id": 146,
+        "question": "Indigene-settler phenomenon in Nigeria was the creation of ..... nation.",
+        "correct": "True"
+    },
+    {
+        "id": 147,
+        "question": "The most important physical feature in Nigeria is ..... Niger.",
+        "correct": "River"
+    },
+    {
+        "id": 148,
+        "question": "Hausa are widely distributed throughout the states of Nigeria.",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "correct": "a"
+    },
+    {
+        "id": 149,
+        "question": "According to British, trade in palm oil, groundnut oil & cotton are referred to as legitimate trade.",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "correct": "a"
+    },
+    {
+        "id": 150,
+        "question": "Lagos was bombarded by the British in the year:",
+        "correct": "1861"
+    },
+    {
+        "id": 151,
+        "question": "In recent years, Nigeria has witness violence crises between indigene and .....",
+        "correct": "Settler"
+    },
+    {
+        "id": 152,
+        "question": "Indigene is the native.",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "correct": "a"
+    },
+    {
+        "id": 153,
+        "question": "Pidgin English is a fusion of Hausa & Portuguese.",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "correct": "a"
+    },
+    {
+        "id": 154,
+        "question": "African civilization begins from which country ?",
+        "correct": "Egypt"
+    },
+    {
+        "id": 155,
+        "question": "Royal Niger company was established in",
+        "correct": "1886"
+    },
+    {
+        "id": 156,
+        "question": "Niger-Benue river divided Nigeria into ..... segments",
+        "correct": "3"
+    },
+    {
+        "id": 157,
+        "question": "Select the odd",
+        "options": {
+            "a": "Sarki",
+            "b": "Lamido",
+            "c": "Shehu",
+            "d": "Oba"
+        },
+        "correct": "d"
+    },
+    {
+        "id": 158,
+        "question": "French is to Tanzania as British is to Nigeria.",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "correct": "b"
+    },
+    {
+        "id": 159,
+        "question": "Select the odd",
+        "options": {
+            "a": "Perfume",
+            "b": "Gunpowder",
+            "c": "Book",
+            "d": "Slave"
+        },
+        "correct": "d"
+    },
+    {
+        "id": 160,
+        "question": "British used the method of ..... rule in northern part of Nigeria.",
+        "correct": "Indirect"
+    }
+]

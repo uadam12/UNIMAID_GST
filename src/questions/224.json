@@ -1,0 +1,485 @@
+[
+    {
+        "id": 1,
+        "question": "..... when done negatively leads to loss of lives and property",
+        "correct": "c",
+        "options": {
+            "a": "Peace",
+            "b": "Justice",
+            "c": "Conflict",
+            "d": "Security"
+        }
+    },
+    {
+        "id": 2,
+        "question": "..... is the major causes of conflict between indigenes and settlers",
+        "correct": "b",
+        "options": {
+            "a": "Market",
+            "b": "Fear of domination",
+            "c": "Fish pond",
+            "d": "Property"
+        }
+    },
+    {
+        "id": 3,
+        "question": "Good governance is not a good example of proactive measure in conflict prevention?",
+        "correct": "b",
+        "options": {
+            "a": "Yes",
+            "b": "No"
+        }
+    },
+    {
+        "id": 4,
+        "question": "Peace is a prime value in any contemporary society today.",
+        "correct": "b",
+        "options": {
+            "a": "No",
+            "b": "Yes"
+        }
+    },
+    {
+        "id": 5,
+        "question": "*ECOWAS* was primarily established to promote?",
+        "correct": "c",
+        "options": {
+            "a": "Conflict management",
+            "b": "Peace and development",
+            "c": "Economic development",
+            "d": "Political harmony in west African sub region"
+        }
+    },
+    {
+        "id": 6,
+        "question": "The absence of a peace, unity and development lead to?",
+        "correct": "b",
+        "options": {
+            "a": "Security",
+            "b": "Conflicts",
+            "c": "Growth",
+            "d": "Freedom"
+        }
+    },
+    {
+        "id": 7,
+        "question": "..... Is as a result of religious, economic, and ethnic discontent?",
+        "correct": "c",
+        "options": {
+            "a": "Economic conflict",
+            "b": "Religious conflict",
+            "c": "Political conflict",
+            "d": "Ethnic conflict"
+        }
+    },
+    {
+        "id": 8,
+        "question": "..... Is the product of a peace?",
+        "correct": "b",
+        "options": {
+            "a": "Security",
+            "b": "Development",
+            "c": "Technology",
+            "d": "Modernization"
+        }
+    },
+    {
+        "id": 9,
+        "question": "The killing of another human being under vulnerable conditions is knows as",
+        "correct": "b",
+        "options": {
+            "a": "Rape",
+            "b": "Murder",
+            "c": "Battery",
+            "d": "Suicide"
+        }
+    },
+    {
+        "id": 10,
+        "question": "Reactive method of conflict resolution can also mean",
+        "correct": "c",
+        "options": {
+            "a": "Reconciliation",
+            "b": "Prevention",
+            "c": "Curative",
+            "d": "None of the above"
+        }
+    },
+    {
+        "id": 11,
+        "question": "The annulment of june 12 presidential election in 1993 generated?",
+        "correct": "c",
+        "options": {
+            "a": "Social conflict",
+            "b": "Economic conflict",
+            "c": "Political conflict",
+            "d": "All of the above"
+        }
+    },
+    {
+        "id": 12,
+        "question": "..... is the greatest strength in an individual during conflict",
+        "correct": "b",
+        "options": {
+            "a": "Vengeance",
+            "b": "Tolerance",
+            "c": "Respect",
+            "d": "Fear"
+        }
+    },
+    {
+        "id": 13,
+        "question": "Violence is seen as a unilateral act, while fighting may be reciprocal.",
+        "correct": "b",
+        "options": {
+            "a": "False",
+            "b": "True"
+        }
+    },
+    {
+        "id": 14,
+        "question": "..... is an attempt or offer to do violence to another.",
+        "correct": "d",
+        "options": {
+            "a": "Battery",
+            "b": "Murder",
+            "c": "Rape",
+            "d": "Assault"
+        }
+    },
+    {
+        "id": 15,
+        "question": "Assault is an ..... physical attract upon another",
+        "correct": "b",
+        "options": {
+            "a": "Lawful",
+            "b": "Unlawful",
+            "c": "Both A and B",
+            "d": "None"
+        }
+    },
+    {
+        "id": 16,
+        "question": "..... distinguished three different type of violence",
+        "correct": "c",
+        "options": {
+            "a": "Diamond",
+            "b": "Lenin",
+            "c": "Johar",
+            "d": "None"
+        }
+    },
+    {
+        "id": 17,
+        "question": "Fatal assault with the use of weapons is called?",
+        "correct": "c",
+        "options": {
+            "a": "Assault and battery",
+            "b": "Property damage",
+            "c": "Aggravated assault",
+            "d": "Cruelty to animals"
+        }
+    },
+    {
+        "id": 18,
+        "question": "An assault with an actual touching or other violence upon another is called?",
+        "correct": "a",
+        "options": {
+            "a": "Assault and battery",
+            "b": "Property damage",
+            "c": "Aggravated assault",
+            "d": "Cruelty to animals"
+        }
+    },
+    {
+        "id": 19,
+        "question": "An unlawful attack upon another person by beating or wounding is known as?",
+        "correct": "c",
+        "options": {
+            "a": "Abuse",
+            "b": "Child abuse",
+            "c": "Battery",
+            "d": "Rape"
+        }
+    },
+    {
+        "id": 20,
+        "question": "Breaking of things, burning or harming in a devastating manner is known as property damage.",
+        "correct": "a",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 21,
+        "question": "Direct violence included the following except?",
+        "correct": "d",
+        "options": {
+            "a": "Emotional",
+            "b": "Psychological",
+            "c": "Physical",
+            "d": "None"
+        }
+    },
+    {
+        "id": 22,
+        "question": "Cultural bad norms, bad practice, discrimination, injustice and human suffering constituted the absence of peace?",
+        "correct": "b",
+        "options": {
+            "a": "False",
+            "b": "True"
+        }
+    },
+    {
+        "id": 23,
+        "question": "For there to be peace, a society or its authorities must ..... the root causes of violence and what its take to eliminate it.",
+        "correct": "d",
+        "options": {
+            "a": "Devastated",
+            "b": "Earth",
+            "c": "Collapse",
+            "d": "Unearth"
+        }
+    },
+    {
+        "id": 24,
+        "question": "The word conflicts is?",
+        "correct": "c",
+        "options": {
+            "a": "Greek word",
+            "b": "English word",
+            "c": "Latin word",
+            "d": "Modern word"
+        }
+    },
+    {
+        "id": 25,
+        "question": "..... Is a class confrontation, battle or struggle.",
+        "correct": "b",
+        "options": {
+            "a": "Fighting",
+            "b": "Violence",
+            "c": "Conflict",
+            "d": "Peace"
+        }
+    },
+    {
+        "id": 26,
+        "question": "Conflict emanates from the tugs and pulls of different identities, different distribution of resources.",
+        "correct": "a",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 27,
+        "question": "Conflict it is a serious disagreement, argument, prolonged armed struggle and an incompatibility of opinion.",
+        "correct": "a",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 28,
+        "question": "McNamara defined conflict as emanate when two or more values, perspective and opinion are contradictory in nature.",
+        "correct": "b",
+        "options": {
+            "a": "False",
+            "b": "True"
+        }
+    },
+    {
+        "id": 29,
+        "question": "..... is certainly an intrinsic and inevitable part of human existence.",
+        "correct": "b",
+        "options": {
+            "a": "Violence",
+            "b": "Conflict",
+            "c": "War",
+            "d": "None"
+        }
+    },
+    {
+        "id": 30,
+        "question": "The worst form of conflict is armed conflict.",
+        "correct": "b",
+        "options": {
+            "a": "False",
+            "b": "True"
+        }
+    },
+    {
+        "id": 31,
+        "question": "Getting the most out of diversity means often contradictory values, perspective and opinion.",
+        "correct": "a",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 32,
+        "question": "In a situation where conflict is destructive it can hinder progress in the society.",
+        "correct": "a",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 33,
+        "question": "..... is an idea or belief about something arrived at through assumption.",
+        "correct": "b",
+        "options": {
+            "a": "History",
+            "b": "Theory",
+            "c": "Story",
+            "d": "All of the above"
+        }
+    },
+    {
+        "id": 34,
+        "question": "Psycho cultural conflict theory include the following except?",
+        "correct": "d",
+        "options": {
+            "a": "Deprivation",
+            "b": "Oppression",
+            "c": "Humiliation",
+            "d": "Description"
+        }
+    },
+    {
+        "id": 35,
+        "question": "According to ..... the main argument of Structural theory is that conflict is built into particular ways.",
+        "correct": "b",
+        "options": {
+            "a": "Donald",
+            "b": "Lenin",
+            "c": "Johar",
+            "d": "Scarborough"
+        }
+    },
+    {
+        "id": 36,
+        "question": "The theory evolves from an individual group as a result of their inability to fulfill their needs is called?",
+        "correct": "c",
+        "options": {
+            "a": "Biological",
+            "b": "Physiological",
+            "c": "Frustration",
+            "d": "Sociological"
+        }
+    },
+    {
+        "id": 37,
+        "question": "Frustration lead to aggression can be seen in the ..... crises in the Niger Delta Area of Nigeria.",
+        "correct": "c",
+        "options": {
+            "a": "Outgoing",
+            "b": "Incoming",
+            "c": "Ongoing",
+            "d": "None"
+        }
+    },
+    {
+        "id": 38,
+        "question": "The theory which state that human brain reacts when people are under stress and threat is?",
+        "correct": "d",
+        "options": {
+            "a": "Biological",
+            "b": "Economic",
+            "c": "Realist",
+            "d": "Physiological"
+        }
+    },
+    {
+        "id": 39,
+        "question": "Economic theorist believes that the people in conflict are not brought as a result of economic difference but rather the conflict is as a result of........?",
+        "correct": "b",
+        "options": {
+            "a": "Needs",
+            "b": "Greed",
+            "c": "Anger",
+            "d": "Widespread"
+        }
+    },
+    {
+        "id": 40,
+        "question": "Prevailing injustice among the Human society creates conflict and lack of peaceful coexistence.",
+        "correct": "b",
+        "options": {
+            "a": "False",
+            "b": "True"
+        }
+    },
+    {
+        "id": 41,
+        "question": "All religions of the world support ..... and .....",
+        "correct": "c",
+        "options": {
+            "a": "Lawful and unlawful",
+            "b": "Justice and injustice",
+            "c": "Justice and fairness",
+            "d": "All of the above"
+        }
+    },
+    {
+        "id": 42,
+        "question": "The hangover debt is one of the endemic recurrent problem of the crises and conflict in Nigeria.",
+        "correct": "a",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 43,
+        "question": "..... sees the world as an arena of conflict.",
+        "correct": "b",
+        "options": {
+            "a": "Explanatory realism",
+            "b": "Descriptive realism",
+            "c": "Prescriptive realism",
+            "d": "None"
+        }
+    },
+    {
+        "id": 44,
+        "question": "*GST 224* teaches peacefulness?",
+        "correct": "a",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 45,
+        "question": "Peace exists if there is no conflict while conflict also exits when peace is absent.",
+        "correct": "b",
+        "options": {
+            "a": "False",
+            "b": "True"
+        }
+    },
+    {
+        "id": 46,
+        "question": "Peace and conflict have never prevail at the same moment",
+        "correct": "b",
+        "options": {
+            "a": "False",
+            "b": "True"
+        }
+    },
+    {
+        "id": 47,
+        "question": "Conflict is inevitable when there is existence of justice and freedom",
+        "correct": "b",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    }
+]

@@ -1,0 +1,1421 @@
+[
+    {
+        "id": 1,
+        "question": "The ..... is the most treasured asset of an organization and must be cherished.",
+        "correct": "customer"
+    },
+    {
+        "id": 2,
+        "question": "The customer is the most valuable ..... of the organization and it must be cherished",
+        "correct": "asset"
+    },
+    {
+        "id": 3,
+        "question": "Belief, norms, values and customs shapes the (social-cultural) ..... environment",
+        "correct": "Business"
+    },
+    {
+        "id": 4,
+        "question": "..... (Belief, values) is an element of social environment",
+        "correct": "Norms"
+    },
+    {
+        "id": 5,
+        "question": "..... environment deals with gift of nature or natural resources of a country.",
+        "correct": "Natural"
+    },
+    {
+        "id": 6,
+        "question": "Water venture is a good example of ..... proprietorship business.",
+        "correct": "Sole"
+    },
+    {
+        "id": 7,
+        "question": "Opportunity dwell in ..... business environment",
+        "correct": "economic"
+    },
+    {
+        "id": 8,
+        "question": "Ineffective control measure is an example of cause of business .....",
+        "correct": "failure"
+    },
+    {
+        "id": 9,
+        "question": "Premature expansion is an example of Cause of business .....",
+        "correct": "Failure"
+    },
+    {
+        "id": 10,
+        "question": "Decline in production is an example of Symptoms of business .....",
+        "correct": "Failure"
+    },
+    {
+        "id": 11,
+        "question": "Feasibility study determines the ..... (liability, Workability) of an intended business",
+        "correct": "Profitability"
+    },
+    {
+        "id": 12,
+        "question": "Equity finance is produced by the .....",
+        "correct": "Entrepreneur"
+    },
+    {
+        "id": 13,
+        "question": "Identify four types of entrepreneurs:",
+        "statements": [
+            "(I) Fabian.",
+            "(II) .....",
+            "(III) Innovative",
+            "(IV) Imitative"
+        ],
+        "correct": "Drone"
+    },
+    {
+        "id": 14,
+        "question": "Money use by an entrepreneur to purchase machines, tools and equipment is called .....",
+        "correct": "Capital"
+    },
+    {
+        "id": 15,
+        "question": "An entrepreneur who introduce new product that has never been known into the market is called .....",
+        "correct": "Innovator"
+    },
+    {
+        "id": 16,
+        "question": "..... and Employment (apprenticeship) are expected to be fulfill before an entrepreneur start a venture.",
+        "correct": "Education"
+    },
+    {
+        "id": 17,
+        "question": "In the French concept entrepreneur means ..... *\"to undertake\"*.",
+        "correct": "Entreprende"
+    },
+    {
+        "id": 18,
+        "question": "..... are individuals who carry out entrepreneurship activities to build business empires.",
+        "correct": "Entrepreneurs"
+    },
+    {
+        "id": 19,
+        "question": "..... is the process and activities by which corporate organization behave entrepreneurially.",
+        "correct": "Entrepreneurship"
+    },
+    {
+        "id": 20,
+        "question": "The *2nd Ps* of marketing is called .....",
+        "correct": "Price"
+    },
+    {
+        "id": 21,
+        "question": "..... means *Manufacturing Association of Nigeria*.",
+        "correct": "MAN"
+    },
+    {
+        "id": 22,
+        "question": "..... means *National Directorate of Employment*.",
+        "correct": "NDE"
+    },
+    {
+        "id": 23,
+        "question": "..... means *Small and Medium Enterprise Development Agency of Nigeria*.",
+        "correct": "SMEDAN"
+    },
+    {
+        "id": 24,
+        "question": "..... means *Corruption Practice Commission*.",
+        "correct": "CPC"
+    },
+    {
+        "id": 25,
+        "question": "..... means *Cooperate Affairs Commission*.",
+        "correct": "CAC"
+    },
+    {
+        "id": 26,
+        "question": "..... is important because it creates utility and promotes economic growth and development.",
+        "correct": "Entrepreneurship"
+    },
+    {
+        "id": 27,
+        "question": "An entrepreneur uses the technique of ..... analysis to evaluate *Strength Weakness Opportunity Threats*",
+        "correct": "SWOT"
+    },
+    {
+        "id": 28,
+        "question": "In SWOT analysis, T stands for .....",
+        "correct": "Threats"
+    },
+    {
+        "id": 29,
+        "question": "For business organization to become a legal entity it has to be registered with .....",
+        "correct": "CAC"
+    },
+    {
+        "id": 30,
+        "question": "..... is considered as *short term/medium* source of business finance.",
+        "correct": "Leasing"
+    },
+    {
+        "id": 31,
+        "question": "Of all forms of businesses ..... companies is the most complex in formation and operation.",
+        "correct": "Cooperation"
+    },
+    {
+        "id": 32,
+        "question": "..... is investment entirely in different line of business.",
+        "correct": "Diversification"
+    },
+    {
+        "id": 33,
+        "question": "The Owner of a ..... company is subjected to double taxation",
+        "correct": "Cooperative"
+    },
+    {
+        "id": 34,
+        "question": "Wrong choice of business line is an example of ..... of business failure",
+        "correct": "Cause"
+    },
+    {
+        "id": 35,
+        "question": "The process of dividing a total market into smaller units is called .....",
+        "correct": "Segmentation"
+    },
+    {
+        "id": 36,
+        "question": "..... agencies (Transportation services, Market Research firm, Warehousing, Communication) is a marketing facilitator.",
+        "correct": "Advertising"
+    },
+    {
+        "id": 37,
+        "question": "..... is the *6th P* of marketing mix.",
+        "correct": "Process"
+    },
+    {
+        "id": 38,
+        "question": "..... condition *(Demographic factors, behavioral pattern, physical characteristics)* is a technique used in market segmentation.",
+        "correct": "Market"
+    },
+    {
+        "id": 39,
+        "question": "..... insurance covers the damage occurred to the products only.",
+        "correct": "Product"
+    },
+    {
+        "id": 40,
+        "question": "..... is limited only to his/her level of investment in the business.",
+        "correct": "Limited Partner"
+    },
+    {
+        "id": 41,
+        "question": "*_Political/Legal business environment_* operates on the principles of ..... control.",
+        "correct": "Democratic"
+    },
+    {
+        "id": 42,
+        "question": "One of the features of ..... proprietorship is that, the liabilities of the amount they invested in the business.",
+        "correct": "Sole"
+    },
+    {
+        "id": 43,
+        "question": "An entrepreneur who adopts changes only when it is successful in other organizations is called .....",
+        "correct": "Fabian"
+    },
+    {
+        "id": 44,
+        "question": "*Lack of capital and Problem of succession* are problems facing Nigerian .....",
+        "correct": "Entrepreneurs"
+    },
+    {
+        "id": 45,
+        "question": "The *first 4 Ps* of marketing mix are: ",
+        "statements": [
+            "(1) Product",
+            "(2) Price",
+            "(3) Place",
+            "(4) ....."
+        ],
+        "correct": "Promotion"
+    },
+    {
+        "id": 46,
+        "question": "*Company Limited by Shares and Company Limited by .....* are two types of companies.",
+        "correct": "Guarantee"
+    },
+    {
+        "id": 47,
+        "question": "*Company Limited by .....* are formed usually for charitable, educational and religious purpose.",
+        "correct": "Guarantee"
+    },
+    {
+        "id": 48,
+        "question": "*Public company (plc)*, its ownership ranges from seven(7) to .....",
+        "correct": "Infinity"
+    },
+    {
+        "id": 49,
+        "question": "Private and Public are two types of companies limited by .....",
+        "correct": "Shares"
+    },
+    {
+        "id": 50,
+        "question": "Partnership is a form of business organized and owned by two or more persons by ..... arrangement.",
+        "correct": "Voluntary"
+    },
+    {
+        "id": 51,
+        "question": "In partnership, the relationship is guided by partnership .....",
+        "correct": "DEEDS"
+    },
+    {
+        "id": 52,
+        "question": "..... limited, its article of association restrict the right to transfer its shares.",
+        "correct": "Private"
+    },
+    {
+        "id": 53,
+        "question": "Financial analysis helps in testing the ..... and other financial benefits of the business.",
+        "correct": "Fund"
+    },
+    {
+        "id": 54,
+        "question": "According to _Kayode O. Fasuwa_ there are ..... types of entrepreneurs.",
+        "correct": "4"
+    },
+    {
+        "id": 55,
+        "question": "Element of marketing is also known as .....",
+        "correct": "Marketing Mix"
+    },
+    {
+        "id": 56,
+        "question": "The ..... environment study the statistics of people living in a particular geographical setting.",
+        "correct": "Demographic"
+    },
+    {
+        "id": 57,
+        "question": "The Demographic environment study statistics of people living in a particular ..... setting",
+        "correct": "Geographical"
+    },
+    {
+        "id": 58,
+        "question": "..... business environment is one in which an entrepreneur assesses availability and cost of raw materials.",
+        "correct": "Natural"
+    },
+    {
+        "id": 59,
+        "question": "The reward an entrepreneur gets for bearing risk involved in the enterprise is ..... which is highly uncertain.",
+        "correct": "Profit"
+    },
+    {
+        "id": 60,
+        "question": "The reward an entrepreneur gets for bearing risk involved in the enterprise is profit which is highly .....",
+        "correct": "Uncertain"
+    },
+    {
+        "id": 61,
+        "question": "..... decision ensures prudent spending",
+        "correct": "Management"
+    },
+    {
+        "id": 62,
+        "question": "..... directs human and material resources to achieve his business objectives",
+        "correct": "Entrepreneur"
+    },
+    {
+        "id": 63,
+        "question": "..... is any activity or set of activities that is geared towards a profitable goal",
+        "correct": "Business"
+    },
+    {
+        "id": 64,
+        "question": "*Cars and Jewelries* are the examples of ..... goods",
+        "correct": "Specialty"
+    },
+    {
+        "id": 65,
+        "question": "Market ..... is the management that concerns planning and controlling the company financial resources.",
+        "correct": "Study"
+    },
+    {
+        "id": 66,
+        "question": "..... is a marketing communication put in place to make the customers aware of the products.",
+        "correct": "Promotion"
+    },
+    {
+        "id": 67,
+        "question": "The manager should be tolerant of learning .....",
+        "correct": "Errors"
+    },
+    {
+        "id": 68,
+        "question": "Corporation company is also known as ..... company.",
+        "correct": "Registered"
+    },
+    {
+        "id": 69,
+        "question": "The shares are often bought and sold at in the ..... market (or stock market or open market).",
+        "correct": "Capital"
+    },
+    {
+        "id": 70,
+        "question": "..... is a certificate issued by a company promising to pay back borrowed money at a fixed rate of interest on a specified date.",
+        "correct": "Bond"
+    },
+    {
+        "id": 71,
+        "question": "..... is the selling out of shares to the public or companies in order to generate funds to finance the current business.",
+        "correct": "Stock"
+    },
+    {
+        "id": 72,
+        "question": "*Financial study and Market study* (environmental study, socio-economic study, technical study, legal study, general description) are the two components of ..... study.",
+        "correct": "feasibility"
+    },
+    {
+        "id": 73,
+        "question": "Formal transfers of share certificates, titles is normally handled by .....",
+        "correct": "Shareholders"
+    },
+    {
+        "id": 74,
+        "question": "*Private Limited Liability Company* limits membership between two to .....",
+        "correct": "50"
+    },
+    {
+        "id": 75,
+        "question": "An ..... must have leadership ability to succeed.",
+        "correct": "Entrepreneur"
+    },
+    {
+        "id": 76,
+        "question": "Sole ..... entrepreneur essentially work alone and if needed at all, employs a few employees.",
+        "correct": "Proprietor"
+    },
+    {
+        "id": 77,
+        "question": "..... company is a body authorized by law to act as a private person and legally endowed with various rights and duties, including the right of succession.",
+        "correct": "Cooperation"
+    },
+    {
+        "id": 78,
+        "question": "Leasing is considered as ..... source of business",
+        "options": {
+            "a": "short",
+            "b": "medium",
+            "c": "long",
+            "d": "infinity"
+        },
+        "correct": "a"
+    },
+    {
+        "id": 79,
+        "question": "An amount of money paid by an entrepreneur to insurance company is called",
+        "options": {
+            "a": "premium",
+            "b": "legal tender",
+            "c": "promissory",
+            "d": "equity"
+        },
+        "correct": "a"
+    },
+    {
+        "id": 80,
+        "question": "Natural environment deals with .....",
+        "options": {
+            "a": "forest resources",
+            "b": "agricultural resources",
+            "c": "mineral resources",
+            "d": "all of the above"
+        },
+        "correct": "d"
+    },
+    {
+        "id": 81,
+        "question": "A process of dividing a total market into smaller units is called .....",
+        "options": {
+            "a": "segmentation",
+            "b": "sedimentation",
+            "c": "Homogeneous",
+            "d": "psycho graphic"
+        },
+        "correct": "a"
+    },
+    {
+        "id": 82,
+        "question": "One of the merits of corporation is .....",
+        "options": {
+            "a": "profit",
+            "b": "competency",
+            "c": "growing concern",
+            "d": "change"
+        },
+        "correct": "a"
+    },
+    {
+        "id": 83,
+        "question": "..... is among the types of entrepreneurs developed by behavioural scientists.",
+        "options": {
+            "a": "drone",
+            "b": "innovator",
+            "c": "Fabian",
+            "d": "inventor"
+        },
+        "correct": "d"
+    },
+    {
+        "id": 84,
+        "question": "Increase in product acceptance is ..... in the business.",
+        "options": {
+            "a": "weakness",
+            "b": "strength",
+            "c": "profit",
+            "d": "opportunity"
+        },
+        "correct": "b"
+    },
+    {
+        "id": 85,
+        "question": "Feasibility report comprise the following except:",
+        "options": {
+            "a": "financial",
+            "b": "technical",
+            "c": "equity",
+            "d": "marketing"
+        },
+        "correct": "c"
+    },
+    {
+        "id": 86,
+        "question": "Entrepreneurs set their own goals rather than having them set by their .....",
+        "options": {
+            "a": "Subordinates",
+            "b": "Directors",
+            "c": "Managers",
+            "d": "Bosses"
+        },
+        "correct": "a"
+    },
+    {
+        "id": 87,
+        "question": "Machines and tools are examples of .....",
+        "options": {
+            "a": "fixed asset",
+            "b": "current asset",
+            "c": "liability",
+            "d": "debenture"
+        },
+        "correct": "a"
+    },
+    {
+        "id": 88,
+        "question": "The ownership public company ranges from",
+        "options": {
+            "a": "7 to infinity",
+            "b": "7 to 100",
+            "c": "7 to 50",
+            "d": "many"
+        },
+        "correct": "a"
+    },
+    {
+        "id": 89,
+        "question": "..... is not one of the marketing facilitators.",
+        "options": {
+            "a": "warehouse",
+            "b": "advertising",
+            "c": "selling",
+            "d": "market"
+        },
+        "correct": "c"
+    },
+    {
+        "id": 90,
+        "question": "A good leader must develop new insatiable ..... and break new grounds and develop desire for knowledge",
+        "options": {
+            "a": "ideas",
+            "b": "skills",
+            "c": "methods",
+            "d": "strategies"
+        },
+        "correct": "a"
+    },
+    {
+        "id": 91,
+        "question": "In *SWOT analysis*, increases in product acceptance is a/an .....",
+        "options": {
+            "a": "opportunities",
+            "b": "breaker",
+            "c": "strength",
+            "d": "profit"
+        },
+        "correct": "c"
+    },
+    {
+        "id": 92,
+        "question": "..... uses the techniques of *SWOT analysis* to test his business ideas",
+        "options": {
+            "a": "Marketers",
+            "b": "entrepreneur",
+            "c": "inventor",
+            "d": "motivator"
+        },
+        "correct": "b"
+    },
+    {
+        "id": 93,
+        "question": "..... is one of the components of financial planning",
+        "options": {
+            "a": "book keeping",
+            "b": "financial forecasting",
+            "c": "financial report",
+            "d": "internal control"
+        },
+        "correct": "b"
+    },
+    {
+        "id": 94,
+        "question": ".....  is the selling out of shares to the public in order to generate funds to finance the business",
+        "options": {
+            "a": "bonds",
+            "b": "trade credit",
+            "c": "stock",
+            "d": "stack"
+        },
+        "correct": "c"
+    },
+    {
+        "id": 95,
+        "question": "According to *Kayode O. Fasuwa*, there are ..... types of entrepreneurs.",
+        "options": {
+            "a": "7",
+            "b": "5",
+            "c": "6",
+            "d": "4"
+        },
+        "correct": "d"
+    },
+    {
+        "id": 96,
+        "question": "The stage of rapid market acceptance and substantial profit improvement in the product life cycle is .....",
+        "options": {
+            "a": "decline stage",
+            "b": "growth",
+            "c": "maturity",
+            "d": "introduction"
+        },
+        "correct": "b"
+    },
+    {
+        "id": 97,
+        "question": "Cooperative societies was first establish in the year",
+        "options": {
+            "a": "1944",
+            "b": "1804",
+            "c": "1844",
+            "d": "1854"
+        },
+        "correct": "c"
+    },
+    {
+        "id": 98,
+        "question": "The importance of financial planning is .....",
+        "options": {
+            "a": "To take improper decision",
+            "b": "minimize profit",
+            "c": "maximize profit",
+            "d": "saving decision"
+        },
+        "correct": "c"
+    },
+    {
+        "id": 99,
+        "question": "Availability of knowledgeable and qualified financial manager lead to .....",
+        "options": {
+            "a": "Good profit maximization",
+            "b": "maximize cost",
+            "c": "effective management",
+            "d": "squandering"
+        },
+        "correct": "c"
+    },
+    {
+        "id": 100,
+        "question": "Mention 2 types of capital required for setting up a business are:",
+        "options": {
+            "a": "Fixed and working capital",
+            "b": "Fixed and debenture capital",
+            "c": "Fixed and equity capital",
+            "d": "investment and working capital"
+        },
+        "correct": "a"
+    },
+    {
+        "id": 101,
+        "question": "..... is the partner that is not involved in the daily running of business",
+        "options": {
+            "a": "Nominal",
+            "b": "Dormant",
+            "c": "Limited",
+            "d": "Active"
+        },
+        "correct": "b"
+    },
+    {
+        "id": 102,
+        "question": "..... are characterized by refusal to adopt opportunities to make changes in production even at the cost of reduced returns.",
+        "options": {
+            "a": "drone entrepreneur",
+            "b": "Fabian entrepreneur",
+            "c": "Imitative entrepreneur",
+            "d": "challengers"
+        },
+        "correct": "a"
+    },
+    {
+        "id": 103,
+        "question": "A good feasibility report must comprise the following except:",
+        "options": {
+            "a": "Marketing",
+            "b": "Financial",
+            "c": "Equity",
+            "d": "Technological"
+        },
+        "correct": "c"
+    },
+    {
+        "id": 104,
+        "question": "A good feasibility report must comprise the following except:",
+        "options": {
+            "a": "marketing",
+            "b": "technical",
+            "c": "resources",
+            "d": "financial"
+        },
+        "correct": "c"
+    },
+    {
+        "id": 105,
+        "question": "Project goes with conception of .....",
+        "options": {
+            "a": "information",
+            "b": "view",
+            "c": "forecasting",
+            "d": "ideas"
+        },
+        "correct": "d"
+    },
+    {
+        "id": 106,
+        "question": "Business failure is a situation where the business cannot meet it obligations",
+        "options": {
+            "a": "financial obligations",
+            "b": "peak",
+            "c": "maximum profit",
+            "d": "management decision"
+        },
+        "correct": "a"
+    },
+    {
+        "id": 107,
+        "question": "Equity finance is provided by the .....",
+        "options": {
+            "a": "bank",
+            "b": "friends",
+            "c": "family",
+            "d": "entrepreneur"
+        },
+        "correct": "d"
+    },
+    {
+        "id": 108,
+        "question": "..... sources are the corporate financial institutions, such as capital market and Nigerian Industrial bank",
+        "options": {
+            "a": "external",
+            "b": "institutional",
+            "c": "informal",
+            "d": "private"
+        },
+        "correct": "b"
+    },
+    {
+        "id": 109,
+        "question": "Encouraging economic growth and development is one of an entrepreneurship .....",
+        "options": {
+            "a": "rewards",
+            "b": "characteristics",
+            "c": "contribution",
+            "d": "functions"
+        },
+        "correct": "a"
+    },
+    {
+        "id": 110,
+        "question": "An insurance contract must meet some conditions which includes:",
+        "options": {
+            "a": "offer",
+            "b": "capacity",
+            "c": "acceptance",
+            "d": "all"
+        },
+        "correct": "d"
+    },
+    {
+        "id": 111,
+        "question": "One of these is not a component of financial management",
+        "options": {
+            "a": "financial report",
+            "b": "bank reconciliation",
+            "c": "taxation",
+            "d": "internet control"
+        },
+        "correct": "c"
+    },
+    {
+        "id": 112,
+        "question": "The following are functions of marketing except:",
+        "options": {
+            "a": "product development",
+            "b": "distribution",
+            "c": "management services",
+            "d": "Promotion of goods and services"
+        },
+        "correct": "c"
+    },
+    {
+        "id": 113,
+        "question": "In partnership, the ..... is guided by a partnership deed.",
+        "options": {
+            "a": "business",
+            "b": "conditions",
+            "c": "relationship",
+            "d": "bonds"
+        },
+        "correct": "c"
+    },
+    {
+        "id": 114,
+        "question": "The owners of a corporation company are subjected to .....",
+        "options": {
+            "a": "double income",
+            "b": "project",
+            "c": "double taxation",
+            "d": "investment"
+        },
+        "correct": "c"
+    },
+    {
+        "id": 115,
+        "question": "In feasibility study, the technique of SWOT analysis are used to test .....",
+        "options": {
+            "a": "the financial planning",
+            "b": "business ideas",
+            "c": "the opportunities",
+            "d": "the strength"
+        },
+        "correct": "b"
+    },
+    {
+        "id": 116,
+        "question": "Business failure is caused by one of the following:",
+        "options": {
+            "a": "Political stability",
+            "b": "laziness",
+            "c": "prudent spending",
+            "d": "none of the above"
+        },
+        "correct": "d"
+    },
+    {
+        "id": 117,
+        "question": "All are symptoms of Business failure except:",
+        "options": {
+            "a": "Declining working capital",
+            "b": "reduce in profit",
+            "c": "loosing of Key staff",
+            "d": "declining demand"
+        },
+        "correct": "d"
+    },
+    {
+        "id": 118,
+        "question": "Plants and machines, buildings, vehicles are the major ..... needed for successful operation of business",
+        "options": {
+            "a": "technical input",
+            "b": "financial feasibility",
+            "c": "marketing feasibility",
+            "d": "technical output"
+        },
+        "correct": "a"
+    },
+    {
+        "id": 119,
+        "question": "The entrepreneur should also know the needs of the staff, their hopes and aspirations in the levels at the .....",
+        "options": {
+            "a": "organization",
+            "b": "company",
+            "c": "workplace",
+            "d": "market place"
+        },
+        "correct": "c"
+    },
+    {
+        "id": 120,
+        "question": "In Taiwan, they employ more than ..... of jobs in production activities and they account for ..... of export.",
+        "options": {
+            "a": "70% and 60%",
+            "b": "70% and 75%",
+            "c": "50% and 70%",
+            "d": "40% and 70%"
+        },
+        "correct": "b"
+    },
+    {
+        "id": 121,
+        "question": "..... is the period that the product has achieved acceptance by most of the potential buyers.",
+        "options": {
+            "a": "maturity",
+            "b": "decline",
+            "c": "instructions",
+            "d": "growth"
+        },
+        "correct": "a"
+    },
+    {
+        "id": 122,
+        "question": "..... are products that consumers need but not willing to spend much time shopping for.",
+        "options": {
+            "a": "shopping goods",
+            "b": "specialty goods",
+            "c": "convenience goods",
+            "d": "consumers goods"
+        },
+        "correct": "b"
+    },
+    {
+        "id": 123,
+        "question": "Many business have failed in recent times not because of lack of finance or management but lack of:",
+        "options": {
+            "a": "accountability",
+            "b": "leadership style",
+            "c": "poor feasibility study",
+            "d": "administration"
+        },
+        "correct": "c"
+    },
+    {
+        "id": 124,
+        "question": "..... Direct human and material resources in other to achieve their business objectives.",
+        "options": {
+            "a": "entrepreneurs",
+            "b": "innovators",
+            "c": "sole operators",
+            "d": "active partners"
+        },
+        "correct": "a"
+    },
+    {
+        "id": 125,
+        "question": "..... is anything that can be offered to market for attention, acquisition, use or consumption.",
+        "options": {
+            "a": "convenience goods",
+            "b": "product",
+            "c": "goods",
+            "d": "service"
+        },
+        "correct": "b"
+    },
+    {
+        "id": 126,
+        "question": "The conception of ideas is translated into .....",
+        "options": {
+            "a": "project",
+            "b": "pre-feasibility",
+            "c": "feasibility report",
+            "d": "ventures"
+        },
+        "correct": "a"
+    },
+    {
+        "id": 127,
+        "question": "In united state there are about ..... *SME*s employing more than ..... of private work force.",
+        "options": {
+            "a": "2.1 million and 50%",
+            "b": "23 million and 30%",
+            "c": "23 million and 50%",
+            "d": "15 million and 50%"
+        },
+        "correct": "b"
+    },
+    {
+        "id": 128,
+        "question": "Inefficiency, ineffectiveness and organizational conflicts are often blamed on ..... communication",
+        "options": {
+            "a": "informal and formal communication",
+            "b": "vertical and horizontal",
+            "c": "communication breakdown",
+            "d": "poor performance level"
+        },
+        "correct": "c"
+    },
+    {
+        "id": 129,
+        "question": "The aim of a venture is to create ..... and .....",
+        "options": {
+            "a": "profit and good will",
+            "b": "wealth and personality",
+            "c": "wealth and profit",
+            "d": "profit and loss"
+        },
+        "correct": "c"
+    },
+    {
+        "id": 130,
+        "question": "Risk is undertaken by entrepreneur consciously or unconsciously.",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "correct": "a"
+    },
+    {
+        "id": 131,
+        "question": "Availability of qualified financial manager leads to finance control and spendthrift.",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "correct": "a"
+    },
+    {
+        "id": 132,
+        "question": "Powerful idea is the backbone of every surviving human organization.",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "correct": "b"
+    },
+    {
+        "id": 133,
+        "question": "Innovation is considered to be the strategic tool of business.",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "correct": "a"
+    },
+    {
+        "id": 134,
+        "question": "Feasibility studies are not important when establishing sole proprietorship business.",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "correct": "b"
+    },
+    {
+        "id": 135,
+        "question": "Marketing is the same as buying and selling of goods and services.",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "correct": "b"
+    },
+    {
+        "id": 136,
+        "question": "Warehousing is the development of ways or techniques of making or doing things",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "correct": "b"
+    },
+    {
+        "id": 137,
+        "question": "Banned on the use of motorcycles in Maiduguri has no effect on other businesses",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "correct": "b"
+    },
+    {
+        "id": 138,
+        "question": "Insurance is the non transfer of risks from one entity to another",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "correct": "b"
+    },
+    {
+        "id": 139,
+        "question": "The entrepreneur brings about searches for change, respond to it and exploit opportunity",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "correct": "a"
+    },
+    {
+        "id": 140,
+        "question": "The success or failure of one man business depends on the owners inability to manage the business effectively.",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "correct": "a"
+    },
+    {
+        "id": 141,
+        "question": "In business context *\"enterprende\"* means to undertake.",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "correct": "a"
+    },
+    {
+        "id": 142,
+        "question": "The entrepreneur is someone who perceived opportunities were others succeeds.",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "correct": "b"
+    },
+    {
+        "id": 143,
+        "question": "Business is any undertaking created for the purpose of creating awareness.",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "correct": "b"
+    },
+    {
+        "id": 144,
+        "question": "A company can incorporate by shares, rules and by guarantee.",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "correct": "a"
+    },
+    {
+        "id": 145,
+        "question": "The belief, norms and values shapes the Natural environment of the business.",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "correct": "b"
+    },
+    {
+        "id": 146,
+        "question": "Lack of fund to undertake promotion is one of the threats in business.",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "correct": "a"
+    },
+    {
+        "id": 147,
+        "question": "Mutability is a feature of the business environment",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "correct": "a"
+    },
+    {
+        "id": 148,
+        "question": "In partnership business, mobilization of capital is one of the advantages.",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "correct": "a"
+    },
+    {
+        "id": 149,
+        "question": "There is no difference between tangible and non-physical product.",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "correct": "b"
+    },
+    {
+        "id": 150,
+        "question": "Business failure is a situation where the business cannot meet its maximum profit",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "correct": "b"
+    },
+    {
+        "id": 151,
+        "question": "One of the characteristic of an entrepreneur is the desire for dependence",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "correct": "b"
+    },
+    {
+        "id": 152,
+        "question": "One of the problems of Nigerian entrepreneurs is income generation.",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "correct": "b"
+    },
+    {
+        "id": 153,
+        "question": "Entrepreneurship is a reality, concept topic and theory",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "correct": "a"
+    },
+    {
+        "id": 154,
+        "question": "Drone entrepreneur is innovative, creative and initiative.",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "correct": "b"
+    },
+    {
+        "id": 155,
+        "question": "National investment promotion commission is in charge of registration of business names, articles of association and legal documents.",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "correct": "a"
+    },
+    {
+        "id": 156,
+        "question": "Seminars organized by government agencies, universities or even private consultants are example of formal search for investment opportunities.",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "correct": "a"
+    },
+    {
+        "id": 157,
+        "question": "At pre-feasibility, survey is made to gather the final information about the generated idea or project.",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "correct": "a"
+    },
+    {
+        "id": 158,
+        "question": "In market feasibility, when the market is not adequate, investment in the business would be worthwhile.",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "correct": "b"
+    },
+    {
+        "id": 159,
+        "question": "The reward an entrepreneur gets for bearing risks involved in the enterprise is profit which is highly uncertain.",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "correct": "a"
+    },
+    {
+        "id": 160,
+        "question": "The owner of a corporation is subjected to double taxation.",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "correct": "a"
+    },
+    {
+        "id": 161,
+        "question": "A manager needs to possess distinct qualification in terms of risk bearing ability.",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "correct": "a"
+    },
+    {
+        "id": 162,
+        "question": "Working capital is the heart of business and it is a sustaining factor in ventures.",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "correct": "a"
+    },
+    {
+        "id": 163,
+        "question": "Freedom to select product, service, location and market is advantages of buying an existing business.",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "correct": "a"
+    },
+    {
+        "id": 164,
+        "question": "Inadequate capital and incompetent management are causes of business failure.",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "correct": "a"
+    },
+    {
+        "id": 165,
+        "question": "Nigerian population is skewed towards maturity and saturation.",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "correct": "a"
+    },
+    {
+        "id": 166,
+        "question": "Co-operative company, the ownership investment is transferable from one individual to the other.",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "correct": "a"
+    },
+    {
+        "id": 167,
+        "question": "Convenience goods are products that customers need but willing to spend much time shopping for.",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "correct": "b"
+    },
+    {
+        "id": 168,
+        "question": "Specialty goods are the goods, the customers really want and will make a special effort to buy.",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "correct": "a"
+    },
+    {
+        "id": 169,
+        "question": "Growth stage in product life cycle, is the period that the product has achieved acceptance by most of the potential buyers.",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "correct": "b"
+    },
+    {
+        "id": 170,
+        "question": "Price is an equilibrating factor in the market place harmonizing the demand in the market with supply.",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "correct": "a"
+    },
+    {
+        "id": 171,
+        "question": "Efficiency is a form of economy since its essence is the conservation of energy, time and space.",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "correct": "a"
+    },
+    {
+        "id": 172,
+        "question": "An *innovating entrepreneur* is the one who introduces new goods, inaugurates new methods of production and discovers new market.",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "correct": "a"
+    },
+    {
+        "id": 173,
+        "question": "Private company ana partnership are two types of companies limited by shares",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "correct": "b"
+    },
+    {
+        "id": 174,
+        "question": "Limited partner is not allowed to take part in the management of the partnership business.",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "correct": "a"
+    },
+    {
+        "id": 175,
+        "question": "The written agreement is particularly more undesirable in future event",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "correct": "b"
+    },
+    {
+        "id": 176,
+        "question": "Financial planning enables the entrepreneur to source funds at maximum cost.",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "correct": "b"
+    },
+    {
+        "id": 177,
+        "question": "Transportation service is a marketing facilitator",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "correct": "a"
+    },
+    {
+        "id": 178,
+        "question": "Planning, organizing, directing and controlling are not element of management",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "correct": "b"
+    },
+    {
+        "id": 179,
+        "question": "The death of a sole proprietor often means the end of the enterprise.",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "correct": "a"
+    }
+]

@@ -1,0 +1,2899 @@
+[
+    {
+        "id": 1,
+        "question": "A word used to name a person, a place, a thing, an idea or quality of the mind is:",
+        "correct": "b",
+        "options": {
+            "a": "Pronoun",
+            "b": "Noun",
+            "c": "Adjective"
+        }
+    },
+    {
+        "id": 2,
+        "question": "Words used to modify, describe, or qualify nouns and pronouns are known as:",
+        "correct": "c",
+        "options": {
+            "a": "Abstract ideas",
+            "b": "Adverbs",
+            "c": "Adjectives"
+        }
+    },
+    {
+        "id": 3,
+        "question": "A word that can take the position of noun is known as:",
+        "correct": "a",
+        "options": {
+            "a": "Pronoun",
+            "b": "Preposition",
+            "c": "Conjunction"
+        }
+    },
+    {
+        "id": 4,
+        "question": "A verb is used to express:",
+        "correct": "c",
+        "options": {
+            "a": "Action, existence and meaning",
+            "b": "Condition, adverbs and action",
+            "c": "Condition, existence and action"
+        }
+    },
+    {
+        "id": 5,
+        "question": "She speaks English _quite_ well. The underlined word is an example of an adverb modifying:",
+        "correct": "a",
+        "options": {
+            "a": "Adverb",
+            "b": "Adjective",
+            "c": "Verb"
+        }
+    },
+    {
+        "id": 6,
+        "question": "A word used to explain the relationship between two grammatical words is:",
+        "correct": "b",
+        "options": {
+            "a": "Conjunction",
+            "b": "Preposition",
+            "c": "Interjections"
+        }
+    },
+    {
+        "id": 7,
+        "question": "He tried hard _but_ he failed in his attempt. 'But' functions in this sentence as:",
+        "correct": "a",
+        "options": {
+            "a": "Conjunction",
+            "b": "Preposition",
+            "c": "Interjection"
+        }
+    },
+    {
+        "id": 8,
+        "question": "Interjections are words which express:",
+        "correct": "a",
+        "options": {
+            "a": "Sudden feeling",
+            "b": "Exclamations",
+            "c": "The Marvelous"
+        }
+    },
+    {
+        "id": 9,
+        "question": "I had got a job _before_ I completed my graduation.",
+        "correct": "a",
+        "options": {
+            "a": "Conjunction",
+            "b": "Noun",
+            "c": "Preposition"
+        }
+    },
+    {
+        "id": 10,
+        "question": "I saw her _before_.",
+        "correct": "a",
+        "options": {
+            "a": "Adverb",
+            "b": "Preposition",
+            "c": "Adjective"
+        }
+    },
+    {
+        "id": 11,
+        "question": "I applied for a _bank_ Loan.",
+        "correct": "a",
+        "options": {
+            "a": "Adjective",
+            "b": "Noun",
+            "c": "Verb"
+        }
+    },
+    {
+        "id": 12,
+        "question": "We went _round_ Lagos in a Taxi.",
+        "correct": "b",
+        "options": {
+            "a": "Verb",
+            "b": "Preposition",
+            "c": "Noun"
+        }
+    },
+    {
+        "id": 13,
+        "question": "Her _eyes_ were filled with wonder.",
+        "correct": "a",
+        "options": {
+            "a": "Noun",
+            "b": "Verb",
+            "c": "Adjective"
+        }
+    },
+    {
+        "id": 14,
+        "question": "You must use your common _sense_ in a critical situation.",
+        "correct": "c",
+        "options": {
+            "a": "Verb",
+            "b": "Adjective",
+            "c": "Noun"
+        }
+    },
+    {
+        "id": 15,
+        "question": "I had met Janet _before_ her marriage.",
+        "correct": "a",
+        "options": {
+            "a": "Preposition",
+            "b": "Adverb",
+            "c": "Conjunction"
+        }
+    },
+    {
+        "id": 16,
+        "question": "I had a sweet _dream_ yesterday.",
+        "correct": "a",
+        "options": {
+            "a": "Noun",
+            "b": "Verb",
+            "c": "Adjective"
+        }
+    },
+    {
+        "id": 17,
+        "question": "I _dreamt_ about marrying Ruth.",
+        "correct": "b",
+        "options": {
+            "a": "Noun",
+            "b": "Verb",
+            "c": "Adjective"
+        }
+    },
+    {
+        "id": 18,
+        "question": "Poets live in a _dream_ world.",
+        "correct": "c",
+        "options": {
+            "a": "Noun",
+            "b": "Verb",
+            "c": "Adjective"
+        }
+    },
+    {
+        "id": 19,
+        "question": "Grace is my _better_ half.",
+        "correct": "a",
+        "options": {
+            "a": "Adjective",
+            "b": "Adverb",
+            "c": "Verb"
+        }
+    },
+    {
+        "id": 20,
+        "question": "I tried _better_ to help her.",
+        "correct": "a",
+        "options": {
+            "a": "Adverb",
+            "b": "Verb",
+            "c": "Noun"
+        }
+    },
+    {
+        "id": 21,
+        "question": "We must try to _better_ our abilities.",
+        "correct": "a",
+        "options": {
+            "a": "Verb",
+            "b": "Noun",
+            "c": "Adjective"
+        }
+    },
+    {
+        "id": 22,
+        "question": "I did my _better_ to succeed in life.",
+        "correct": "a",
+        "options": {
+            "a": "Noun",
+            "b": "Adverb",
+            "c": "Verb"
+        }
+    },
+    {
+        "id": 23,
+        "question": "John _booked_ a car to tour Jos.",
+        "correct": "a",
+        "options": {
+            "a": "Verb",
+            "b": "Adjective",
+            "c": "Noun"
+        }
+    },
+    {
+        "id": 24,
+        "question": "Bitrus went to the _book-fair_ held in Biu.",
+        "correct": "a",
+        "options": {
+            "a": "Adjective",
+            "b": "Verb",
+            "c": "Noun"
+        }
+    },
+    {
+        "id": 25,
+        "question": "_Books_ are created by mighty minds.",
+        "correct": "a",
+        "options": {
+            "a": "Noun",
+            "b": "Adjective",
+            "c": "Verb"
+        }
+    },
+    {
+        "id": 26,
+        "question": "Jumai _eyed_ me with admiration.",
+        "correct": "b",
+        "options": {
+            "a": "Adjective",
+            "b": "Verb",
+            "c": "Noun"
+        }
+    },
+    {
+        "id": 27,
+        "question": "My mother often goes to the _eye_ clinic",
+        "correct": "a",
+        "options": {
+            "a": "Adjective",
+            "b": "Verb",
+            "c": "Noun"
+        }
+    },
+    {
+        "id": 28,
+        "question": "*That your car is very beautiful*. Should  correctly be:",
+        "correct": "b",
+        "options": {
+            "a": "Your that car is very beautiful",
+            "b": "That car of yours is very beautiful",
+            "c": "Is very beautiful that your car"
+        }
+    },
+    {
+        "id": 29,
+        "question": "Name given in common to every person or thing of the same class or kind is known as:",
+        "correct": "b",
+        "options": {
+            "a": "Proper noun",
+            "b": "Common noun",
+            "c": "Collective noun"
+        }
+    },
+    {
+        "id": 30,
+        "question": "A proper noun is the name of some particular place or thing.",
+        "correct": "a",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 31,
+        "question": "Which of these groups is a good example of collective noun?",
+        "correct": "c",
+        "options": {
+            "a": "Boy,  Officer, Poet and Town",
+            "b": "Mary, Kano, Gambia and Achebe",
+            "c": "Team, jury, cattle and galaxy of stars"
+        }
+    },
+    {
+        "id": 32,
+        "question": "A concrete noun is the name of a thing that can be touched or seen like:",
+        "correct": "a",
+        "options": {
+            "a": "Sun, boy and car",
+            "b": "Sorrow, joy and truth",
+            "c": "Childhood, admission and liberty"
+        }
+    },
+    {
+        "id": 33,
+        "question": "An abstract noun is the name of a:",
+        "correct": "a",
+        "options": {
+            "a": "Quality,  action or state",
+            "b": "Liberty, thought and freedom",
+            "c": "Life, justice and death"
+        }
+    },
+    {
+        "id": 34,
+        "question": "Student, photograph, table and man are not good examples of countable nouns.",
+        "correct": "b",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 35,
+        "question": "Things that cannot be counted or divided into singular and plural are categorized in English as:",
+        "correct": "b",
+        "options": {
+            "a": "Material Nouns",
+            "b": "Uncountable nouns",
+            "c": "Liquid and gas nouns"
+        }
+    },
+    {
+        "id": 36,
+        "question": "A material noun is the name of a ..... or ..... out of which things are made.",
+        "correct": "a",
+        "options": {
+            "a": "Material or substance",
+            "b": "Glass or wood",
+            "c": "Wool or copper"
+        }
+    },
+    {
+        "id": 37,
+        "question": "Provide the noun form of the adjective *Able*.",
+        "correct": "Ability"
+    },
+    {
+        "id": 38,
+        "question": "Provide the noun form of the adjective *True*",
+        "correct": "Truth"
+    },
+    {
+        "id": 39,
+        "question": "Provide the noun form of the adjective *Ignorant*.",
+        "correct": "Ignorance"
+    },
+    {
+        "id": 40,
+        "question": "Provide the noun form of the adjective *Novel*.",
+        "correct": "Novelty"
+    },
+    {
+        "id": 41,
+        "question": "Provide the noun form of the adjective *Fertile*.",
+        "correct": "Fertility"
+    },
+    {
+        "id": 42,
+        "question": "Provide the noun form of the adjective *Wise*.",
+        "correct": "Wisdom"
+    },
+    {
+        "id": 43,
+        "question": "Provide the noun form of the adjective *Honest*.",
+        "correct": "Honesty"
+    },
+    {
+        "id": 44,
+        "question": "Provide the noun form of the adjective *Vain*.",
+        "correct": "Vanity"
+    },
+    {
+        "id": 45,
+        "question": "Provide the noun form of the adjective *Generous*.",
+        "correct": "Generosity"
+    },
+    {
+        "id": 46,
+        "question": "Provide the noun form of the adjective *Ignorant*.",
+        "correct": "Ignorance"
+    },
+    {
+        "id": 47,
+        "question": "Provide the noun form of the Verb *Admit*.",
+        "correct": "Admission"
+    },
+    {
+        "id": 48,
+        "question": "Provide the noun form of the Verb *Exist*.",
+        "correct": "Existence"
+    },
+    {
+        "id": 49,
+        "question": "Provide the noun form of the Verb *Believe*.",
+        "correct": "Belief"
+    },
+    {
+        "id": 50,
+        "question": "Provide the noun form of the Verb *Deny*.",
+        "correct": "Denial"
+    },
+    {
+        "id": 51,
+        "question": "Provide the noun form of the Verb *Heal*.",
+        "correct": "Health"
+    },
+    {
+        "id": 52,
+        "question": "Provide the noun form of the Verb *Wed*.",
+        "correct": "Wedding"
+    },
+    {
+        "id": 53,
+        "question": "Provide the noun form of the Verb *Marry*.",
+        "correct": "Marriage"
+    },
+    {
+        "id": 54,
+        "question": "Provide the noun form of the Verb *Perform*.",
+        "correct": "Performance"
+    },
+    {
+        "id": 55,
+        "question": "Provide the noun form of the Verb *Judge*.",
+        "correct": "Judgement"
+    },
+    {
+        "id": 56,
+        "question": "Provide the noun form of the Verb *Think*.",
+        "correct": "Thought"
+    },
+    {
+        "id": 57,
+        "question": "Provide the noun form of the Verb *Narrate*.",
+        "correct": "Narration"
+    },
+    {
+        "id": 58,
+        "question": "Provide the noun form of the Verb *Live*.",
+        "correct": "Life"
+    },
+    {
+        "id": 59,
+        "question": "Sounds such as */p/, /b/, /m/ and /w/*  produced when the two lips come together are called:",
+        "correct": "c",
+        "options": {
+            "a": "Lab-io-dental sound",
+            "b": "Alveolar sound",
+            "c": "Bilabial sound"
+        }
+    },
+    {
+        "id": 60,
+        "question": "*/f/ and /v/* are examples of:",
+        "correct": "a",
+        "options": {
+            "a": "Lab-io-dental sound",
+            "b": "Velar sound",
+            "c": "Palatal sound"
+        }
+    },
+    {
+        "id": 61,
+        "question": "*/t/,/d/,/s/and /z/* are all referred to as:",
+        "correct": "b",
+        "options": {
+            "a": "Velar sound",
+            "b": "Alveolar sound",
+            "c": "Bilabial sound"
+        }
+    },
+    {
+        "id": 62,
+        "question": "When the middle of tongue makes contact with the soft-palate ..... sound is produced.",
+        "correct": "a",
+        "options": {
+            "a": "Palatal",
+            "b": "Nasal",
+            "c": "Dental"
+        }
+    },
+    {
+        "id": 63,
+        "question": "*/k/, /g/ and / \u1d51/* are called:",
+        "correct": "a",
+        "options": {
+            "a": "Velar",
+            "b": "Palatal",
+            "c": "Alveolar"
+        }
+    },
+    {
+        "id": 64,
+        "question": "Plosives sounds are sounds produced with an explosion of air trapped in the .....",
+        "correct": "Mouth"
+    },
+    {
+        "id": 65,
+        "question": "There is ..... correspondence between sound and spelling in English.",
+        "correct": "No"
+    },
+    {
+        "id": 66,
+        "question": "There exist differences between British and American English.",
+        "correct": "a",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 67,
+        "question": "Our English pronunciation tends to be orthographic rather than phonetic.",
+        "correct": "a",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 68,
+        "question": "How many _Phonemes (sounds)_ are there in English.",
+        "correct": "44"
+    },
+    {
+        "id": 69,
+        "question": "There are ..... consonants sound in English.",
+        "correct": "24"
+    },
+    {
+        "id": 70,
+        "question": "There are ..... vowel sounds in English.",
+        "correct": "20"
+    },
+    {
+        "id": 71,
+        "question": "Vowels are classified into: Mono thong, ....., triphthong.",
+        "correct": "Diphthong"
+    },
+    {
+        "id": 72,
+        "question": "*/c/* is sometimes pronounced as *[s] and [k]*.",
+        "correct": "a",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 73,
+        "question": "Tense and ..... is used to describe: long and short vowels.",
+        "correct": "Lax"
+    },
+    {
+        "id": 74,
+        "question": "The vocabulary of English is one of the richest in the world.",
+        "correct": "a",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 75,
+        "question": "Most English words are largely borrowed from French.",
+        "correct": "a",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 76,
+        "question": "Borrowing from French is a direct by-product of the colonization of England by the French.",
+        "correct": "a",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 77,
+        "question": "*/s/* is sometimes pronounced as *[z] and [s]*",
+        "correct": "a",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 78,
+        "question": "*/k/* is sometimes pronounced as *[x], [q] and [c]*",
+        "correct": "a",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 79,
+        "question": "*/f/* is sometimes pronounced as *[ph] and [gh]*",
+        "correct": "a",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 80,
+        "question": "*/k/ and /w/* are ..... when they preceded */n/ and /r/*",
+        "correct": "Silent"
+    },
+    {
+        "id": 81,
+        "question": "Sounds that are produced with an obstruction of air as a result of contact of the vocal organs are called:  ..... sounds",
+        "correct": "Consonant"
+    },
+    {
+        "id": 82,
+        "question": "Helen is *an apple of discord*.",
+        "correct": "a",
+        "options": {
+            "a": "Cause of contention or quarrel",
+            "b": "Trouble shooter",
+            "c": "Loves imported apples"
+        }
+    },
+    {
+        "id": 83,
+        "question": "Priscilla is *an apple of my eye*.",
+        "correct": "b",
+        "options": {
+            "a": "The black spot on my eye",
+            "b": "Very dear to me",
+            "c": "Very beautiful to my eyes"
+        }
+    },
+    {
+        "id": 84,
+        "question": "In idiom *animal spirits* means:",
+        "correct": "a",
+        "options": {
+            "a": "Having vigour and health",
+            "b": "A person that is wicked",
+            "c": "A person who acts like animal"
+        }
+    },
+    {
+        "id": 85,
+        "question": "You should dress your bed in *apple pie order*.",
+        "correct": "c",
+        "options": {
+            "a": "To make it dear to your friend",
+            "b": "To look the shape of an apple",
+            "c": "To look neat and clean"
+        }
+    },
+    {
+        "id": 86,
+        "question": "The lion is *a beast of prey*.",
+        "correct": "a",
+        "options": {
+            "a": "Lives by killing and eating other animals",
+            "b": "Is a violent animal",
+            "c": "The lion could be a dangerous animal"
+        }
+    },
+    {
+        "id": 87,
+        "question": "*A bull in a china shop* is a person:",
+        "correct": "a",
+        "options": {
+            "a": "Who is unnecessary or evil",
+            "b": "A strong man in the shop of a Chinese",
+            "c": "A terrorist in glass shops"
+        }
+    },
+    {
+        "id": 88,
+        "question": "He killed his friend in *Dutch courage*.",
+        "correct": "b",
+        "options": {
+            "a": "He was encouraged by Dutch people to kill his friend",
+            "b": "He killed his friend by courage excited by wine",
+            "c": "He killed his friend to show the pride of being a Dutch"
+        }
+    },
+    {
+        "id": 89,
+        "question": "A cock and bull story means:",
+        "correct": "c",
+        "options": {
+            "a": "A story about cocks and bulls",
+            "b": "Afd folktale involving eating of cocks and bulls",
+            "c": "Simply a false story"
+        }
+    },
+    {
+        "id": 90,
+        "question": "Soyinka is *a man of letters*.",
+        "correct": "a",
+        "options": {
+            "a": "A literary artist",
+            "b": "He writes letters for every communication",
+            "c": "He is a poet"
+        }
+    },
+    {
+        "id": 91,
+        "question": "*A big gun* means.",
+        "correct": "c",
+        "options": {
+            "a": "A person who handles guns efficiently",
+            "b": "Any gun bigger than the pistol",
+            "c": "A person of great importance"
+        }
+    },
+    {
+        "id": 92,
+        "question": "Rhoda is *a blue stocking*.",
+        "correct": "a",
+        "options": {
+            "a": "A lady who pretends to have literary taste",
+            "b": "Rhoda likes blue stockings",
+            "c": "A woman who is fond of the blue colour"
+        }
+    },
+    {
+        "id": 93,
+        "question": "We should be aware of *black sheep* in society.",
+        "correct": "c",
+        "options": {
+            "a": "An odd man in society",
+            "b": "A controversial person",
+            "c": "An evil person"
+        }
+    },
+    {
+        "id": 94,
+        "question": "My husband is *a chicken hearted fellow*.",
+        "correct": "a",
+        "options": {
+            "a": "A cowardly person",
+            "b": "An evil person",
+            "c": "He likes chicken"
+        }
+    },
+    {
+        "id": 95,
+        "question": "*A close fasted man*:",
+        "correct": "a",
+        "options": {
+            "a": "dislikes spending",
+            "b": "is a cowardly person",
+            "c": "beats his children often"
+        }
+    },
+    {
+        "id": 96,
+        "question": "His protest against injustice proved to be *a cry in the wilderness*.",
+        "correct": "c",
+        "options": {
+            "a": "one among many others",
+            "b": "like a lone tree in the desert",
+            "c": "a useless attempt"
+        }
+    },
+    {
+        "id": 97,
+        "question": "It is no use living in *a fool's paradise*.",
+        "correct": "a",
+        "options": {
+            "a": "an imaginary happiness",
+            "b": "heaven for  the fools",
+            "c": "a weak point of a person"
+        }
+    },
+    {
+        "id": 98,
+        "question": "*Evil genius* refers to a person:",
+        "correct": "c",
+        "options": {
+            "a": "who is keen at doing harm or mischief",
+            "b": "who is interested in destruction",
+            "c": "all  the above"
+        }
+    },
+    {
+        "id": 99,
+        "question": "We are at *the fag end* of the terrorism menace.",
+        "correct": "a",
+        "options": {
+            "a": "the close of the ...",
+            "b": "height of the ...",
+            "c": "involved in the ..."
+        }
+    },
+    {
+        "id": 100,
+        "question": "He got a job by paying *hush money*.",
+        "correct": "a",
+        "options": {
+            "a": "bribe",
+            "b": "tax",
+            "c": "levy"
+        }
+    },
+    {
+        "id": 101,
+        "question": "Bukar is *a laughing stock*.",
+        "correct": "b",
+        "options": {
+            "a": "people often laugh at him",
+            "b": "a funny person",
+            "c": "a boastful person"
+        }
+    },
+    {
+        "id": 102,
+        "question": "*_Null and void_* means:",
+        "correct": "a",
+        "options": {
+            "a": "illegal",
+            "b": "empty",
+            "c": "blank"
+        }
+    },
+    {
+        "id": 103,
+        "question": "*_Flesh and blood_* means:",
+        "correct": "a",
+        "options": {
+            "a": "human nature",
+            "b": "flesh of living things",
+            "c": "feeble beings"
+        }
+    },
+    {
+        "id": 104,
+        "question": "*The rank and file* attended Rhoda's wedding.",
+        "correct": "a",
+        "options": {
+            "a": "all sections of people",
+            "b": "those for and against",
+            "c": "legal sections of a department"
+        }
+    },
+    {
+        "id": 105,
+        "question": "God is high and low.",
+        "correct": "a",
+        "options": {
+            "a": "God is everywhere",
+            "b": "God is of the heaven and earth",
+            "c": "God made the high and the low"
+        }
+    },
+    {
+        "id": 106,
+        "question": "She comes to me *ever and anon*.",
+        "correct": "a",
+        "options": {
+            "a": "now and then",
+            "b": "ones in a while",
+            "c": "continuously"
+        }
+    },
+    {
+        "id": 107,
+        "question": "His merits as president are *few and far between*.",
+        "correct": "a",
+        "options": {
+            "a": "very rare or small in number",
+            "b": "very far from the people",
+            "c": "very small if shared among the people"
+        }
+    },
+    {
+        "id": 108,
+        "question": "The *first and foremost duty* of a student is to pursue his education.",
+        "correct": "a",
+        "options": {
+            "a": "the most important duty ...",
+            "b": "the most serious duty ...",
+            "c": "the first duty ..."
+        }
+    },
+    {
+        "id": 109,
+        "question": "John is a newly appointed secretary. He is very keen at taking down dictation and typing it neatly. It is evident that a *new broom sweeps clean*.",
+        "correct": "a",
+        "options": {
+            "a": "a new employee works with zeal",
+            "b": "a new employee dresses neatly",
+            "c": "a new employee keeps his table clean"
+        }
+    },
+    {
+        "id": 110,
+        "question": "I felt *ill at ease* at the interview.",
+        "correct": "a",
+        "options": {
+            "a": "restless",
+            "b": "comfortable",
+            "c": "disturbed"
+        }
+    },
+    {
+        "id": 111,
+        "question": "*A feather in one's cap* means:",
+        "correct": "a",
+        "options": {
+            "a": "new honour",
+            "b": "new chieftain title",
+            "c": "additional bird's feather in his red cap"
+        }
+    },
+    {
+        "id": 112,
+        "question": "_*The best people of the earth*_ can be described in idiom as:",
+        "correct": "a",
+        "options": {
+            "a": "the salt of the earth",
+            "b": "the sugar of the earth",
+            "c": "Highwaymen of the earth"
+        }
+    },
+    {
+        "id": 113,
+        "question": "The police put him *on the rack* to extract the truth from him.",
+        "correct": "b",
+        "options": {
+            "a": "in chains",
+            "b": "tormented",
+            "c": "handcuffed"
+        }
+    },
+    {
+        "id": 114,
+        "question": "Buba is *a man of parts*.",
+        "correct": "a",
+        "options": {
+            "a": "talented",
+            "b": "multi-talented",
+            "c": "belongs to many parts"
+        }
+    },
+    {
+        "id": 115,
+        "question": "The villagers ran *helter-skelter* on seeing the insurgents.",
+        "correct": "b",
+        "options": {
+            "a": "in random direction",
+            "b": "in confusion",
+            "c": "one after the other"
+        }
+    },
+    {
+        "id": 116,
+        "question": "*First water* in idiom means:",
+        "correct": "c",
+        "options": {
+            "a": "First rain of the year",
+            "b": "an extravert student",
+            "c": "Highest grade"
+        }
+    },
+    {
+        "id": 117,
+        "question": "I feel like living in the *seventh heaven*.",
+        "correct": "a",
+        "options": {
+            "a": "A place of extreme happiness",
+            "b": "The heaven after the heavens",
+            "c": "A dream world"
+        }
+    },
+    {
+        "id": 118,
+        "question": "*Highwayman* is a:",
+        "correct": "c",
+        "options": {
+            "a": "Federal Road Safety official",
+            "b": "Police Highway patrol man",
+            "c": "A robber"
+        }
+    },
+    {
+        "id": 119,
+        "question": "*A blockhead* is:",
+        "correct": "a",
+        "options": {
+            "a": "a dull person",
+            "b": "Evil minded person",
+            "c": "a talented person"
+        }
+    },
+    {
+        "id": 120,
+        "question": "It is *high time* that you gave up smoking.",
+        "correct": "a",
+        "options": {
+            "a": "it is already late",
+            "b": "this is the right time",
+            "c": "the has come"
+        }
+    },
+    {
+        "id": 121,
+        "question": "Stella is a *black-hearted* girl.",
+        "correct": "b",
+        "options": {
+            "a": "a sadist",
+            "b": "evil minded",
+            "c": "dark-skinned"
+        }
+    },
+    {
+        "id": 122,
+        "question": "I missed *the flower* of the poem because the language was too difficult for me to understand.",
+        "correct": "a",
+        "options": {
+            "a": "the beauty of the poem",
+            "b": "the rhyming scheme of the poem",
+            "c": "the best part of the poem"
+        }
+    },
+    {
+        "id": 123,
+        "question": "Visiting the Bahamas still remains an *el dorado* in my life.",
+        "correct": "a",
+        "options": {
+            "a": "an unattainable thing or aim",
+            "b": "the best achievement of my life",
+            "c": "the best thing I want to achieve"
+        }
+    },
+    {
+        "id": 124,
+        "question": "My mother is a *Good Samaritan*.",
+        "correct": "c",
+        "options": {
+            "a": "she loves and helps the poor",
+            "b": "she is always ready to help",
+            "c": "all of the above"
+        }
+    },
+    {
+        "id": 125,
+        "question": "A poet is a *lotus eater*.",
+        "correct": "c",
+        "options": {
+            "a": "lives in a dream world",
+            "b": "creates fanciful things and lives in them",
+            "c": "all of the above"
+        }
+    },
+    {
+        "id": 126,
+        "question": "*A valuable thing which proves to be an evil* is described in idiom as:",
+        "correct": "a",
+        "options": {
+            "a": "Pandora's box",
+            "b": "panacea",
+            "c": "arcadia"
+        }
+    },
+    {
+        "id": 127,
+        "question": "The president tried to find out *a panacea* for all political problems in Nigeria.",
+        "correct": "a",
+        "options": {
+            "a": "a universal remedy",
+            "b": "a point of consensus",
+            "c": "a simple solution"
+        }
+    },
+    {
+        "id": 128,
+        "question": "The economic freedom for women is nothing but an *utopia*.",
+        "correct": "c",
+        "options": {
+            "a": "a universal remedy to family problems",
+            "b": "a remedy without any choice  at all",
+            "c": "an imaginary (perfect) model or plan"
+        }
+    },
+    {
+        "id": 129,
+        "question": "*A place of natural beauty and simple life* in idiom is:",
+        "correct": "a",
+        "options": {
+            "a": "Arcadia",
+            "b": "panacea",
+            "c": "Utopia"
+        }
+    },
+    {
+        "id": 130,
+        "question": "The collapse of the house was a *colossal loss*.",
+        "correct": "a",
+        "options": {
+            "a": "huge loss",
+            "b": "strange loss",
+            "c": "serious  loss"
+        }
+    },
+    {
+        "id": 131,
+        "question": "My uncle is a *Don Quixote*.",
+        "correct": "c",
+        "options": {
+            "a": "He does not know how to behave himself",
+            "b": "His habits are very peculiar",
+            "c": "His actions are foolish"
+        }
+    },
+    {
+        "id": 132,
+        "question": "A She has only a *Hobson's choice*.",
+        "correct": "a",
+        "options": {
+            "a": "no choice at all",
+            "b": "relating to pleasures",
+            "c": "a strange choice"
+        }
+    },
+    {
+        "id": 133,
+        "question": "I have no zeal for an *epicurean life*.",
+        "correct": "a",
+        "options": {
+            "a": "relating to pleasures",
+            "b": "life of fantasy",
+            "c": "life of pride"
+        }
+    },
+    {
+        "id": 134,
+        "question": "A mentor is an experienced and trusted adviser.",
+        "correct": "a",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 135,
+        "question": "There are generally *two types of uses* of adjectives:",
+        "correct": "c",
+        "options": {
+            "a": "Attributive  and superlative",
+            "b": "Comparative and Predicative",
+            "c": "Attributive and predicative"
+        }
+    },
+    {
+        "id": 136,
+        "question": "An adjective used with a noun is known as:",
+        "correct": "a",
+        "options": {
+            "a": "Attributive",
+            "b": "Predicative",
+            "c": "Comparative"
+        }
+    },
+    {
+        "id": 137,
+        "question": "An adjective used with a verb is known as:",
+        "correct": "a",
+        "options": {
+            "a": "predicative use",
+            "b": "attributive",
+            "c": "comparative"
+        }
+    },
+    {
+        "id": 138,
+        "question": "_*She is afraid*_ is a good example of:",
+        "correct": "c",
+        "options": {
+            "a": "Predicative adjective",
+            "b": "Attributive adjective",
+            "c": "Both of the above"
+        }
+    },
+    {
+        "id": 139,
+        "question": "Every adjective has three degrees of comparison: positive degree, ..... degree and Superlative degree.",
+        "correct": "Comparative"
+    },
+    {
+        "id": 140,
+        "question": "An adjective used to talk about the quality of a person, place or thing is known as:",
+        "correct": "a",
+        "options": {
+            "a": "positive degree",
+            "b": "comparative degree",
+            "c": "superlative degree"
+        }
+    },
+    {
+        "id": 141,
+        "question": "_*He is a brave man*_ is an example of:",
+        "correct": "a",
+        "options": {
+            "a": "positive degree",
+            "b": "comparative degree",
+            "c": "superlative degree"
+        }
+    },
+    {
+        "id": 142,
+        "question": "An adjective used to compare two persons or things or their qualities is known as:",
+        "correct": "b",
+        "options": {
+            "a": "positive degree",
+            "b": "comparative degree",
+            "c": "superlative degree"
+        }
+    },
+    {
+        "id": 143,
+        "question": "_*She is more beautiful than her sister*_ is an example of:",
+        "correct": "b",
+        "options": {
+            "a": "positive degree",
+            "b": "comparative degree",
+            "c": "superlative degree"
+        }
+    },
+    {
+        "id": 144,
+        "question": "An adjective used in comparing more than two persons or things or their qualities is known as:",
+        "correct": "c",
+        "options": {
+            "a": "positive degree",
+            "b": "comparative degree",
+            "c": "superlative degree"
+        }
+    },
+    {
+        "id": 145,
+        "question": "_*She is the most beautiful of all her sisters*_ is an example of:",
+        "correct": "c",
+        "options": {
+            "a": "positive degree",
+            "b": "comparative degree",
+            "c": "superlative degree"
+        }
+    },
+    {
+        "id": 146,
+        "question": "*Than* is added to in the:",
+        "correct": "b",
+        "options": {
+            "a": "positive degree",
+            "b": "comparative degree",
+            "c": "superlative degree"
+        }
+    },
+    {
+        "id": 147,
+        "question": "The definite article *the* is placed in the:",
+        "correct": "c",
+        "options": {
+            "a": "positive degree",
+            "b": "comparative degree",
+            "c": "superlative degree"
+        }
+    },
+    {
+        "id": 148,
+        "question": "Most adjectives form their comparative by adding *'er'* and their superlative by adding ..... to the positive.",
+        "correct": "est"
+    },
+    {
+        "id": 149,
+        "question": "Provide the missing degree of comparison of the adjective Tall, Taller, .....",
+        "correct": "Tallest"
+    },
+    {
+        "id": 150,
+        "question": "Provide the missing degree of comparison of the adjective  Kind, .....,  Kindest.",
+        "correct": "kinder"
+    },
+    {
+        "id": 151,
+        "question": "In comparison of adjectives, when the positive ends with ....., only _r and st_ are added to form the comparative and superlative.",
+        "correct": "e"
+    },
+    {
+        "id": 152,
+        "question": "Provide the missing degree of comparison of the adjective  Brave, Braver, .....",
+        "correct": "Bravest"
+    },
+    {
+        "id": 153,
+        "question": "Provide the missing degree of comparison of the adjective Large, ....., Largest.",
+        "correct": "Larger"
+    },
+    {
+        "id": 154,
+        "question": "In comparison of adjectives when the positive ends with '.....' and has a consonant before it '.....' is changed into *'i'* and *'er'* and *'est'* are added.",
+        "correct": "a",
+        "options": {
+            "a": "y",
+            "b": "t",
+            "c": "ch"
+        }
+    },
+    {
+        "id": 155,
+        "question": "In comparison of adjectives sometimes the last letter of the positive is doubled and  '.....' and '.....' are added.",
+        "correct": "a",
+        "options": {
+            "a": "'er' and 'est'",
+            "b": "'ch' and 'ies'",
+            "c": "'est' and 'er'"
+        }
+    },
+    {
+        "id": 156,
+        "question": "Adjectives like '.....' and '.....' form their comparative and superlative by adding *'more'* and *'most'* before them.",
+        "correct": "a",
+        "options": {
+            "a": "Beautiful and Courageous",
+            "b": "Tall and Kind",
+            "c": "Good and Well"
+        }
+    },
+    {
+        "id": 157,
+        "question": "Some adjectives have no fixed rules to form their comparative and superlative forms. In the study of grammar such adjective forms are known as .....",
+        "correct": "a",
+        "options": {
+            "a": "Irregular forms",
+            "b": "Adjectival forms",
+            "c": "The exceptional forms"
+        }
+    },
+    {
+        "id": 158,
+        "question": "Complete the degree of comparison of the adjective *'well'*",
+        "correct": "c",
+        "options": {
+            "a": "Weller wellest",
+            "b": "More well, Most Well",
+            "c": "Better, Best"
+        }
+    },
+    {
+        "id": 159,
+        "question": "Complete the degree of comparison of the adjective *'ill'*",
+        "correct": "b",
+        "options": {
+            "a": "Iller illest",
+            "b": "Worse, worst",
+            "c": "More ill, most ill"
+        }
+    },
+    {
+        "id": 160,
+        "question": "Complete the degree of comparison of the adjective *'little'*",
+        "correct": "c",
+        "options": {
+            "a": "Less, least",
+            "b": "Lesser, least",
+            "c": "All of the above"
+        }
+    },
+    {
+        "id": 161,
+        "question": "Complete the degree of comparison of the adjective *'late'*",
+        "correct": "c",
+        "options": {
+            "a": "Later, latest",
+            "b": "Latter, last",
+            "c": "All of the above"
+        }
+    },
+    {
+        "id": 162,
+        "question": "Complete the degree of comparison of the adjective *'up'*",
+        "correct": "c",
+        "options": {
+            "a": "Upper, uppermost",
+            "b": "Upper, upmost",
+            "c": "All of the above"
+        }
+    },
+    {
+        "id": 163,
+        "question": "Figures of speech are used in poetry to express the ideas and feelings in an:",
+        "correct": "a",
+        "options": {
+            "a": "Impressive manner",
+            "b": "Extensive manner",
+            "c": "Effective manner"
+        }
+    },
+    {
+        "id": 164,
+        "question": "A  figure of speech which is used to compare two different things having the same quality is known as a:",
+        "correct": "a",
+        "options": {
+            "a": "Simile",
+            "b": "Metaphor",
+            "c": "Personification"
+        }
+    },
+    {
+        "id": 165,
+        "question": "*Life is a dream*. This is an implied simile in which the two things (life and dream) are treated as one. Therefore the entire statement is a:",
+        "correct": "b",
+        "options": {
+            "a": "Simile",
+            "b": "Metaphor",
+            "c": "Personification"
+        }
+    },
+    {
+        "id": 166,
+        "question": "*Death lays his icy hands on kings* is a good example of:",
+        "correct": "c",
+        "options": {
+            "a": "Simile",
+            "b": "Metaphor",
+            "c": "Personification"
+        }
+    },
+    {
+        "id": 167,
+        "question": "A figure of speech which is used to address a lifeless object or an abstract idea as if it were a living being is known as an:",
+        "correct": "a",
+        "options": {
+            "a": "Apostrophe",
+            "b": "Metaphor",
+            "c": "Personification"
+        }
+    },
+    {
+        "id": 168,
+        "question": "A figure of speech which is used to make a fact exaggeration is known as:",
+        "correct": "a",
+        "options": {
+            "a": "Hyperbole",
+            "b": "Apostrophe",
+            "c": "Oxymoron"
+        }
+    },
+    {
+        "id": 169,
+        "question": "*He has fallen asleep* (dead) is an example of:",
+        "correct": "b",
+        "options": {
+            "a": "Hyperbole",
+            "b": "Euphemism",
+            "c": "Oxymoron"
+        }
+    },
+    {
+        "id": 170,
+        "question": "*Give every man thy ear, but few thy voice* is a good example of:",
+        "correct": "c",
+        "options": {
+            "a": "Hyperbole",
+            "b": "Apostrophe",
+            "c": "Antithesis"
+        }
+    },
+    {
+        "id": 171,
+        "question": "A figure of speech which is used to express two contradictory qualities of the same thing is known as:",
+        "correct": "c",
+        "options": {
+            "a": "Hyperbole",
+            "b": "Euphemism",
+            "c": "Oxymoron"
+        }
+    },
+    {
+        "id": 172,
+        "question": "*Language  is the art of concealing thought* is an example of:",
+        "correct": "b",
+        "options": {
+            "a": "Hyperbole",
+            "b": "Epigram",
+            "c": "Oxymoron"
+        }
+    },
+    {
+        "id": 173,
+        "question": "When the opposite meaning is expressed which is different from the real meaning as in, _*You are a pretty fellow*_, the figure of is therefore an:",
+        "correct": "b",
+        "options": {
+            "a": "Hyperbole",
+            "b": "Irony",
+            "c": "Oxymoron"
+        }
+    },
+    {
+        "id": 174,
+        "question": "*An ambassador is an honest man who lies abroad for the good of his country*. This is an example of:",
+        "correct": "c",
+        "options": {
+            "a": "Hyperbole",
+            "b": "Euphemism",
+            "c": "Pun"
+        }
+    },
+    {
+        "id": 175,
+        "question": "Most English words are largely borrowed from .....",
+        "correct": "b",
+        "options": {
+            "a": "Greek",
+            "b": "French",
+            "c": "Latin",
+            "d": "Spanish"
+        }
+    },
+    {
+        "id": 176,
+        "question": "There is ..... correspondence between sound and spelling in English",
+        "correct": "a",
+        "options": {
+            "a": "no",
+            "b": "high",
+            "c": "low",
+            "d": "absolute"
+        }
+    },
+    {
+        "id": 177,
+        "question": "There are ..... consonants sounds in English.",
+        "correct": "a",
+        "options": {
+            "a": "24",
+            "b": "49",
+            "c": "26",
+            "d": "20"
+        }
+    },
+    {
+        "id": 178,
+        "question": "There ..... vowel sounds in English",
+        "correct": "d",
+        "options": {
+            "a": "24",
+            "b": "49",
+            "c": "26",
+            "d": "20"
+        }
+    },
+    {
+        "id": 179,
+        "question": "Vowels are classified into .....",
+        "correct": "a",
+        "options": {
+            "a": "monophthongs, Diphthong and Triphthong",
+            "b": "monophthongs, Diphthong  and Triphthong",
+            "c": "monophthongs,  Diphthong and Triphthong",
+            "d": "monophthongs, Diphthong and Triphthong"
+        }
+    },
+    {
+        "id": 180,
+        "question": "*/c/* is sometimes pronounced as .....",
+        "correct": "a",
+        "options": {
+            "a": "[k] and [s]",
+            "b": "[x] and [z]",
+            "c": "[ch] and [tz]",
+            "d": "[cee] and [see]"
+        }
+    },
+    {
+        "id": 181,
+        "question": "*/s/* is sometimes pronounced as *[z] and [s]*",
+        "correct": "a",
+        "options": {
+            "a": "true",
+            "b": "false",
+            "c": "true only in British pronunciation",
+            "d": "not so in American Pronunciation"
+        }
+    },
+    {
+        "id": 182,
+        "question": "*/f/* is sometimes pronounced as *[ph] and [gh]*",
+        "correct": "a",
+        "options": {
+            "a": "true",
+            "b": "false",
+            "c": "true only in British pronunciation",
+            "d": "not so in American Pronunciation"
+        }
+    },
+    {
+        "id": 183,
+        "question": "*/k/ and /w/* are pronounced even when they preceded */n/ and /r/*",
+        "correct": "a",
+        "options": {
+            "a": "false",
+            "b": "true"
+        }
+    },
+    {
+        "id": 184,
+        "question": "Sounds that are produced with an obstruction of air as a result of contact of the vocal organs are called .....",
+        "correct": "a",
+        "options": {
+            "a": "consonant sounds",
+            "b": "vowel sounds",
+            "c": "triphthong sounds",
+            "d": "diphthong sounds"
+        }
+    },
+    {
+        "id": 185,
+        "question": "The three parameters used in description of consonant sounds are",
+        "correct": "a",
+        "options": {
+            "a": "place, manner and status of the glottis",
+            "b": "monophthongs, Diphthong and Triphthong",
+            "c": "place and manner",
+            "d": "monophthongs,  Diphthong and Triphthong"
+        }
+    },
+    {
+        "id": 186,
+        "question": "The organs that make contact with each other in the course of consonant production are called .....",
+        "correct": "a",
+        "options": {
+            "a": "organs of speech",
+            "b": "consonant mechanism",
+            "c": "bilabial system",
+            "d": "lab io-dental system"
+        }
+    },
+    {
+        "id": 187,
+        "question": "*Bilabial sounds* are produced when the two lips come together, example of such sounds include:",
+        "correct": "a",
+        "options": {
+            "a": "/p/, /b/, /m/ and / w/",
+            "b": "/f/ and /v/",
+            "c": "/t/, /d/, /s/ and /z/",
+            "d": "/k/ and /g/"
+        }
+    },
+    {
+        "id": 188,
+        "question": "*/f/ and /v/* are examples of ..... sounds",
+        "correct": "a",
+        "options": {
+            "a": "Lab-io-dental",
+            "b": "Palatal",
+            "c": "Velar",
+            "d": "Alveolar"
+        }
+    },
+    {
+        "id": 189,
+        "question": "*/t/ and /g/* are referred to as .....  sounds",
+        "correct": "c",
+        "options": {
+            "a": "Lab-io-dental",
+            "b": "Palatal",
+            "c": "Velar",
+            "d": "Alveolar"
+        }
+    },
+    {
+        "id": 190,
+        "question": "..... sounds are sounds produced with an explosion of air trapped in the mouth.",
+        "correct": "c",
+        "options": {
+            "a": "Affirmative",
+            "b": "Palatal",
+            "c": "plosive",
+            "d": "Alveolar"
+        }
+    },
+    {
+        "id": 191,
+        "question": "Sounds that are produced with gradual release of air rather sudden and the air escapes with a continuous flow are known as ..... sounds.",
+        "correct": "a",
+        "options": {
+            "a": "Affricate",
+            "b": "Palatal",
+            "c": "plosive",
+            "d": "Alveolar"
+        }
+    },
+    {
+        "id": 192,
+        "question": "Vowels are produced with a relatively freer flow of air than consonants.",
+        "correct": "a",
+        "options": {
+            "a": "true",
+            "b": "false"
+        }
+    },
+    {
+        "id": 193,
+        "question": "In the classification of vowel sounds, four parameters are used",
+        "correct": "a",
+        "options": {
+            "a": "Height of the tongue, part of the tongue, shape of the lips and length",
+            "b": "Height of the lips, part of the tongue, shape of the lips and length",
+            "c": "Height of the tongue, part of the tongue, shape of the lips and length of the lips",
+            "d": "Height of the tongue, part of the lips, shape of the lips and length of the tongue"
+        }
+    },
+    {
+        "id": 194,
+        "question": "*High, mid and low* describes ..... as a parameter",
+        "correct": "a",
+        "options": {
+            "a": "Height of the tongue",
+            "b": "Part of the tongue",
+            "c": "Shape of the lips",
+            "d": "Length of the tongue"
+        }
+    },
+    {
+        "id": 195,
+        "question": "*Front, central and back* describes  ..... as a parameter",
+        "correct": "b",
+        "options": {
+            "a": "Height of the tongue",
+            "b": "Part of the tongue",
+            "c": "Shape of the lips",
+            "d": "Length of the tongue"
+        }
+    },
+    {
+        "id": 196,
+        "question": "*Rounded or unrounded* describes ..... as a parameter",
+        "correct": "c",
+        "options": {
+            "a": "Height of the tongue",
+            "b": "Part of the tongue",
+            "c": "Shape of the lips",
+            "d": "Length of the tongue"
+        }
+    },
+    {
+        "id": 197,
+        "question": "*Tense and lax* are used to describe .....",
+        "correct": "a",
+        "options": {
+            "a": "long and short vowel",
+            "b": "affricates and plosives",
+            "c": "Shape of the lips",
+            "d": "Length of the tongue"
+        }
+    },
+    {
+        "id": 198,
+        "question": "A good example of high, front, unrounded and tense vowel is .....",
+        "correct": "a",
+        "options": {
+            "a": "/i: /",
+            "b": "/u: /",
+            "c": "/e: /",
+            "d": "/o: /"
+        }
+    },
+    {
+        "id": 199,
+        "question": "We are ..... behind in our work.",
+        "correct": "a",
+        "options": {
+            "a": "lagging",
+            "b": "lacking",
+            "c": "landing",
+            "d": "lucking"
+        }
+    },
+    {
+        "id": 200,
+        "question": "For every error in tenses or spelling there is a ..... of one mark.",
+        "correct": "d",
+        "options": {
+            "a": "lost",
+            "b": "lose",
+            "c": "loose",
+            "d": "loss"
+        }
+    },
+    {
+        "id": 201,
+        "question": "The appropriate synonym for the word *domicile* out of the options given below is .....",
+        "correct": "d",
+        "options": {
+            "a": "tree",
+            "b": "clod",
+            "c": "Sharon",
+            "d": "home"
+        }
+    },
+    {
+        "id": 202,
+        "question": "..... can be used to express the same meaning as *mysterious*.",
+        "correct": "a",
+        "options": {
+            "a": "Strange",
+            "b": "Proximity",
+            "c": "Large",
+            "d": "Melancholy"
+        }
+    },
+    {
+        "id": 203,
+        "question": "Speech ..... merge and into one another.",
+        "correct": "a",
+        "options": {
+            "a": "sounds",
+            "b": "words",
+            "c": "group",
+            "d": "organs"
+        }
+    },
+    {
+        "id": 204,
+        "question": "Position of the tongue is one of the traditional ways to classify .....",
+        "correct": "c",
+        "options": {
+            "a": "Blends",
+            "b": "Acronyms",
+            "c": "Vowels",
+            "d": "Writing"
+        }
+    },
+    {
+        "id": 205,
+        "question": "*Pre-fixation* is the process of attaching *an affix* ..... the lexeme.",
+        "correct": "b",
+        "options": {
+            "a": "within",
+            "b": "before",
+            "c": "after",
+            "d": "beside"
+        }
+    },
+    {
+        "id": 206,
+        "question": "..... is a prefix of time and order.",
+        "correct": "d",
+        "options": {
+            "a": "Super",
+            "b": "Hyper",
+            "c": "Inter",
+            "d": "Pre"
+        }
+    },
+    {
+        "id": 207,
+        "question": "_*sub*_  as a prefix has the content meaning of .....",
+        "correct": "a",
+        "options": {
+            "a": "lower than",
+            "b": "greater than",
+            "c": "accumulation",
+            "d": "equal status"
+        }
+    },
+    {
+        "id": 208,
+        "question": "..... frequently alter the word-class of the base.",
+        "correct": "d",
+        "options": {
+            "a": "Adjective",
+            "b": "Demonstratives",
+            "c": "Adjunct",
+            "d": "Suffixes"
+        }
+    },
+    {
+        "id": 209,
+        "question": "*Antonyms* are words that are ..... in meaning.",
+        "correct": "a",
+        "options": {
+            "a": "opposite",
+            "b": "similar",
+            "c": "pronunciation",
+            "d": "same"
+        }
+    },
+    {
+        "id": 210,
+        "question": "An essay can be developed from the ..... one has written",
+        "correct": "d",
+        "options": {
+            "a": "margin",
+            "b": "date",
+            "c": "letters",
+            "d": "outline"
+        }
+    },
+    {
+        "id": 211,
+        "question": "In essay writing there must always be a .....",
+        "correct": "a",
+        "options": {
+            "a": "topic",
+            "b": "group",
+            "c": "connection",
+            "d": "school"
+        }
+    },
+    {
+        "id": 212,
+        "question": "..... is an aspect of Mechanical Accuracy.",
+        "correct": "d",
+        "options": {
+            "a": "Indentation",
+            "b": "Points",
+            "c": "Number",
+            "d": "Punctuation"
+        }
+    },
+    {
+        "id": 213,
+        "question": "In an essay writing, you are expected to develop your ideas in .....",
+        "correct": "a",
+        "options": {
+            "a": "paragraphs",
+            "b": "shapes",
+            "c": "sizes",
+            "d": "cartons"
+        }
+    },
+    {
+        "id": 214,
+        "question": "A narrative essay is a complete account of a .....",
+        "correct": "b",
+        "options": {
+            "a": "words",
+            "b": "story",
+            "c": "tree",
+            "d": "farm"
+        }
+    },
+    {
+        "id": 215,
+        "question": "..... language is used in a  narrative essay.",
+        "correct": "d",
+        "options": {
+            "a": "Vulgar",
+            "b": "Serious",
+            "c": "Common",
+            "d": "Chatty"
+        }
+    },
+    {
+        "id": 216,
+        "question": "The appropriate synonym for the word custom is .....",
+        "correct": "c",
+        "options": {
+            "a": "Culture",
+            "b": "Customer",
+            "c": "Habit",
+            "d": "Heredity"
+        }
+    },
+    {
+        "id": 217,
+        "question": "Synonyms are words that are ..... in meaning.",
+        "correct": "a",
+        "options": {
+            "a": "similar",
+            "b": "opposite",
+            "c": "irregular",
+            "d": "abnormal"
+        }
+    },
+    {
+        "id": 218,
+        "question": "A particular sound can have ..... ways of spelling.",
+        "correct": "a",
+        "options": {
+            "a": "different",
+            "b": "nice",
+            "c": "good",
+            "d": "bad"
+        }
+    },
+    {
+        "id": 219,
+        "question": "Consonant sounds are produced with some obstruction of .....",
+        "correct": "d",
+        "options": {
+            "a": "water",
+            "b": "liquid",
+            "c": "oil",
+            "d": "air"
+        }
+    },
+    {
+        "id": 220,
+        "question": "There are ..... parameters used in the classification of consonant sounds.",
+        "correct": "a",
+        "options": {
+            "a": "three",
+            "b": "four",
+            "c": "six",
+            "d": "eight"
+        }
+    },
+    {
+        "id": 221,
+        "question": "..... is an organ of speech.",
+        "correct": "b",
+        "options": {
+            "a": "Leg",
+            "b": "Lip",
+            "c": "Hair",
+            "d": "Jaw"
+        }
+    },
+    {
+        "id": 222,
+        "question": "A ..... is the smallest free form found in a language.",
+        "correct": "a",
+        "options": {
+            "a": "word",
+            "b": "phrase",
+            "c": "noun",
+            "d": "group"
+        }
+    },
+    {
+        "id": 223,
+        "question": "Words have an ..... structure consisting of smaller units.",
+        "correct": "d",
+        "options": {
+            "a": "abnormal",
+            "b": "irregular",
+            "c": "identical",
+            "d": "internal"
+        }
+    },
+    {
+        "id": 224,
+        "question": "Morphemes are of ..... types.",
+        "correct": "a",
+        "options": {
+            "a": "two",
+            "b": "four",
+            "c": "nine",
+            "d": "eleven"
+        }
+    },
+    {
+        "id": 225,
+        "question": "A ..... morpheme is an element which can occur in isolation.",
+        "correct": "d",
+        "options": {
+            "a": "bound",
+            "b": "complex",
+            "c": "good",
+            "d": "free"
+        }
+    },
+    {
+        "id": 226,
+        "question": "A free morpheme is an element which can occur in  and ..... of context.",
+        "correct": "a",
+        "options": {
+            "a": "out",
+            "b": "beside",
+            "c": "above",
+            "d": "underneath"
+        }
+    },
+    {
+        "id": 227,
+        "question": "Book is an example of a ..... morpheme.",
+        "correct": "d",
+        "options": {
+            "a": "bound",
+            "b": "complex",
+            "c": "assorted",
+            "d": "free"
+        }
+    },
+    {
+        "id": 228,
+        "question": "..... stands for words and their precise dictionary meanings.",
+        "correct": "b",
+        "options": {
+            "a": "Paragraph",
+            "b": "Vocabulary",
+            "c": "Directives",
+            "d": "Text"
+        }
+    },
+    {
+        "id": 229,
+        "question": "Lexis refers to ..... and their various connotations.",
+        "correct": "d",
+        "options": {
+            "a": "books",
+            "b": "speech",
+            "c": "sounds",
+            "d": "words"
+        }
+    },
+    {
+        "id": 230,
+        "question": "..... includes *synonyms and antonyms* of words.",
+        "correct": "a",
+        "options": {
+            "a": "Lexis",
+            "b": "Context",
+            "c": "Text",
+            "d": "Stem"
+        }
+    },
+    {
+        "id": 231,
+        "question": "Neither the lecturer ..... the student showed up.",
+        "correct": "a",
+        "options": {
+            "a": "nor",
+            "b": "no",
+            "c": "not",
+            "d": "or"
+        }
+    },
+    {
+        "id": 232,
+        "question": "Either Hanan ..... Hamza will attend the meeting.",
+        "correct": "b",
+        "options": {
+            "a": "neither",
+            "b": "or",
+            "c": "orr",
+            "d": "nor"
+        }
+    },
+    {
+        "id": 233,
+        "question": "A ..... should contain one central idea.",
+        "correct": "d",
+        "options": {
+            "a": "group",
+            "b": "word",
+            "c": "option",
+            "d": "paragraph"
+        }
+    },
+    {
+        "id": 234,
+        "question": "In an essay writing, ideas should be arranged to lead to an ..... conclusion.",
+        "correct": "d",
+        "options": {
+            "a": "irrelevant",
+            "b": "ineffective",
+            "c": "indecisive",
+            "d": "effective"
+        }
+    },
+    {
+        "id": 235,
+        "question": "The Wikipedia defined _*Public Speaking*_ as the process of speaking to a group of people in a ....., ..... manner intended to inform, influence or entertain listeners.",
+        "correct": "a",
+        "options": {
+            "a": "structured, deliberate",
+            "b": "structured, sequential",
+            "c": "straightforward, paragraphing"
+        }
+    },
+    {
+        "id": 236,
+        "question": "My wife is an ..... of the University of Maiduguri.",
+        "correct": "a",
+        "options": {
+            "a": "Alumna",
+            "b": "Alumnus",
+            "c": "Alumni."
+        }
+    },
+    {
+        "id": 237,
+        "question": "*The Nigerian police do not have sufficient artillery.* This expression is wrong because",
+        "correct": "a",
+        "options": {
+            "a": "Artillery is an uncountable noun and so should not be pluralized.",
+            "b": "Police is a collective noun that is expressed in singular",
+            "c": "Police men do not fight with arms like soldiers"
+        }
+    },
+    {
+        "id": 238,
+        "question": "To make understanding a reality there must be",
+        "correct": "c",
+        "options": {
+            "a": "Accuracy in speech",
+            "b": "Correctness of language",
+            "c": "All options"
+        }
+    },
+    {
+        "id": 239,
+        "question": "When writing the ..... essay,  the writer is not expected to make a plea, command, appeal or dissuade.",
+        "correct": "a",
+        "options": {
+            "a": "Argumentative",
+            "b": "Expository",
+            "c": "Narrative",
+            "d": "descriptive"
+        }
+    },
+    {
+        "id": 240,
+        "question": "The ..... essay serves to explain, explicate, or elucidate an idea or new found knowledge to enable the reader appreciates what is current in the field of knowledge.",
+        "correct": "a",
+        "options": {
+            "a": "Expository",
+            "b": "Narrative",
+            "c": "Argumentative",
+            "d": "Descriptive"
+        }
+    },
+    {
+        "id": 241,
+        "question": "*Defective punctuation, poor pronunciation, and erroneous sentences or misuse of words* can ..... communication",
+        "correct": "a",
+        "options": {
+            "a": "Hinder",
+            "b": "Promote",
+            "c": "Discourage",
+            "d": "Promotion"
+        }
+    },
+    {
+        "id": 242,
+        "question": "When writing the ..... essay, you are expected to use *simple and clear diction*.",
+        "correct": "a",
+        "options": {
+            "a": "Narrative",
+            "b": "Argumentative",
+            "c": "descriptive",
+            "d": "expository"
+        }
+    },
+    {
+        "id": 243,
+        "question": "The effect of *bad English* may result to",
+        "correct": "a",
+        "options": {
+            "a": "misunderstanding",
+            "b": "confusion",
+            "c": "bad governance",
+            "d": "bad interpretation"
+        }
+    },
+    {
+        "id": 244,
+        "question": "In public speech presentation, the pace of your speech should be ..... and your articulation clear.",
+        "correct": "a",
+        "options": {
+            "a": "Moderate.",
+            "b": "Wide",
+            "c": "Fast",
+            "d": "Slow",
+            "e": "Intermediate"
+        }
+    },
+    {
+        "id": 245,
+        "question": "*In Central Africa Republic, girls and women do household work, tend the fields, and do the shopping, they have little time for recreation. However, males enjoy playing and watching soccer and basketball. Several amateur teams compete in the capital and in each large town, Schools provide all pupils with some recreation. Basketball, soccer, handball, and track and field are popular. Girls also sing and play games at break. Some schools have other extracurricular activities, such as Stage Theater. Church groups provide social activities. Some towns sponsor scout troops.*",
+        "correct": "c",
+        "options": {
+            "a": "This is an extract from an argumentative essay",
+            "b": "This is an extract from a descriptive essay",
+            "c": "This is an extract from a narrative essay",
+            "d": "This is an extract from an expository essay"
+        }
+    },
+    {
+        "id": 246,
+        "question": "*Official holidays in the Central African Republic include New Year's Day (1 January); F\u00eate du Travail (Labor Day, 1 May), F\u00eate des M\u00e8res (Mother's Day, in May), Independence Day (13 August), and the Declaration of Independence from France (1 December). Schoolchildren practice for months to perform on the day of the Declaration of Independence, which is the biggest holiday of the year and involves parades and other festivities throughout the country. For Mother's Day, men stay home to cook and women get together to socialize, play sports, and dance. Religious holidays such as Easter and Christmas (25 December) are celebrated by Christians. Muslims celebrate the end of Ramadan with a feast, and Tabaski(Feast of the Sacrifice), which commemorates Abraham's willingness to sacrifice his son.*",
+        "correct": "b",
+        "options": {
+            "a": "This is an extract from an argumentative essay",
+            "b": "This is an extract from a descriptive essay",
+            "c": "This is an extract from a narrative essay",
+            "d": "This is an extract from an expository essay"
+        }
+    },
+    {
+        "id": 247,
+        "question": "*The Sophists were popular for a time, especially in Athens; however, their skeptical view on absolute truth and morality eventually provoked sharp criticism. Socrates, Plato, and Aristotle challenged the philosophic basis of the Sophists' teaching, and Plato and Aristotle further condemned them for taking money. Later, they were accused by the state of lacking morality. As a result, the word sophist acquired a derogatory meaning, as in the modern term sophistry, which can be defined as subtle, and deceptive or false argumentation or reasoning. The Sophists were of minor importance in the development of Western philosophic thought. They were, however, the first to systematize education. Leading 5th-century Sophists included Protagoras, Gorgias, Hippies of Elis, and Prodigious of Ceos.*",
+        "correct": "d",
+        "options": {
+            "a": "This is an extract from an argumentative essay",
+            "b": "This is an extract from a descriptive essay",
+            "c": "This is an extract from a narrative essay",
+            "d": "This is an extract from an expository essay"
+        }
+    },
+    {
+        "id": 248,
+        "question": "*An argumentative essay tries to convince the listener to change his position, point of view or opinion about something  and accept that which is being proposed by the other party in the argument*",
+        "correct": "b",
+        "options": {
+            "a": "This is an extract from a narrative essay",
+            "b": "This is an extract from  a descriptive essay",
+            "c": "This is an extract from  argumentative essay",
+            "d": "This is an extract from  expository essay"
+        }
+    },
+    {
+        "id": 249,
+        "question": "In any *kind of essay writing*, there should be clarity of expression and good thoughts. These depends on the following topics, except",
+        "correct": "a",
+        "options": {
+            "a": "suitable opinion, typed work and bound work,  personality of author.",
+            "b": "adequate development of points and good paragraphing",
+            "c": "linking devices and suitable conclusion",
+            "d": "balance, unity and  coherence"
+        }
+    },
+    {
+        "id": 250,
+        "question": "Business letters are written to",
+        "correct": "d",
+        "options": {
+            "a": "trading organizations",
+            "b": "shopkeepers",
+            "c": "journals",
+            "d": "all options"
+        }
+    },
+    {
+        "id": 251,
+        "question": "Public Speaking includes among others",
+        "correct": "d",
+        "options": {
+            "a": "lectures, sermons, political campaign speeches and rally speeches",
+            "b": "evangelical campaign speeches",
+            "c": "telling stories and transmission of information",
+            "d": "all of the above",
+            "e": "none of the above"
+        }
+    },
+    {
+        "id": 252,
+        "question": "In speech presentation it is preferable to",
+        "correct": "a",
+        "options": {
+            "a": "stand or move about and use appropriate hand gesture or facial expression",
+            "b": "sit down or stand still",
+            "c": "keep your head down reading from a prepared speech",
+            "d": "avoid eye contact with any individual in the audience"
+        }
+    },
+    {
+        "id": 253,
+        "question": "When writing any business letter, one of these groups is not necessary",
+        "correct": "a",
+        "options": {
+            "a": "platform image and personality",
+            "b": "being specific about what you are writing about",
+            "c": "Inform your reader about yourself directly and accurately, but briefly.",
+            "d": "provide referees",
+            "e": "provide long listing on a separate sheet of paper under the heading Resume"
+        }
+    },
+    {
+        "id": 254,
+        "question": "*The inside address must be consistent in form with the heading, and is typed flushed with the left margin about six spaces lower than the heading.* This advice is applicable only in writing a",
+        "correct": "a",
+        "options": {
+            "a": "business letter",
+            "b": "personal letter",
+            "c": "official notes",
+            "d": "semi-formal letters"
+        }
+    },
+    {
+        "id": 255,
+        "question": "In writing business letters, the masculine salutation, *Dear sir or Gentlemen*, is used to address an organisation or an individual whose name the writer",
+        "correct": "a",
+        "options": {
+            "a": "does not know",
+            "b": "knows very well",
+            "c": "holds in high esteem",
+            "d": "wants to create a relationship"
+        }
+    },
+    {
+        "id": 256,
+        "question": "In some instances a business letter is addressed to an organisation or a department of an organisation but marked for the attention of a particular person. In such letters, the *_Attention Line_* is placed",
+        "correct": "a",
+        "options": {
+            "a": "two spaces above the salutation",
+            "b": "two spaces below the salutation",
+            "c": "single space just below the inside address",
+            "d": "single space above the inside address"
+        }
+    },
+    {
+        "id": 257,
+        "question": "In salutations and addresses, abbreviations are generally .....",
+        "correct": "a",
+        "options": {
+            "a": "disapproved",
+            "b": "approved",
+            "c": "eliminated",
+            "d": "applied"
+        }
+    },
+    {
+        "id": 258,
+        "question": "The business letter should follow the principles of essay writing.",
+        "correct": "a",
+        "options": {
+            "a": "false",
+            "b": "true"
+        }
+    },
+    {
+        "id": 259,
+        "question": "Complimentary close should never be consistent with the tone of the letter but with the salutation.",
+        "correct": "a",
+        "options": {
+            "a": "false",
+            "b": "true"
+        }
+    },
+    {
+        "id": 260,
+        "question": "In business letters the status of the married woman is indicated by",
+        "correct": "a",
+        "options": {
+            "a": "parenthesis",
+            "b": "the name of her husband",
+            "c": "her maiden name",
+            "d": "her semi-colon"
+        }
+    },
+    {
+        "id": 261,
+        "question": "When developing a business letter to fit the long standard envelope the correct procedure is to",
+        "correct": "a",
+        "options": {
+            "a": "first fold bottom of the letter up, then fold top of letter down leaving about 1/4 an inch, then insert into the envelope starting with the top of the letter.",
+            "b": "first fold top of letter down leaving about 1/4 an inch, then fold the bottom of the letter up, then insert into the envelope starting with the top of the letter.",
+            "c": "first fold bottom of the letter up, then fold top of letter down leaving about 1/4 an inch, then insert into the envelope starting with the bottom of the letter.",
+            "d": "to fold it in any form, but very neat"
+        }
+    },
+    {
+        "id": 262,
+        "question": "*The correct procedure to fold a business letter to fit small business envelope* is to",
+        "correct": "a",
+        "options": {
+            "a": "first fold bottom of letter up, after which you now fold left side of letter in, then fold right of letter over left, leaving about quarter of an inch of the letter and finally insert into the small business envelope starting with the top of letter",
+            "b": "first fold left side of letter in, then fold bottom of letter up, then fold right of letter over left, leaving about quarter of an inch of the letter and finally insert into the small business envelope starting with the top of letter.",
+            "c": "first fold bottom of letter up, after which you now fold left side of letter in, then fold right of letter over left, leaving about quarter of an inch of the letter and finally insert into the small business envelope starting with the bottom of letter.",
+            "d": "convert the letter into shred form and put into  the envelope"
+        }
+    },
+    {
+        "id": 263,
+        "question": "Personal letters could equally be referred to as",
+        "correct": "c",
+        "options": {
+            "a": "friendly letters",
+            "b": "humanity letters",
+            "c": "private letters",
+            "d": "semi-formal letters"
+        }
+    },
+    {
+        "id": 264,
+        "question": "The body of personal letters vary greatly with the personality of the writer.",
+        "correct": "a",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 265,
+        "question": "The form of essay that explains or informs the reader about new discovery in the field of knowledge or of any other thing the writer knows that he wants others to be aware of is known as",
+        "correct": "a",
+        "options": {
+            "a": "Expository essay",
+            "b": "Descriptive essay",
+            "c": "Argumentative essay",
+            "d": "Narrative essay"
+        }
+    },
+    {
+        "id": 266,
+        "question": "When John writes *a letter calling the attention of the representative of his local government in the National Assembly to some urgent security threats in his locality, which is part of the representative's constituency.* The letter John writes is a",
+        "correct": "a",
+        "options": {
+            "a": "business letter",
+            "b": "personal letter",
+            "c": "formal letter",
+            "d": "official note",
+            "e": "semi-formal letter"
+        }
+    },
+    {
+        "id": 267,
+        "question": "Identify the _*Topic Sentence*_ in the following paragraph:  *As a scholar, Dr. Joy Eyisi is coming on the fast lane. Her latest work on error discourse has proved to be more comprehensive than what some of us who taught her had had to do in the area of English studies. what I have enjoyed most about the book is the author's thorough pedagogic voice which runs through the breadth of the text in the manner of a teacher earnestly committed to the art of human refinement*",
+        "correct": "a",
+        "options": {
+            "a": "As a scholar, Dr. Joy Eyisi is coming on the fast lane",
+            "b": "Her latest work on error discourse has proved to be more comprehensive than what some of us who taught her had had to do in the area of English studies.",
+            "c": "what I have enjoyed most about the book is the author's thorough pedagogic voice which runs through the breadth of the text in the manner of a teacher earnestly committed to the art of human refinement-"
+        }
+    },
+    {
+        "id": 268,
+        "question": "To prepare a public speech, you must",
+        "correct": "d",
+        "options": {
+            "a": "know what your audience needs",
+            "b": "ensure that what you have for your audience will satisfy them",
+            "c": "familiar with the subject of your speech",
+            "d": "all options"
+        }
+    },
+    {
+        "id": 269,
+        "question": "A little rehearsal of your speech in front of a mirror, your bed, trees or buildings can help put you at ease on the real speech occasion.",
+        "correct": "a",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 270,
+        "question": "The use of body language can ..... your speech presentation.",
+        "correct": "a",
+        "options": {
+            "a": "enhance",
+            "b": "destruct",
+            "c": "appropriate",
+            "d": "distract"
+        }
+    },
+    {
+        "id": 271,
+        "question": "To be able to persuade your audience effectively, you need to speak",
+        "correct": "a",
+        "options": {
+            "a": "with conviction",
+            "b": "good English",
+            "c": "in summary of your planned speech",
+            "d": "with native speakers ascent"
+        }
+    },
+    {
+        "id": 272,
+        "question": "The golden rule for public speech says *\"do not read from your speech\"*.",
+        "correct": "a",
+        "options": {
+            "a": "however as a presenter you are not forbidden from taking occasional glances of your written speech",
+            "b": "therefore as a presenter you are forbidden from taking occasional glances of your written speech"
+        }
+    },
+    {
+        "id": 273,
+        "question": "A good skill to use in public presentation is to make the audience feel involved and this is best achieved by",
+        "correct": "d",
+        "options": {
+            "a": "maintaining eye contact  with individuals in the audience",
+            "b": "have direct eye contact with members of the audience every now and then or glance at the whole audience while speaking",
+            "c": "look straight into the eyes of a person in the audience for about three seconds at a time",
+            "d": "all options are good methods for making the audience feel involve",
+            "e": "none of the options is a good method for making the audience feel involved"
+        }
+    },
+    {
+        "id": 274,
+        "question": "Point out the item in the following group which is *not* a good point to note in a public speech.",
+        "correct": "a",
+        "options": {
+            "a": "the use of a timer to time your presentation",
+            "b": "the use of facts, figures and illustrations",
+            "c": "asking challenging questions",
+            "d": "telling a story that is related to the subject or situation at hand"
+        }
+    },
+    {
+        "id": 275,
+        "question": "An important factor for successful oral communication is the ability of sender to code the message in such a way that the receiver will be able to decode it easily. This refers to",
+        "correct": "d",
+        "options": {
+            "a": "the correct use of language",
+            "b": "the medium which covers the message",
+            "c": "accuracy in speech",
+            "d": "all options"
+        }
+    },
+    {
+        "id": 276,
+        "question": "In developing courage and self-confidence what the Oral Presenter needs is",
+        "correct": "b",
+        "options": {
+            "a": "to start with pale and flabby desire",
+            "b": "know thoroughly what he is going to talk about",
+            "c": "the intake of little alcohol to boost his courage and confidence",
+            "d": "little or no practice prior to presentation"
+        }
+    },
+    {
+        "id": 277,
+        "question": "One of these is not a good way of closing an Oral Presentation",
+        "correct": "a",
+        "options": {
+            "a": "telling a story from your experiences",
+            "b": "appeal for action",
+            "c": "the use of poetical quotation",
+            "d": "summarising your points"
+        }
+    },
+    {
+        "id": 278,
+        "question": "In oral presentation identify one of these methods which does not help in making your meanings clear",
+        "correct": "a",
+        "options": {
+            "a": "the use of technical terms especially when addressing a lay audience",
+            "b": "use of comparison",
+            "c": "appealing to the sense of sight",
+            "d": "Restating important ideas in different words",
+            "e": "use of general illustrations and specific instances"
+        }
+    },
+    {
+        "id": 279,
+        "question": "Identify the figure of speech in the following sentence *\"Though hadst a voice whose sound was like the sea\"*.",
+        "correct": "a",
+        "options": {
+            "a": "Simile",
+            "b": "Metaphor",
+            "c": "Apostrophe",
+            "d": "Hyperbole ."
+        }
+    },
+    {
+        "id": 280,
+        "question": "Identify the figure of speech in the following sentence *\"The righteous shall flourish as the palm tree\"*.",
+        "correct": "a",
+        "options": {
+            "a": "Simile",
+            "b": "Metaphor",
+            "c": "Apostrophe",
+            "d": "Hyperbole ."
+        }
+    },
+    {
+        "id": 281,
+        "question": "Identify the figure of speech in the following sentence *\"Life is a dream\"*.",
+        "correct": "b",
+        "options": {
+            "a": "Simile",
+            "b": "Metaphor",
+            "c": "Apostrophe",
+            "d": "Hyperbole"
+        }
+    },
+    {
+        "id": 282,
+        "question": "In the study of figures of speech, the ..... is referred to as an implied symbol in which the two things are treated as one.",
+        "correct": "b",
+        "options": {
+            "a": "Simile",
+            "b": "Metaphor",
+            "c": "Apostrophe",
+            "d": "Hyperbole"
+        }
+    },
+    {
+        "id": 283,
+        "question": "A figure of speech which is used to believe that inanimate, lifeless objects and abstract ideas are living beings is known as .....",
+        "correct": "a",
+        "options": {
+            "a": "Personification",
+            "b": "Hyperbole",
+            "c": "Euphemism",
+            "d": "Metonymy"
+        }
+    },
+    {
+        "id": 284,
+        "question": "Identify the figure of speech in the following sentence *\"Death lays his icy hands on kings\"*.",
+        "correct": "a",
+        "options": {
+            "a": "Personification",
+            "b": "Hyperbole",
+            "c": "Euphemism",
+            "d": "Metonymy"
+        }
+    },
+    {
+        "id": 285,
+        "question": "Identify the figure of speech in the following sentence *\"Love is not time's fool\"*.",
+        "correct": "b",
+        "options": {
+            "a": "Personification",
+            "b": "Hyperbole",
+            "c": "Euphemism",
+            "d": "Metonymy"
+        }
+    },
+    {
+        "id": 286,
+        "question": "A Figure of speech which is used to address a lifeless object or an abstract idea as if it were living being is known as an .....",
+        "correct": "b",
+        "options": {
+            "a": "Personification",
+            "b": "Apostrophe",
+            "c": "Euphemism",
+            "d": "Metonymy"
+        }
+    },
+    {
+        "id": 287,
+        "question": "*_Hyperbole_* is a figure of speech which is .....",
+        "correct": "a",
+        "options": {
+            "a": "used to make a fact exaggeration",
+            "b": "used to address an idea as if it were a living being",
+            "c": "used to say an unpleasant thing in a pleasant manner",
+            "d": "used to express two contrasting or opposite ideas to achieve emphasis"
+        }
+    },
+    {
+        "id": 288,
+        "question": "Euphemism is a figure of speech which is .....",
+        "correct": "c",
+        "options": {
+            "a": "used to make a fact exaggeration",
+            "b": "used to address an idea as if it were a living being",
+            "c": "used to say an unpleasant thing in a pleasant manner",
+            "d": "used to express two contrasting or opposite ideas to achieve emphasis"
+        }
+    },
+    {
+        "id": 289,
+        "question": "*_Antithesis_* is a figure of speech which is .....",
+        "correct": "d",
+        "options": {
+            "a": "used to make a fact exaggeration",
+            "b": "used to address an idea as if it were a living being",
+            "c": "used to say an unpleasant thing in a pleasant manner",
+            "d": "used to express two contrasting or opposite ideas to achieve emphasis"
+        }
+    },
+    {
+        "id": 290,
+        "question": "*\"Amina was the wisest fool\"*. This is a good example of the figure of speech called .....",
+        "correct": "a",
+        "options": {
+            "a": "Oxymoron",
+            "b": "Epigram",
+            "c": "Irony",
+            "d": "Hyperbole"
+        }
+    },
+    {
+        "id": 291,
+        "question": "*\"She accepted it as the kind cruelty of the surgeon's knife\"*. This is a good example of the figure of speech called .....",
+        "correct": "a",
+        "options": {
+            "a": "Oxymoron",
+            "b": "Epigram",
+            "c": "Irony",
+            "d": "Hyperbole"
+        }
+    },
+    {
+        "id": 292,
+        "question": "_*Oxymoron*_ is a figure of speech which is used to .....",
+        "correct": "a",
+        "options": {
+            "a": "express two contradictory qualities of the same thing",
+            "b": "express the opposite meaning which is different from the real meaning",
+            "c": "express two contrasting or opposite ideas to achieve emphasis",
+            "d": "express a part for the whole or the whole for the part"
+        }
+    },
+    {
+        "id": 293,
+        "question": "_*Synecdoche*_ is a figure of speech which is used to .....",
+        "correct": "d",
+        "options": {
+            "a": "express two contradictory qualities of the same thing",
+            "b": "express the opposite meaning which is different from the real meaning",
+            "c": "express two contrasting or opposite ideas to achieve emphasis",
+            "d": "express a part for the whole or the whole for the part"
+        }
+    },
+    {
+        "id": 294,
+        "question": "*_Irony_* is a figure of speech which is used to .....",
+        "correct": "b",
+        "options": {
+            "a": "express two contradictory qualities of the same thing",
+            "b": "express the opposite meaning which is different from the real meaning",
+            "c": "express two contrasting or opposite ideas to achieve emphasis",
+            "d": "express a part for the whole or the whole for the part"
+        }
+    },
+    {
+        "id": 295,
+        "question": "*GST 211* is not intended to train professional speakers and writers but to",
+        "correct": "e",
+        "options": {
+            "a": "develop in all a general proficiency in the Use of the English Language.",
+            "b": "correct deviant structures or unacceptable utterances which are signs of imperfect knowledge of the linguistic code.",
+            "c": "help students develop the appetite for correct use of the English Language",
+            "d": "help students appreciate the fact that the English Language is the barometer with which we measure the quality and quantity of education possessed by a speaker/writer, a veritable tool for internal and external communication and of course a passport to educational advancement and prestigious employment.",
+            "e": "all options are correct"
+        }
+    },
+    {
+        "id": 296,
+        "question": "*\"I find it difficult to express myself in English Language.\"* This sentence is erroneous because of",
+        "correct": "a",
+        "options": {
+            "a": "the omission of the definite article \"the\" which collates with English Language",
+            "b": "the inability of the student to speak and write in English quite well.",
+            "c": "of much use of deviant structures or unacceptable utterances which are signs of imperfect knowledge of the linguistic code."
+        }
+    },
+    {
+        "id": 297,
+        "question": "*\"My fiance attended University of Lagos\"*. This is a deviant structure, when corrected the sentence will read",
+        "correct": "c",
+        "options": {
+            "a": "My fiance attended University of the Lagos",
+            "b": "My fiance attended Lagos University",
+            "c": "both options."
+        }
+    },
+    {
+        "id": 298,
+        "question": "*\"The man is fond of accepting bribe\"* We should, in correct English say",
+        "correct": "c",
+        "options": {
+            "a": "The man is fond of accepting a bribe.",
+            "b": "The man is fond of accepting bribes.",
+            "c": "both options are correct."
+        }
+    },
+    {
+        "id": 299,
+        "question": "*\"There are corrupt practices in the society today\"*. This is a clumsy expression because",
+        "correct": "a",
+        "options": {
+            "a": "The definite article should not precede society precisely where the society refers to a country or state.",
+            "b": "We can only use the definite article if we are referring to a specific association or union.",
+            "c": "both options are correct"
+        }
+    }
+]

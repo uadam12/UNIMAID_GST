@@ -1,0 +1,3071 @@
+[
+    {
+        "id": 1,
+        "question": "Which statement is false? Science is",
+        "correct": "c",
+        "options": {
+            "a": "A body of knowledge",
+            "b": "An instrument",
+            "c": "A revelation",
+            "d": "An institution"
+        }
+    },
+    {
+        "id": 2,
+        "question": "The two major areas of scientific knowledge are Formal Sciences and",
+        "correct": "d",
+        "options": {
+            "a": "Medical Sciences",
+            "b": "Geological Sciences",
+            "c": "Physical Sciences",
+            "d": "Natural Sciences"
+        }
+    },
+    {
+        "id": 3,
+        "question": "Scientific Knowledge enables us to",
+        "correct": "a",
+        "options": {
+            "a": "Explain the world",
+            "b": "Analyse the world",
+            "c": "Predict the world",
+            "d": "Control the world"
+        }
+    },
+    {
+        "id": 4,
+        "question": "One of the following is not a planet in the solar system",
+        "correct": "d",
+        "options": {
+            "a": "Mars",
+            "b": "Earth",
+            "c": "Venus",
+            "d": "Sun"
+        }
+    },
+    {
+        "id": 5,
+        "question": "The Scientist who first formulated the Law of Gravitation was",
+        "correct": "c",
+        "options": {
+            "a": "Plato",
+            "b": "Galileo",
+            "c": "Sir Isaac Newton",
+            "d": "Prof. Simon Fatula"
+        }
+    },
+    {
+        "id": 6,
+        "question": "The source of Light and Energy is",
+        "correct": "b",
+        "options": {
+            "a": "The moon",
+            "b": "The sun",
+            "c": "The Earth",
+            "d": "The Sky"
+        }
+    },
+    {
+        "id": 7,
+        "question": "Technology is",
+        "correct": "d",
+        "options": {
+            "a": "Applied wood",
+            "b": "Theoretical Science",
+            "c": "Physics",
+            "d": "applied Science"
+        }
+    },
+    {
+        "id": 8,
+        "question": "The theory of Evolution was formulated by",
+        "correct": "a",
+        "options": {
+            "a": "Charles Darwin",
+            "b": "Einstein",
+            "c": "Thomas Hobbes",
+            "d": "Euclid"
+        }
+    },
+    {
+        "id": 9,
+        "question": "The father of the Internet is",
+        "correct": "b",
+        "options": {
+            "a": "Heraclitus",
+            "b": "Philip Emeagwali",
+            "c": "Galileo",
+            "d": "Paul Dirac"
+        }
+    },
+    {
+        "id": 10,
+        "question": "The methods of Science include",
+        "correct": "d",
+        "options": {
+            "a": "Induction",
+            "b": "Deduction",
+            "c": "Observation",
+            "d": "Experimentation"
+        }
+    },
+    {
+        "id": 11,
+        "question": "Which of these could cause Environmental problem?",
+        "correct": "d",
+        "options": {
+            "a": "Bush Burning",
+            "b": "Oil Spillage",
+            "c": "Flooding",
+            "d": "All of the above"
+        }
+    },
+    {
+        "id": 12,
+        "question": "Soaps and Detergent are examples of",
+        "correct": "c",
+        "options": {
+            "a": "Organic Chemicals",
+            "b": "Inorganic Chemicals",
+            "c": "Specialized Products",
+            "d": "Agro Chemicals"
+        }
+    },
+    {
+        "id": 13,
+        "question": "The presence of ....... causes Hardness of Water.",
+        "correct": "d",
+        "options": {
+            "a": "Calcium only",
+            "b": "Magnesium only",
+            "c": "Sand",
+            "d": "Calcium and Magnesium"
+        }
+    },
+    {
+        "id": 14,
+        "question": "Water is a compound of",
+        "correct": "d",
+        "options": {
+            "a": "Hydrogen",
+            "b": "Carbon",
+            "c": "Oxygen",
+            "d": "Hydrogen and Oxygen"
+        }
+    },
+    {
+        "id": 15,
+        "question": "The growth of Algae and Weeds by detergents is due to the presence of",
+        "correct": "a",
+        "options": {
+            "a": "Phosphates",
+            "b": "Sulphates",
+            "c": "Chlorides",
+            "d": "Carbonates"
+        }
+    },
+    {
+        "id": 16,
+        "question": "The first exportation of Crude Oil in Nigeria was in",
+        "correct": "b",
+        "options": {
+            "a": "1956",
+            "b": "1958",
+            "c": "1948",
+            "d": "1968"
+        }
+    },
+    {
+        "id": 17,
+        "question": "Rivers, Imo and Ondo States of Nigeria are known for",
+        "correct": "b",
+        "options": {
+            "a": "Gold",
+            "b": "Coal",
+            "c": "Petroleum",
+            "d": "Iron ore"
+        }
+    },
+    {
+        "id": 18,
+        "question": "Global Warming is the result of the following except",
+        "correct": "c",
+        "options": {
+            "a": "Deforestation",
+            "b": "Carbon Dioxide",
+            "c": "Planting of Trees",
+            "d": "Burning of Oil"
+        }
+    },
+    {
+        "id": 19,
+        "question": "Chemicals that spontaneously disintegrate to release radiations are called",
+        "correct": "a",
+        "options": {
+            "a": "Radio-chemicals",
+            "b": "Photochemical",
+            "c": "Biochemicals",
+            "d": "Agrochemicals"
+        }
+    },
+    {
+        "id": 20,
+        "question": "The main stray of Nigerian Economy is",
+        "correct": "b",
+        "options": {
+            "a": "Coal",
+            "b": "Crude Oil",
+            "c": "Banking and Finance",
+            "d": "Customs and excise"
+        }
+    },
+    {
+        "id": 21,
+        "question": "A natural resources includes all but one of the following.",
+        "correct": "c",
+        "options": {
+            "a": "Fuels",
+            "b": "Forests",
+            "c": "Fertilizers",
+            "d": "Uranium"
+        }
+    },
+    {
+        "id": 22,
+        "question": "Energy as a natural resources can exist in",
+        "correct": "c",
+        "options": {
+            "a": "Living Things only",
+            "b": "Non-Living Things only",
+            "c": "Living Things and Non-Living Things",
+            "d": "none of the above"
+        }
+    },
+    {
+        "id": 23,
+        "question": "One of the following best describe impact on the biosphere",
+        "correct": "c",
+        "options": {
+            "a": "He has not impacted it negatively",
+            "b": "He has not impacted it Positively",
+            "c": "He has impacted it slightly positively and hugely negatively",
+            "d": "none of the above"
+        }
+    },
+    {
+        "id": 24,
+        "question": "Energy resources can best be classified as",
+        "correct": "c",
+        "options": {
+            "a": "Renewable and Non-living",
+            "b": "Non-renewable and Non-living",
+            "c": "Renewable and non-renewable",
+            "d": "Renewable and living"
+        }
+    },
+    {
+        "id": 25,
+        "question": "The best definition of Renewable energy resources is that",
+        "correct": "a",
+        "options": {
+            "a": "They can be renewed by nature",
+            "b": "The can be recycled only by non-natural phenomenon",
+            "c": "They cannot be renew by nature",
+            "d": "All of the above"
+        }
+    },
+    {
+        "id": 26,
+        "question": "Non-renewable energy resources are those that",
+        "correct": "b",
+        "options": {
+            "a": "Can be renewed both by natural and artificial means.",
+            "b": "Cannot be recycled by nature.",
+            "c": "Can be renewed by by artificial means but not natural",
+            "d": "B and C above"
+        }
+    },
+    {
+        "id": 27,
+        "question": "One of the major advantages of renewable energy resources is that",
+        "correct": "a",
+        "options": {
+            "a": "They are environmental friendly",
+            "b": "They are toxic to the environment",
+            "c": "They cause global warming",
+            "d": "They have high carbon content"
+        }
+    },
+    {
+        "id": 28,
+        "question": "All but one of the following are renewable",
+        "correct": "d",
+        "options": {
+            "a": "Sun",
+            "b": "Wind",
+            "c": "Hydro",
+            "d": "Petroleum"
+        }
+    },
+    {
+        "id": 29,
+        "question": "Science and Ancient Greece was based on .... and .....",
+        "correct": "c",
+        "options": {
+            "a": "Physics and Chemistry",
+            "b": "Mathematics and Biology",
+            "c": "Logical Thinking and Mathematics",
+            "d": "Logical Thinking and Computer Science"
+        }
+    },
+    {
+        "id": 30,
+        "question": "The origin of the ancestors of life forms on earth has",
+        "correct": "a",
+        "options": {
+            "a": "not been satisfactory explained",
+            "b": "satisfactorily been explained",
+            "c": "satisfactorily been documented",
+            "d": "not been discussed"
+        }
+    },
+    {
+        "id": 31,
+        "question": "The subject of the origin of man is almost always presented in",
+        "correct": "a",
+        "options": {
+            "a": "Evolutionary terms",
+            "b": "Belief terms",
+            "c": "Disbelief terms",
+            "d": "Any How"
+        }
+    },
+    {
+        "id": 32,
+        "question": "Evolution does not harmonize the facts of",
+        "correct": "a",
+        "options": {
+            "a": "Physics",
+            "b": "Science",
+            "c": "Art",
+            "d": "Social Sciences"
+        }
+    },
+    {
+        "id": 33,
+        "question": "Instructors and textbooks teach that man descended from",
+        "correct": "d",
+        "options": {
+            "a": "Universe",
+            "b": "Sky",
+            "c": "Beats",
+            "d": "fossils"
+        }
+    },
+    {
+        "id": 34,
+        "question": "Organic Evolution is",
+        "correct": "a",
+        "options": {
+            "a": "Transforming of one-kind of life into another",
+            "b": "Cell division",
+            "c": "Fossil division",
+            "d": "Ape-like"
+        }
+    },
+    {
+        "id": 35,
+        "question": "A mere change within a basic type of living thing is",
+        "correct": "a",
+        "options": {
+            "a": "Evolution",
+            "b": "Fossilization",
+            "c": "Origin",
+            "d": "Variety"
+        }
+    },
+    {
+        "id": 36,
+        "question": "In chemical language, water is",
+        "correct": "b",
+        "options": {
+            "a": "A mixture",
+            "b": "A compound",
+            "c": "An Element",
+            "d": "A system"
+        }
+    },
+    {
+        "id": 37,
+        "question": "Hiroshima and Nagazaki cities destroyed by atomic bombs are in",
+        "correct": "c",
+        "options": {
+            "a": "China",
+            "b": "Indonesia",
+            "c": "Japan",
+            "d": "taiwan"
+        }
+    },
+    {
+        "id": 38,
+        "question": "Which of the following is not an agrochemical?",
+        "correct": "c",
+        "options": {
+            "a": "Dieldrin",
+            "b": "Aldrin",
+            "c": "DOT",
+            "d": "Chlorobenzene"
+        }
+    },
+    {
+        "id": 39,
+        "question": "The scientific theories of the origin of universe tend to rest their arguments on",
+        "correct": "d",
+        "options": {
+            "a": "Stones",
+            "b": "strong arguments",
+            "c": "fossils",
+            "d": "Proofs"
+        }
+    },
+    {
+        "id": 40,
+        "question": "Method used in water treatment do not include",
+        "correct": "a",
+        "options": {
+            "a": "Aeration",
+            "b": "Chlorination",
+            "c": "Coagulation",
+            "d": "Concentrations"
+        }
+    },
+    {
+        "id": 41,
+        "question": "Hardness of water is classified into",
+        "correct": "b",
+        "options": {
+            "a": "3",
+            "b": "2",
+            "c": "4",
+            "d": "5"
+        }
+    },
+    {
+        "id": 42,
+        "question": "Well water is an example of",
+        "correct": "a",
+        "options": {
+            "a": "Hard Water",
+            "b": "Soft Water",
+            "c": "Distilled Water",
+            "d": "Deionized Water"
+        }
+    },
+    {
+        "id": 43,
+        "question": "Radioisotopes should not be used for",
+        "correct": "b",
+        "options": {
+            "a": "Electricity",
+            "b": "Dating",
+            "c": "Pasteurization",
+            "d": "Warfare"
+        }
+    },
+    {
+        "id": 44,
+        "question": "A long term exposure to radioactivity causes",
+        "correct": "c",
+        "options": {
+            "a": "Malaria",
+            "b": "Cholera",
+            "c": "Leukemia",
+            "d": "Anemia"
+        }
+    },
+    {
+        "id": 45,
+        "question": "Study of knowledge does not concern itself with",
+        "correct": "d",
+        "options": {
+            "a": "Origins of knowledge",
+            "b": "Veracity",
+            "c": "Validity",
+            "d": "Excursions"
+        }
+    },
+    {
+        "id": 46,
+        "question": "Oloibiri town from where crude oil was first exploited is in what state of Nigeria?",
+        "correct": "c",
+        "options": {
+            "a": "Rivers",
+            "b": "Delta",
+            "c": "Bayelsa",
+            "d": "Akwa-Ibom"
+        }
+    },
+    {
+        "id": 47,
+        "question": "The following are radioactive materials except",
+        "correct": "d",
+        "options": {
+            "a": "Uranium",
+            "b": "Thorium",
+            "c": "Plutonium",
+            "d": "Calcium"
+        }
+    },
+    {
+        "id": 48,
+        "question": "Science is derived from the greek word",
+        "correct": "b",
+        "options": {
+            "a": "Alpha",
+            "b": "Scientia",
+            "c": "Scientifica",
+            "d": "Omega"
+        }
+    },
+    {
+        "id": 49,
+        "question": "Printing machine was invented in",
+        "correct": "d",
+        "options": {
+            "a": "America",
+            "b": "Japan",
+            "c": "Europe",
+            "d": "China"
+        }
+    },
+    {
+        "id": 50,
+        "question": "Which of the sciences was first to be developed?",
+        "correct": "d",
+        "options": {
+            "a": "Physics",
+            "b": "Biology",
+            "c": "Chemistry",
+            "d": "Mathematics"
+        }
+    },
+    {
+        "id": 51,
+        "question": "The energy carried by any light particle is known",
+        "correct": "b",
+        "options": {
+            "a": "Phonon",
+            "b": "Electron",
+            "c": "Photon",
+            "d": "Newton"
+        }
+    },
+    {
+        "id": 52,
+        "question": "Who first established medieval Universities?",
+        "correct": "d",
+        "options": {
+            "a": "Africans",
+            "b": "Americans",
+            "c": "Roman",
+            "d": "Europeans"
+        }
+    },
+    {
+        "id": 53,
+        "question": "The modernization of the distribution of water through a method known as the siphon principle was done by",
+        "correct": "d",
+        "options": {
+            "a": "Hero",
+            "b": "Hippopotamus",
+            "c": "Galen",
+            "d": "Newton"
+        }
+    },
+    {
+        "id": 54,
+        "question": "Mechanical energy is made up of ..... and .....",
+        "correct": "c",
+        "options": {
+            "a": "Gravitational Energy; Kinetic Energy",
+            "b": "Magnetic Energy; Electric Energy",
+            "c": "Potential Energy; Kinetic Energy",
+            "d": "Potential Energy; Electric Energy"
+        }
+    },
+    {
+        "id": 55,
+        "question": "Professionalism in science was traced to",
+        "correct": "c",
+        "options": {
+            "a": "Europeans",
+            "b": "Romans",
+            "c": "Greeks",
+            "d": "Arabs"
+        }
+    },
+    {
+        "id": 56,
+        "question": "Energy and Work are measure in",
+        "correct": "a",
+        "options": {
+            "a": "Joule",
+            "b": "Newton",
+            "c": "Meter",
+            "d": "Pounds"
+        }
+    },
+    {
+        "id": 57,
+        "question": "The standard unit of measuring weight and force is",
+        "correct": "d",
+        "options": {
+            "a": "Meter per sec",
+            "b": "Kilogram",
+            "c": "Ampere",
+            "d": "Newton"
+        }
+    },
+    {
+        "id": 58,
+        "question": "The unseen were a range of supernatural phenomenon are encountered by a man is known as",
+        "correct": "c",
+        "options": {
+            "a": "Physical Environment",
+            "b": "Ideological Environment",
+            "c": "Metaphysical Environment",
+            "d": "Big-Bang theory"
+        }
+    },
+    {
+        "id": 59,
+        "question": "The early men were",
+        "correct": "a",
+        "options": {
+            "a": "Superstitious and Unimaginative",
+            "b": "Physicists",
+            "c": "Geographers",
+            "d": "Scientist"
+        }
+    },
+    {
+        "id": 60,
+        "question": "Which of theories have been able to show how and why the universe is expanding",
+        "correct": "c",
+        "options": {
+            "a": "Great explosion theory",
+            "b": "Evolution theory",
+            "c": "Big Bang theory",
+            "d": "Universe Theory"
+        }
+    },
+    {
+        "id": 61,
+        "question": "The physical environment is made up of Components.",
+        "correct": "a",
+        "options": {
+            "a": "2",
+            "b": "6",
+            "c": "10",
+            "d": "8"
+        }
+    },
+    {
+        "id": 62,
+        "question": "The presence of genres perpetuates specific genetic characteristics in",
+        "correct": "b",
+        "options": {
+            "a": "Evolution",
+            "b": "Offspring",
+            "c": "Apes",
+            "d": "Plants"
+        }
+    },
+    {
+        "id": 63,
+        "question": "Rational Knowledge does not include",
+        "correct": "a",
+        "options": {
+            "a": "Intuition and extroverting",
+            "b": "Logic and reason",
+            "c": "Selection and organization",
+            "d": "Synthesizing"
+        }
+    },
+    {
+        "id": 64,
+        "question": "The concept of epistemology implies",
+        "correct": "b",
+        "options": {
+            "a": "Study of cosmology",
+            "b": "Intellectual activities",
+            "c": "Study| of methods and design",
+            "d": "Restoration"
+        }
+    },
+    {
+        "id": 65,
+        "question": "Revealed knowledge is the knowledge gotten from",
+        "correct": "b",
+        "options": {
+            "a": "Imagination",
+            "b": "Dream",
+            "c": "Observation",
+            "d": "Secret Information"
+        }
+    },
+    {
+        "id": 66,
+        "question": "Utility of criteria of knowledge implies",
+        "correct": "c",
+        "options": {
+            "a": "Its limitation",
+            "b": "Its security",
+            "c": "Its usefulness",
+            "d": "Its strength"
+        }
+    },
+    {
+        "id": 67,
+        "question": "The most reliable source of knowledge is that one gotten through",
+        "correct": "b",
+        "options": {
+            "a": "Rationality and Logic",
+            "b": "Empirical studies",
+            "c": "Dreaming and Choice",
+            "d": "Gifts and revelation"
+        }
+    },
+    {
+        "id": 68,
+        "question": "Epistemology enables the teacher to .....",
+        "correct": "c",
+        "options": {
+            "a": "Select relevant methods and subjects",
+            "b": "Select best students",
+            "c": "Assess performance of students",
+            "d": "Grade students"
+        }
+    },
+    {
+        "id": 69,
+        "question": "Science is a study that relates human beings and nature through",
+        "correct": "d",
+        "options": {
+            "a": "Philosophy",
+            "b": "Rational thinking",
+            "c": "Logical thinking",
+            "d": "Philosophical thinking"
+        }
+    },
+    {
+        "id": 70,
+        "question": "Industrial science is the application or the knowledge of ........ and ........ for the development and benefit of",
+        "correct": "b",
+        "options": {
+            "a": "",
+            "b": "Engineering and Medicine",
+            "c": "Basic Science and Applied Science",
+            "d": "Computer Science"
+        }
+    },
+    {
+        "id": 71,
+        "question": "Science in day to day use is known as",
+        "correct": "b",
+        "options": {
+            "a": "Engineering",
+            "b": "Technology",
+            "c": "Philosophy",
+            "d": "Medicine"
+        }
+    },
+    {
+        "id": 72,
+        "question": "Man belongs to the group of animal kingdom called",
+        "correct": "a",
+        "options": {
+            "a": "Primates",
+            "b": "Survival",
+            "c": "Doctrines",
+            "d": "Evolution"
+        }
+    },
+    {
+        "id": 73,
+        "question": "The remains of one early great ape called proconsul was found in ....... 20 million years ago.",
+        "correct": "a",
+        "options": {
+            "a": "Kenya",
+            "b": "South Africa",
+            "c": "Tanzania",
+            "d": "Egypt"
+        }
+    },
+    {
+        "id": 74,
+        "question": "Human remains suggest that the major cradle of mankind was in",
+        "correct": "d",
+        "options": {
+            "a": "Europe",
+            "b": "Australia",
+            "c": "United States of America",
+            "d": "Africa"
+        }
+    },
+    {
+        "id": 75,
+        "question": "Homo Sapiens appeared in Europe probably around ....... years ago.",
+        "correct": "c",
+        "options": {
+            "a": "1 million",
+            "b": "5 million",
+            "c": "30,000",
+            "d": "350,000"
+        }
+    },
+    {
+        "id": 76,
+        "question": "All living things including man are composed of",
+        "correct": "a",
+        "options": {
+            "a": "Cells",
+            "b": "Apes",
+            "c": "Monkeys",
+            "d": "Fossils"
+        }
+    },
+    {
+        "id": 77,
+        "question": "It was ...... who showed that every living thing come from the union of sperm and egg.",
+        "correct": "b",
+        "options": {
+            "a": "Charles Darwin",
+            "b": "William Harvey",
+            "c": "Anton Van",
+            "d": "Ogbonna"
+        }
+    },
+    {
+        "id": 78,
+        "question": "The planets revolves around the sun in different",
+        "correct": "c",
+        "options": {
+            "a": "Rotation",
+            "b": "Revolution",
+            "c": "Orbits",
+            "d": "Galaxies"
+        }
+    },
+    {
+        "id": 79,
+        "question": "...... has ceased to be planet in the entire solar system.",
+        "correct": "c",
+        "options": {
+            "a": "Mercury",
+            "b": "Saturn",
+            "c": "Pluto",
+            "d": "Neptune"
+        }
+    },
+    {
+        "id": 80,
+        "question": "The estimate of the universe was made by",
+        "correct": "d",
+        "options": {
+            "a": "Edwin Hubble",
+            "b": "Wilson",
+            "c": "Charles Darwin",
+            "d": "Cosmos"
+        }
+    },
+    {
+        "id": 81,
+        "question": "The theory of the origin of the universe that is most favored is",
+        "correct": "a",
+        "options": {
+            "a": "Big-Bang",
+            "b": "Steady state",
+            "c": "Cosmological",
+            "d": "Great Explosion"
+        }
+    },
+    {
+        "id": 82,
+        "question": "The philosophical explanations of the universe are largely",
+        "correct": "a",
+        "options": {
+            "a": "Imaginative",
+            "b": "Based",
+            "c": "Acceptable",
+            "d": "Scientific"
+        }
+    },
+    {
+        "id": 83,
+        "question": "A lot of important of scientific developments and the replacement of wooden by metal machines took place in ......",
+        "correct": "b",
+        "options": {
+            "a": "20th",
+            "b": "16th",
+            "c": "12th",
+            "d": "15th"
+        }
+    },
+    {
+        "id": 84,
+        "question": "........ is the prevailing state of the atmosphere with respect to wind,rain and temperature.",
+        "correct": "a",
+        "options": {
+            "a": "Weather",
+            "b": "Climate",
+            "c": "Humidity",
+            "d": "Density"
+        }
+    },
+    {
+        "id": 85,
+        "question": "...... produces fats from carbohydrates.",
+        "correct": "b",
+        "options": {
+            "a": "Meats",
+            "b": "Plants",
+            "c": "Fruits",
+            "d": "Dates"
+        }
+    },
+    {
+        "id": 86,
+        "question": "Man's need for natural resources could be classified as",
+        "correct": "c",
+        "options": {
+            "a": "Primary and Basic",
+            "b": "Basic and Internal",
+            "c": "Primary and Secondary",
+            "d": "Internal and External"
+        }
+    },
+    {
+        "id": 87,
+        "question": "Thuru forest and Shrubs are found in",
+        "correct": "a",
+        "options": {
+            "a": "Australia",
+            "b": "North America",
+            "c": "Africa",
+            "d": "Asia"
+        }
+    },
+    {
+        "id": 88,
+        "question": "The earth surface form an integrated life supporting unit which is called",
+        "correct": "d",
+        "options": {
+            "a": "Troposphere",
+            "b": "Atmosphere",
+            "c": "Ecology",
+            "d": "Biosphere"
+        }
+    },
+    {
+        "id": 89,
+        "question": "Farming is very difficult in all of the following except",
+        "correct": "b",
+        "options": {
+            "a": "Desert",
+            "b": "Grassland",
+            "c": "Semi-Desert",
+            "d": "Tundra"
+        }
+    },
+    {
+        "id": 90,
+        "question": "Deserts vegetation are found in all of the following except",
+        "correct": "c",
+        "options": {
+            "a": "Australia",
+            "b": "North America",
+            "c": "Africa",
+            "d": "Middle East"
+        }
+    },
+    {
+        "id": 91,
+        "question": "The interdependence between man and plants in their air consumption is called",
+        "correct": "a",
+        "options": {
+            "a": "Commensalism",
+            "b": "Parasitism",
+            "c": "Symbiosis",
+            "d": "Sharing"
+        }
+    },
+    {
+        "id": 92,
+        "question": "Plants derived water through their roots and air through ....... In its leaves.",
+        "correct": "a",
+        "options": {
+            "a": "Stomata",
+            "b": "Sepals",
+            "c": "Stacks",
+            "d": "Petals"
+        }
+    },
+    {
+        "id": 93,
+        "question": "There are ....... Number of minor planets called Asteroids.",
+        "correct": "a",
+        "options": {
+            "a": "2,000",
+            "b": "2",
+            "c": "20",
+            "d": "200"
+        }
+    },
+    {
+        "id": 94,
+        "question": "Which of the following planers is the smallest?",
+        "correct": "c",
+        "options": {
+            "a": "Pluto",
+            "b": "Jupiter",
+            "c": "Mercury",
+            "d": "Uranus"
+        }
+    },
+    {
+        "id": 95,
+        "question": "Which is the largest planet?",
+        "correct": "a",
+        "options": {
+            "a": "Jupiter",
+            "b": "Earth",
+            "c": "Neptune",
+            "d": "Saturn"
+        }
+    },
+    {
+        "id": 96,
+        "question": "The origin of the universe and its galaxies is unknown.",
+        "correct": "a",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 97,
+        "question": "The unit of measurement which is used to measure astronomical distances is called",
+        "correct": "a",
+        "options": {
+            "a": "Light Year",
+            "b": "Moon year",
+            "c": "Sun Year",
+            "d": "Solar System"
+        }
+    },
+    {
+        "id": 98,
+        "question": "The five kind of specialized cells in man include all except",
+        "correct": "d",
+        "options": {
+            "a": "Blood cells",
+            "b": "Reproductive cells",
+            "c": "Boneor connective tissue cells",
+            "d": "Respiratory cells"
+        }
+    },
+    {
+        "id": 99,
+        "question": "..... are inherited traits of an offspring",
+        "correct": "c",
+        "options": {
+            "a": "Blood Tissue",
+            "b": "Cells",
+            "c": "Genes",
+            "d": "Cartilage"
+        }
+    },
+    {
+        "id": 100,
+        "question": "Twins may be ...... or .......",
+        "correct": "c",
+        "options": {
+            "a": "Identical or rough",
+            "b": "Identical or Special",
+            "c": "Fraternal or Identical",
+            "d": "Fraternal or Special"
+        }
+    },
+    {
+        "id": 101,
+        "question": "Another name for Deoxyribonucleic acid is",
+        "correct": "b",
+        "options": {
+            "a": "DND",
+            "b": "DNA",
+            "c": "DDA",
+            "d": "DNN"
+        }
+    },
+    {
+        "id": 102,
+        "question": "..... was the Scientist that showed that every living thing come from the union of sperm and egg.",
+        "correct": "a",
+        "options": {
+            "a": "Dr. William Hervey",
+            "b": "Charles Darwin",
+            "c": "Dr. Ben Carson",
+            "d": "Anton Van lanwenhoe"
+        }
+    },
+    {
+        "id": 103,
+        "question": "..... are the scientist who study the development of life from the point of fertilization.",
+        "correct": "d",
+        "options": {
+            "a": "Childlogist",
+            "b": "Private Doctors",
+            "c": "Mertaniters",
+            "d": "Embryologist"
+        }
+    },
+    {
+        "id": 104,
+        "question": "Charles Darwin (1809 - 1882) wrote a famous book called",
+        "correct": "c",
+        "options": {
+            "a": "The origin of Life",
+            "b": "The Universe",
+            "c": "The origin of species",
+            "d": "The World"
+        }
+    },
+    {
+        "id": 105,
+        "question": "There is a group of ..... chromosomes within the nucleus of each reproductive cell.",
+        "correct": "b",
+        "options": {
+            "a": "56",
+            "b": "46",
+            "c": "80",
+            "d": "34"
+        }
+    },
+    {
+        "id": 106,
+        "question": "The remains of one early great ape called ..... was found in Kenya who lived 20 million years ago.",
+        "correct": "a",
+        "options": {
+            "a": "Proconsul",
+            "b": "Pre-con",
+            "c": "Pastape",
+            "d": "Kenyape"
+        }
+    },
+    {
+        "id": 107,
+        "question": "..... is a way of life expressing both spirituality and material elements.",
+        "correct": "b",
+        "options": {
+            "a": "Arts",
+            "b": "Science",
+            "c": "Philo",
+            "d": "Social"
+        }
+    },
+    {
+        "id": 108,
+        "question": "Grego Mendel, postulated the theory of",
+        "correct": "d",
+        "options": {
+            "a": "Bio-data",
+            "b": "Metaphysics",
+            "c": "Evolution",
+            "d": "Genetics"
+        }
+    },
+    {
+        "id": 109,
+        "question": "Who among the following is regarded as father of heliocentricism",
+        "correct": "b",
+        "options": {
+            "a": "Kepler",
+            "b": "Corpernicus",
+            "c": "Galileo",
+            "d": "Isaac Newton"
+        }
+    },
+    {
+        "id": 110,
+        "question": "The word atom is derived from the Greek word",
+        "correct": "b",
+        "options": {
+            "a": "Ateme",
+            "b": "Atomos",
+            "c": "Atomic",
+            "d": "Atom"
+        }
+    },
+    {
+        "id": 111,
+        "question": "Through the work of Earnest Rutherford, it is known that an atom is made up of nucleus containing ..... and .....",
+        "correct": "c",
+        "options": {
+            "a": "Neutrons and Electrons",
+            "b": "Electrons and Protons",
+            "c": "Protons and neutrons",
+            "d": "Alkaline and Acid"
+        }
+    },
+    {
+        "id": 112,
+        "question": "..... expanded the atomic theory to include other properties not known before about the atom.",
+        "correct": "c",
+        "options": {
+            "a": "John Smith",
+            "b": "Democritus",
+            "c": "John Dalton",
+            "d": "Albert Einstein"
+        }
+    },
+    {
+        "id": 113,
+        "question": "The ..... Theory advocated that the earth was immobile and that the sun, the moon and stars revolve round the earth.",
+        "correct": "b",
+        "options": {
+            "a": "Geometric",
+            "b": "Geocentric",
+            "c": "Evolution",
+            "d": "Heliocentrics"
+        }
+    },
+    {
+        "id": 114,
+        "question": "A discovery is a new way at looking at an old phenomenon.",
+        "correct": "a",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 115,
+        "question": "..... defined laws of nature as \"Nothing but the uniformities which exists among natural phenomenon\".",
+        "correct": "a",
+        "options": {
+            "a": "J. S. Mill",
+            "b": "J. J. Mill",
+            "c": "H. S. Mill",
+            "d": "J.S."
+        }
+    },
+    {
+        "id": 116,
+        "question": "Which of the following is a foremost name in super computer.",
+        "correct": "d",
+        "options": {
+            "a": "Bill Gate",
+            "b": "Charles Babbage",
+            "c": "Steve Jobs",
+            "d": "Dr.Philip Emeagwali"
+        }
+    },
+    {
+        "id": 117,
+        "question": "Who developed the Binomial nomenclature",
+        "correct": "a",
+        "options": {
+            "a": "Karl Linnaeus",
+            "b": "Aristotle",
+            "c": "Charles Darwin",
+            "d": "Russel Wallace"
+        }
+    },
+    {
+        "id": 118,
+        "question": "..... Showed that the earth is flattened at the poles",
+        "correct": "a",
+        "options": {
+            "a": "Gassini",
+            "b": "Homer",
+            "c": "Anaximenes",
+            "d": "Pythagoras"
+        }
+    },
+    {
+        "id": 119,
+        "question": "Johaness Kepler (1571 - 1630) was the first to apply mathematics as an empirical instrument in seeking the laws of celestial motion.",
+        "correct": "a",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 120,
+        "question": "The belief that is the center of the universe is called",
+        "correct": "a",
+        "options": {
+            "a": "Geocentric theory",
+            "b": "Geography of Universe",
+            "c": "Geologies Theory",
+            "d": "None of the above"
+        }
+    },
+    {
+        "id": 121,
+        "question": "Corpernicus astronomical theory is called",
+        "correct": "a",
+        "options": {
+            "a": "Heliocentric theory",
+            "b": "Geocentric Theory",
+            "c": "Gassini Theory",
+            "d": "Man Made Life"
+        }
+    },
+    {
+        "id": 122,
+        "question": "Gun powder and fire arm had ..... origin.",
+        "correct": "b",
+        "options": {
+            "a": "American",
+            "b": "Chinese",
+            "c": "African",
+            "d": "German"
+        }
+    },
+    {
+        "id": 123,
+        "question": "..... is the study of the occurrence, localization and origin of the ores and their relation to the endorsing domain.",
+        "correct": "a",
+        "options": {
+            "a": "Geology",
+            "b": "Geography",
+            "c": "Mining",
+            "d": "geo-mining"
+        }
+    },
+    {
+        "id": 124,
+        "question": "Early men believed that astronomical bodies were all",
+        "correct": "a",
+        "options": {
+            "a": "Devine beings",
+            "b": "Logical beings",
+            "c": "Illogical beings",
+            "d": "Sensible beings"
+        }
+    },
+    {
+        "id": 125,
+        "question": "Sexual contact exposes one to the following diseases except",
+        "correct": "d",
+        "options": {
+            "a": "Gonorrhea",
+            "b": "Aids",
+            "c": "Sypills",
+            "d": "Pneumonia"
+        }
+    },
+    {
+        "id": 126,
+        "question": "Albert Einstein special theory of relativity is known as",
+        "correct": "d",
+        "options": {
+            "a": "Einstein particle energy relation",
+            "b": "Einstein particle mass relation",
+            "c": "Einstein mass weight relation",
+            "d": "Einstein mass energy relation"
+        }
+    },
+    {
+        "id": 127,
+        "question": "The solar system consisting of the sun and planets is believed to have been formed about ...... years ago.",
+        "correct": "b",
+        "options": {
+            "a": "46 million",
+            "b": "3.6 billion",
+            "c": "4.6 billion",
+            "d": "64 million"
+        }
+    },
+    {
+        "id": 128,
+        "question": "Acid rain is due to the oxides of .....",
+        "correct": "a",
+        "options": {
+            "a": "Carbon and Hydrogen",
+            "b": "Nitrogen and Sulphur",
+            "c": "Nickel and Silicon",
+            "d": "Water and Oxygen"
+        }
+    },
+    {
+        "id": 129,
+        "question": "The search for knowledge is known as",
+        "correct": "b",
+        "options": {
+            "a": "Scienta",
+            "b": "Philosophy",
+            "c": "Technology",
+            "d": "Sophia"
+        }
+    },
+    {
+        "id": 130,
+        "question": "Chemicals that can be decomposed by micro-organisms are said to be .....",
+        "correct": "c",
+        "options": {
+            "a": "Biodegrade",
+            "b": "Breakable",
+            "c": "Biodegradable",
+            "d": "Degradable"
+        }
+    },
+    {
+        "id": 131,
+        "question": "The ancient Greek philosophers first propounded a theory that says the astronomical bodies were",
+        "correct": "a",
+        "options": {
+            "a": "Stars and Sky",
+            "b": "Globes and Fire",
+            "c": "Comets that moves",
+            "d": "Theories of truth"
+        }
+    },
+    {
+        "id": 132,
+        "question": "..... is not a human excretory organ",
+        "correct": "b",
+        "options": {
+            "a": "Skin",
+            "b": "Lungs",
+            "c": "Kidney",
+            "d": "Anus"
+        }
+    },
+    {
+        "id": 133,
+        "question": "Crystallography, Mineralogy, Petrology and ..... are branches of geology concerned with minerals and composition.",
+        "correct": "a",
+        "options": {
+            "a": "Geochemistry",
+            "b": "Biochemistry",
+            "c": "Chemistry",
+            "d": "Chemist"
+        }
+    },
+    {
+        "id": 134,
+        "question": "Who postulated the low of electrolysis and electromagnetism?",
+        "correct": "c",
+        "options": {
+            "a": "Archimedes",
+            "b": "Kepler",
+            "c": "Faraday",
+            "d": "Ohms"
+        }
+    },
+    {
+        "id": 135,
+        "question": "Geologically, Rocks are divided into Igneous, Sedimentary and",
+        "correct": "c",
+        "options": {
+            "a": "Metamomatism",
+            "b": "Metamorphism",
+            "c": "Metamorphic",
+            "d": "Metals"
+        }
+    },
+    {
+        "id": 136,
+        "question": "..... was one of the first philosophers to estimate) the circumference of the earth.",
+        "correct": "b",
+        "options": {
+            "a": "Dioscorides",
+            "b": "Eratosthenes",
+            "c": "Eupalinus",
+            "d": "Aristotle"
+        }
+    },
+    {
+        "id": 137,
+        "question": "The development of atomic bomb was invented by ..... through a process called ......",
+        "correct": "d",
+        "options": {
+            "a": "Isaac Newton, Acceleration",
+            "b": "Lawrence Earnest, Acceleration",
+            "c": "Earnest 0. Lawrence, Cyclotron",
+            "d": "Albert Einstein, Cyclotron"
+        }
+    },
+    {
+        "id": 138,
+        "question": "The planets are divided into two groups ..... and .....",
+        "correct": "a",
+        "options": {
+            "a": "Terrestrial and Giant",
+            "b": "Universe and Sky",
+            "c": "Rock and Land form",
+            "d": "Sun and Mercury"
+        }
+    },
+    {
+        "id": 139,
+        "question": "Hardness of water was due to the presence of ions of",
+        "correct": "a",
+        "options": {
+            "a": "Calcium and Magnesium",
+            "b": "Calcium and Zinc",
+            "c": "Magnesium and Zinc",
+            "d": "Soap and Calcium"
+        }
+    },
+    {
+        "id": 140,
+        "question": "Sex Hormones in humans are generally produced by .....",
+        "correct": "a",
+        "options": {
+            "a": "Gonads",
+            "b": "Blood",
+            "c": "Brain",
+            "d": "Heart"
+        }
+    },
+    {
+        "id": 141,
+        "question": "Acquired Immune Deficiency Syndrome (AIDS) is caused by",
+        "correct": "b",
+        "options": {
+            "a": "Bacteria",
+            "b": "Virus",
+            "c": "HIV",
+            "d": "Parasite Protozoa"
+        }
+    },
+    {
+        "id": 142,
+        "question": "The ecological problem of water is partly because it is a/an",
+        "correct": "c",
+        "options": {
+            "a": "Polluted",
+            "b": "Essential",
+            "c": "universal",
+            "d": "pure"
+        }
+    },
+    {
+        "id": 143,
+        "question": "Pluto was discovered as a planet in",
+        "correct": "d",
+        "options": {
+            "a": "1930",
+            "b": "2006",
+            "c": "1900",
+            "d": "1850"
+        }
+    },
+    {
+        "id": 144,
+        "question": "The state of being of the body and mind of an individual constitute his/her",
+        "correct": "b",
+        "options": {
+            "a": "Spirit",
+            "b": "Health",
+            "c": "Attitude",
+            "d": "Character"
+        }
+    },
+    {
+        "id": 145,
+        "question": "Before ..... scientist were referred to as natural philosophers/men of science.",
+        "correct": "b",
+        "options": {
+            "a": "1420",
+            "b": "1833",
+            "c": "1930",
+            "d": "1836"
+        }
+    },
+    {
+        "id": 146,
+        "question": "The largest unit of geologic timescale is the",
+        "correct": "b",
+        "options": {
+            "a": "Epoch",
+            "b": "Era",
+            "c": "Eon",
+            "d": "Period"
+        }
+    },
+    {
+        "id": 147,
+        "question": "Humans are less instinctive than other animals.",
+        "correct": "a",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 148,
+        "question": "Reptile took the center stage at the Devoaims",
+        "correct": "b",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 149,
+        "question": "Aquamarine is a rock",
+        "correct": "b",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 150,
+        "question": "Topaz and water are resources",
+        "correct": "a",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 151,
+        "question": "Renewable resources are easily exhausted",
+        "correct": "b",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 152,
+        "question": "Gold and petroleum are energy resources.",
+        "correct": "a",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 153,
+        "question": "Stagnant air is also called",
+        "correct": "c",
+        "options": {
+            "a": "Snow",
+            "b": "Sop",
+            "c": "Smog",
+            "d": "Smoke"
+        }
+    },
+    {
+        "id": 154,
+        "question": "Lead tetraethyl (LTE) is an additive in petroleum.",
+        "correct": "a",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 155,
+        "question": "Which of these gasses causes the green house effect?",
+        "correct": "c",
+        "options": {
+            "a": "Hydrogen gas",
+            "b": "Nitrogen Oxide",
+            "c": "Carbon dioxide",
+            "d": "Oxygen gas"
+        }
+    },
+    {
+        "id": 156,
+        "question": "The ozone layer protects man from ..... radiation of the sun.",
+        "correct": "b",
+        "options": {
+            "a": "Special",
+            "b": "Ultraviolet",
+            "c": "Solar panel",
+            "d": "Renew"
+        }
+    },
+    {
+        "id": 157,
+        "question": "Darwin's theory was acclaimed as a significant contribution to",
+        "correct": "c",
+        "options": {
+            "a": "Archeology",
+            "b": "Arts",
+            "c": "Science",
+            "d": "Physics"
+        }
+    },
+    {
+        "id": 158,
+        "question": "Which of these materials has the highest strength?",
+        "correct": "d",
+        "options": {
+            "a": "Paper",
+            "b": "Textile",
+            "c": "Wood",
+            "d": "Plastic"
+        }
+    },
+    {
+        "id": 159,
+        "question": "Another name for Basic Science is",
+        "correct": "c",
+        "options": {
+            "a": "Applied Science",
+            "b": "Fundamental Science",
+            "c": "Curiosity-oriented science",
+            "d": "Innovative Science"
+        }
+    },
+    {
+        "id": 160,
+        "question": "The process of ..... perpetuates specific genetic characteristics in offspring.",
+        "correct": "b",
+        "options": {
+            "a": "Cell",
+            "b": "Genes",
+            "c": "Blood",
+            "d": "Brain"
+        }
+    },
+    {
+        "id": 161,
+        "question": "Mere change within a basic type of living is",
+        "correct": "a",
+        "options": {
+            "a": "Variety",
+            "b": "Creation",
+            "c": "Evolution",
+            "d": "Change"
+        }
+    },
+    {
+        "id": 162,
+        "question": "Agriculture and Medicine as a discipline are all aspect of",
+        "correct": "d",
+        "options": {
+            "a": "Further Science",
+            "b": "Logical Science",
+            "c": "Pure Science",
+            "d": "Applied Science"
+        }
+    },
+    {
+        "id": 163,
+        "question": "Science is derived from",
+        "correct": "c",
+        "options": {
+            "a": "Europeans",
+            "b": "Arabs",
+            "c": "Greeks",
+            "d": "Americans"
+        }
+    },
+    {
+        "id": 164,
+        "question": "Social Sciences were originally known as",
+        "correct": "a",
+        "options": {
+            "a": "Moral Philosophy",
+            "b": "Natural Science",
+            "c": "Natural Technology",
+            "d": "Natural Philosophy"
+        }
+    },
+    {
+        "id": 165,
+        "question": "A framework that recognize man's metaphysical dimension appears evident in",
+        "correct": "c",
+        "options": {
+            "a": "Religious theory",
+            "b": "Evolution theory",
+            "c": "Darwin's theory",
+            "d": "Fossil's theory"
+        }
+    },
+    {
+        "id": 166,
+        "question": "One of the following is a skill exhibited by scientist",
+        "correct": "a",
+        "options": {
+            "a": "Evaluating",
+            "b": "Brassiness",
+            "c": "Memorizing",
+            "d": "Metaphysics"
+        }
+    },
+    {
+        "id": 167,
+        "question": "A very good example of Applied Technology is",
+        "correct": "b",
+        "options": {
+            "a": "Technical Drawing",
+            "b": "Civil Engineering",
+            "c": "Woodwork",
+            "d": "Electrical electronics"
+        }
+    },
+    {
+        "id": 168,
+        "question": "Science can simply be identified as",
+        "correct": "b",
+        "options": {
+            "a": "Study of man's environment",
+            "b": "Man's systematic effort to understand natural phenomenon",
+            "c": "Discovery of information in the physical universe",
+            "d": "Knowledge of man as of his past history"
+        }
+    },
+    {
+        "id": 169,
+        "question": "The evolutionist have no believe in the",
+        "correct": "b",
+        "options": {
+            "a": "Evolution",
+            "b": "Supernatural",
+            "c": "Science",
+            "d": "Life"
+        }
+    },
+    {
+        "id": 170,
+        "question": "An example of water borne disease is .....",
+        "correct": "a",
+        "options": {
+            "a": "Cholera",
+            "b": "Smallpox",
+            "c": "Malaria",
+            "d": "Measles"
+        }
+    },
+    {
+        "id": 171,
+        "question": "Europeans gained access to preserve copies of the Ancient Greek, Roman and works of Islamic philosophers through the islamic",
+        "correct": "c",
+        "options": {
+            "a": "Egypt",
+            "b": "Kuwait",
+            "c": "Andalus",
+            "d": "Jordan"
+        }
+    },
+    {
+        "id": 172,
+        "question": "..... is the practical application of science progress geared towards the betterment of living standards of mankind.",
+        "correct": "a",
+        "options": {
+            "a": "Technology",
+            "b": "Basic Science",
+            "c": "Science",
+            "d": "Social Science"
+        }
+    },
+    {
+        "id": 173,
+        "question": "A scientist is a person or someone who seeks to understand and discover the relationship between ...... and ......",
+        "correct": "b",
+        "options": {
+            "a": "Animals and Nature",
+            "b": "Human beings and Nature",
+            "c": "Animals and Bird",
+            "d": "Human Beings and Birds"
+        }
+    },
+    {
+        "id": 174,
+        "question": "Keeping nails short, brushing tooth twice daily, and bathing at least twice daily are aspect of ..... hygiene.",
+        "correct": "c",
+        "options": {
+            "a": "General",
+            "b": "Environmental",
+            "c": "Personal",
+            "d": "Food"
+        }
+    },
+    {
+        "id": 175,
+        "question": "In Nigeria, coal deposits can be found in ..... and .....",
+        "correct": "a",
+        "options": {
+            "a": "Enugu and Imo",
+            "b": "Ekiti and Ondo",
+            "c": "Edo and Niger",
+            "d": "Kogi and Benue"
+        }
+    },
+    {
+        "id": 176,
+        "question": "Projectile motion is a motion of a particle in",
+        "correct": "a",
+        "options": {
+            "a": "Parabolic Motion",
+            "b": "Semicircular Motion",
+            "c": "Vertical Motion",
+            "d": "Horizontal Motion"
+        }
+    },
+    {
+        "id": 177,
+        "question": "..... is an excavation for scattered surface products such as residual deposits and placer deposits.",
+        "correct": "a",
+        "options": {
+            "a": "Surface Mining",
+            "b": "Facial Mining",
+            "c": "Rock Mining",
+            "d": "Under grade Mining"
+        }
+    },
+    {
+        "id": 178,
+        "question": "The unit of electric current Ampere is named after",
+        "correct": "b",
+        "options": {
+            "a": "Faraday",
+            "b": "Andre-Marie Ampere",
+            "c": "Niels Bohr",
+            "d": "Ernest Rutherford"
+        }
+    },
+    {
+        "id": 179,
+        "question": "The bible puts the age of the earth to be ..... years.",
+        "correct": "c",
+        "options": {
+            "a": "6,000",
+            "b": "600",
+            "c": "600,000",
+            "d": "60,000"
+        }
+    },
+    {
+        "id": 180,
+        "question": "..... is a water-borne",
+        "correct": "d",
+        "options": {
+            "a": "Common cold",
+            "b": "Chicken Pox",
+            "c": "Tuberculosis",
+            "d": "Typhoid"
+        }
+    },
+    {
+        "id": 181,
+        "question": "Nasarawa State has ..... potential in Obi Local Government.",
+        "correct": "b",
+        "options": {
+            "a": "Bitumen",
+            "b": "Coal",
+            "c": "Mineral",
+            "d": "Gold"
+        }
+    },
+    {
+        "id": 182,
+        "question": "The universe is estimated to be between ..... and ..... years.",
+        "correct": "a",
+        "options": {
+            "a": "10 and 20 billion",
+            "b": "500 million and 1 billion",
+            "c": "1 and 2 billion",
+            "d": "2 and 5 million"
+        }
+    },
+    {
+        "id": 183,
+        "question": "Typhoid fever is an example of ..... Disease.",
+        "correct": "a",
+        "options": {
+            "a": "Food/Water-borne",
+            "b": "Air-borne",
+            "c": "Contact",
+            "d": "Secondary"
+        }
+    },
+    {
+        "id": 184,
+        "question": "The steady state theory is also popular known as",
+        "correct": "d",
+        "options": {
+            "a": "Perfect creation",
+            "b": "Universal creation",
+            "c": "Imperfect creation",
+            "d": "Big-Bang"
+        }
+    },
+    {
+        "id": 185,
+        "question": "The early men were merely ..... in describing the universe.",
+        "correct": "d",
+        "options": {
+            "a": "Scientific",
+            "b": "Logical",
+            "c": "Factual",
+            "d": "Superstitious"
+        }
+    },
+    {
+        "id": 186,
+        "question": "The ...... civilization contributed to the development of the science of Geometry.",
+        "correct": "b",
+        "options": {
+            "a": "Roman",
+            "b": "Egyptian",
+            "c": "Greek",
+            "d": "Chinese"
+        }
+    },
+    {
+        "id": 187,
+        "question": "A long time effect of radioactivity exposure is",
+        "correct": "b",
+        "options": {
+            "a": "Malaria",
+            "b": "Leukemia",
+            "c": "Pneumonia",
+            "d": "Diarrhea"
+        }
+    },
+    {
+        "id": 188,
+        "question": "Malaria is caused by",
+        "correct": "a",
+        "options": {
+            "a": "Mosquitoes",
+            "b": "Plasmoid",
+            "c": "Hookworm",
+            "d": "Parasites"
+        }
+    },
+    {
+        "id": 189,
+        "question": "Multiplicity of the cells in the creation of early life on earth is by",
+        "correct": "c",
+        "options": {
+            "a": "New birth",
+            "b": "Cell creation",
+            "c": "Cell division",
+            "d": "Double cell"
+        }
+    },
+    {
+        "id": 190,
+        "question": "Scientist believed that the creation of earth is a",
+        "correct": "d",
+        "options": {
+            "a": "Mere coincidence",
+            "b": "Just believe",
+            "c": "Beautiful phenomenon",
+            "d": "Natural process"
+        }
+    },
+    {
+        "id": 191,
+        "question": "The two broad categories of theories that have tried to explain how the universe came into being are ..... and .....",
+        "correct": "c",
+        "options": {
+            "a": "Darwin and Charles",
+            "b": "Pluto and Universe",
+            "c": "Philosophical and Scientific",
+            "d": "Historical and Archeology"
+        }
+    },
+    {
+        "id": 192,
+        "question": "The causative agents of Human disease are collectively called",
+        "correct": "a",
+        "options": {
+            "a": "Pathogens",
+            "b": "Bacteria",
+            "c": "Virus",
+            "d": "Protozoa"
+        }
+    },
+    {
+        "id": 193,
+        "question": "There are ..... Planets orbiting the sun.",
+        "correct": "a",
+        "options": {
+            "a": "9",
+            "b": "12",
+            "c": "8",
+            "d": "10"
+        }
+    },
+    {
+        "id": 194,
+        "question": "The application of knowledge of natural phenomenon to solve human problems is known as",
+        "correct": "c",
+        "options": {
+            "a": "Science",
+            "b": "Advancement",
+            "c": "Technology",
+            "d": "Development"
+        }
+    },
+    {
+        "id": 195,
+        "question": "Late Philosophers such as Pluto and his contemporaries argued that astronomical bodies were",
+        "correct": "c",
+        "options": {
+            "a": "Matter and Energy in space",
+            "b": "Globes of Fire",
+            "c": "Stars and moon in the sky",
+            "d": "Comets and stars in the sky"
+        }
+    },
+    {
+        "id": 196,
+        "question": "The blood vessel that convey blood from the different parts of the body to the heart are called",
+        "correct": "c",
+        "options": {
+            "a": "Arteries",
+            "b": "Capillaries",
+            "c": "Veins",
+            "d": "Aorta"
+        }
+    },
+    {
+        "id": 197,
+        "question": "..... suggested in the 16th century that the planets revolve round the sun.",
+        "correct": "b",
+        "options": {
+            "a": "Darwin",
+            "b": "Copernicus",
+            "c": "Edwin Hubble",
+            "d": "Astronomer"
+        }
+    },
+    {
+        "id": 198,
+        "question": "Which parastatal of Federal Ministry of Science and Technology produces the diagnostic kits for typhoid fever and gastritis?",
+        "correct": "c",
+        "options": {
+            "a": "RMDC",
+            "b": "NASENI",
+            "c": "SHESTCO",
+            "d": "SEDC"
+        }
+    },
+    {
+        "id": 199,
+        "question": "Knitting is one of the methods used in textile processing.",
+        "correct": "a",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 200,
+        "question": "Heat is carried out from the centre of the sun by",
+        "correct": "b",
+        "options": {
+            "a": "Combustion",
+            "b": "Radiation",
+            "c": "Reaction",
+            "d": "Lighting"
+        }
+    },
+    {
+        "id": 201,
+        "question": "The study of genes and how they are transmitted is one of the importance of ..... to man.",
+        "correct": "Biology"
+    },
+    {
+        "id": 202,
+        "question": "Rock resulting from decomposition of dead plants and animal materials known as .....",
+        "correct": "sedimentary"
+    },
+    {
+        "id": 203,
+        "question": "..... is an extremely cold planet with two satellite.",
+        "correct": "Neptune"
+    },
+    {
+        "id": 204,
+        "question": "..... is the planet *farthest* from the sun.",
+        "correct": "Neptune"
+    },
+    {
+        "id": 205,
+        "question": "It takes the mercury ..... days to _revolve round_ the sun.",
+        "correct": "88"
+    },
+    {
+        "id": 206,
+        "question": "The basic language of science is .....",
+        "correct": "Mathematics"
+    },
+    {
+        "id": 207,
+        "question": "..... does not come from science only because much of the knowledge is derived from *empirical* evidence.",
+        "correct": "Knowledge"
+    },
+    {
+        "id": 208,
+        "question": "A research undertaken to find out the cause of flood disaster in a particular community is known as ..... research.",
+        "correct": "applied"
+    },
+    {
+        "id": 209,
+        "question": "..... is a set of principles that generate knowledge about a phenomenon in the universe.",
+        "correct": "Philosophy"
+    },
+    {
+        "id": 210,
+        "question": "..... is a name given to a group of stars.",
+        "correct": "Galaxy"
+    },
+    {
+        "id": 211,
+        "question": "The *2nd* national developmental plan of Nigeria was witnessed by massive management and reduced per-capital .....",
+        "correct": "income"
+    },
+    {
+        "id": 212,
+        "question": "Africa belongs to ..... race.",
+        "correct": "nefoids"
+    },
+    {
+        "id": 213,
+        "question": "Procedure for research generally known as research .....",
+        "correct": "method"
+    },
+    {
+        "id": 214,
+        "question": "A pure research is also known as ..... research.",
+        "correct": "basic"
+    },
+    {
+        "id": 215,
+        "question": "The _*first institution of higher learning*_ in Nigeria is ..... college of technology.",
+        "correct": "Yaba"
+    },
+    {
+        "id": 216,
+        "question": "Intvits belong to ..... race.",
+        "correct": "mogholoids"
+    },
+    {
+        "id": 217,
+        "question": "..... resources could categorized into *Biological and Physical* resource.",
+        "correct": "Natural"
+    },
+    {
+        "id": 218,
+        "question": "Efficient recovery of waste into other useful products is known as .....",
+        "correct": "recycling"
+    },
+    {
+        "id": 219,
+        "question": "The distance of the sun from the earth is ..... kilometres.",
+        "correct": "150,000,000"
+    },
+    {
+        "id": 220,
+        "question": "The process of reducing combustible waste to inert residue at higher temperature is called .....",
+        "correct": "incineration"
+    },
+    {
+        "id": 221,
+        "question": "The only planet that rotate clockwise is .....",
+        "correct": "Venus"
+    },
+    {
+        "id": 222,
+        "question": "Astronomical bodies orbit round the sun due to ..... force.",
+        "correct": "gravitational"
+    },
+    {
+        "id": 223,
+        "question": "The most declining feature of modern man is homo .....",
+        "correct": "sapiens"
+    },
+    {
+        "id": 224,
+        "question": "..... is a body of knowledge about the structure of the nature and physical world based on fact that can be prove.",
+        "correct": "Science"
+    },
+    {
+        "id": 225,
+        "question": "..... is the branch of philosophy that is concerned with knowledge.",
+        "correct": "Philosophy of Science"
+    },
+    {
+        "id": 226,
+        "question": "The importance of ..... to man is that contribute to *the discovery and use of hydro-electric power*.",
+        "correct": "Physics"
+    },
+    {
+        "id": 227,
+        "question": "*Alexandra Graham Bell (1896)* contribute to the discovery and use of .....",
+        "correct": "telephone"
+    },
+    {
+        "id": 228,
+        "question": "Basic ..... is a body of knowledge.",
+        "correct": "conception"
+    },
+    {
+        "id": 229,
+        "question": "..... is a process and set of ordered activities meant to facilitate a more reliable discovery.",
+        "correct": "Research"
+    },
+    {
+        "id": 230,
+        "question": "..... is a set of methods used in working on something.",
+        "correct": "Methodology"
+    },
+    {
+        "id": 231,
+        "question": "Research could be divided into pure and .....",
+        "correct": "applied"
+    },
+    {
+        "id": 232,
+        "question": "..... research deals with large scales studies.",
+        "correct": "Applied"
+    },
+    {
+        "id": 233,
+        "question": "..... are tentative answers because they can be verified only after they have been tested empirically.",
+        "correct": "Hypothesis"
+    },
+    {
+        "id": 234,
+        "question": "..... is that portion which is studied closely in order to gain some knowledge.",
+        "correct": "Sample"
+    },
+    {
+        "id": 235,
+        "question": "The *Rs* of experimentation are replication, randomization and .....",
+        "correct": "requesting"
+    },
+    {
+        "id": 236,
+        "question": "In scientific research, report constitutes two main parts method and .....",
+        "correct": "materials"
+    },
+    {
+        "id": 237,
+        "question": "..... is any change in the normal quality of environment.",
+        "correct": "Pollution"
+    },
+    {
+        "id": 238,
+        "question": "Air ..... is continuous and maintains a connection between land, seas, rivers, Oceans, and lakes.",        "correct": "Pollution"
+    },
+    {
+        "id": 239,
+        "question": "The sources of air ..... are; *emission, gasses, particles and droplets*.",
+        "correct": "Pollution"
+    },
+    {
+        "id": 240,
+        "question": "The ..... of well plan experiment are; *simplicity , degree of precision, absence of systematic, error and validity of conclusion*.",
+        "correct": "characteristic"
+    },
+    {
+        "id": 241,
+        "question": "*Soil/.... pollution* is discharges of wastes on land close to factories/industries.",
+        "correct": "land"
+    },
+    {
+        "id": 242,
+        "question": "*Ardipithecus ramidus* found in ..... 4.4m years ago.",
+        "correct": "Kenya"
+    },
+    {
+        "id": 243,
+        "question": "*Homo erectus* found in northern Kenya 1.8-1.9m years ago ..... size 750- 900cm\u00b3 at first and 1000-1250cm\u00b3 later.",
+        "correct": "brain"
+    },
+    {
+        "id": 244,
+        "question": "*Homo habilis*(handy man) occurred 2.3-2.7m year ago in ....., Ethopia, Tanzania and Kenya.",
+        "correct": "Malawi"
+    },
+    {
+        "id": 245,
+        "question": "*Homo beidel bergesis* found in ..... 800,000 years ago.",
+        "correct": "Germany"
+    },
+    {
+        "id": 246,
+        "question": "*Homo neander thatenis* ..... in Europe and western Asia.",
+        "correct": "appeared"
+    },
+    {
+        "id": 247,
+        "question": "..... originate from _Europe, middle east and India_.",
+        "correct": "Caucasoids"
+    },
+    {
+        "id": 248,
+        "question": "..... \u00be(75 %) of world population these are _the people of south east and central asia, north American, Indians and invits_.",
+        "correct": "Mongoloid"
+    },
+    {
+        "id": 249,
+        "question": "There are *9 planets, 32 moons, 240,000 asteroids and countless number of* ..... in the space.",
+        "correct": "meteors"
+    },
+    {
+        "id": 250,
+        "question": "The average temperature of the Sun is .....\u00b0c.",
+        "correct": "6000"
+    },
+    {
+        "id": 251,
+        "question": "It takes the moon ..... days *to complete an orbit*.",
+        "correct": "29"
+    },
+    {
+        "id": 252,
+        "question": "The ..... is the closet to the sun and it temperature ranges from 180\u00b0c - 430\u00b0c.",
+        "correct": "Mercury"
+    },
+    {
+        "id": 253,
+        "question": "The Mercury is ..... km away from the sun.",
+        "correct": "57"
+    },
+    {
+        "id": 254,
+        "question": "..... consist of silicate rocks, iron and nickel.",
+        "correct": "Venus"
+    },
+    {
+        "id": 255,
+        "question": "..... surface temperature is about 406\u00b0c.",
+        "correct": "Venus"
+    },
+    {
+        "id": 256,
+        "question": "The distance of Venus from the sun is .....million km.",
+        "correct": "107"
+    },
+    {
+        "id": 257,
+        "question": "It takes ..... days for a Venus to complete a revolution.",
+        "correct": "255"
+    },
+    {
+        "id": 258,
+        "question": "The earth is made of rocks, more than .....% covered by ocean.",
+        "correct": "70"
+    },
+    {
+        "id": 259,
+        "question": "..... distance from sun is 226.4m km.",        "correct": "Mars"
+    },
+    {
+        "id": 260,
+        "question": "It takes Mars ..... days for a revolution and has two satellite.",
+        "correct": "687"
+    },
+    {
+        "id": 261,
+        "question": "..... is the largest planet in the solar system.",
+        "correct": "Jupiter"
+    },
+    {
+        "id": 262,
+        "question": "..... has 16 satellites and takes 11.9 years for revolution.",
+        "correct": "Jupiter"
+    },
+    {
+        "id": 263,
+        "question": "..... has *18 satellites* and takes *29.5 years for a revolution*.",
+        "correct": "Satum"
+    },
+    {
+        "id": 264,
+        "question": "..... has *5 moons* and takes *84 years for a revolution*.",
+        "correct": "Uranus"
+    },
+    {
+        "id": 265,
+        "question": "..... takes *164 years for a revolution*.",
+        "correct": "Neptune"
+    },
+    {
+        "id": 266,
+        "question": "*Data analysis* is a scientific research that requires the knowledge of .....",
+        "correct": "Statistics"
+    },
+    {
+        "id": 267,
+        "question": "The focus of the 2nd national development plan was aim at *expansion of* sector.",
+        "correct": "industrial"
+    },
+    {
+        "id": 268,
+        "question": "*Bida/nupe basin* was one of the basins widely believed to have originated from .....",
+        "correct": "rifting"
+    },
+    {
+        "id": 269,
+        "question": "..... ensures the absence of bias in scientific research.",
+        "correct": "Objectivity"
+    },
+    {
+        "id": 270,
+        "question": "..... collection is required at a stage of field work in scientific research process.",
+        "correct": "Sample"
+    },
+    {
+        "id": 271,
+        "question": "A system of explicit rules and procedure on which research is base is called .....",
+        "correct": "Statistics"
+    },
+    {
+        "id": 272,
+        "question": "*International institute of tropical agriculture* is located in .....",
+        "correct": "Ibadan"
+    },
+    {
+        "id": 273,
+        "question": "The approach to resources management that enhance the effective and efficient application is called .....",
+        "correct": "Economic"
+    },
+    {
+        "id": 274,
+        "question": "Scientist and ..... have a lot of contributions to make towards the development of science and technology.",
+        "correct": "Philosophers"
+    },
+    {
+        "id": 275,
+        "question": "The surface area of Nigeria is covered in nearly equal ..... by *crystalline and sedimentary rocks*.",
+        "correct": "proportions"
+    },
+    {
+        "id": 276,
+        "question": "*Bida/nupe basin* is widely believed to be originated from rifting and has *impure ..... as minerals* found in it.",
+        "correct": "coal"
+    },
+    {
+        "id": 277,
+        "question": "*Open dumping* has led to the worsening of the waste problem in .....",
+        "correct": "Nigeria"
+    },
+    {
+        "id": 278,
+        "question": "A study earlier conducted in _Maiduguri_ indicated that ..... bags constituted the highest percentage composition of waste.",
+        "correct": "polythene"
+    },
+    {
+        "id": 279,
+        "question": "The name of a community in *Cairo* that specialist in scavenging of waste to make it wealth is called .....",
+        "correct": "Zabaleen"
+    },
+    {
+        "id": 280,
+        "question": "Open dumping is the most ..... and _old method_ in Nigeria.",
+        "correct": "common"
+    },
+    {
+        "id": 281,
+        "question": "The types of rocks *crystalline* that are only found in plateau (Jos) are the ..... complex rocks.",
+        "correct": "basement"
+    },
+    {
+        "id": 282,
+        "question": "The approach to resources management in which allocation and management of resources are done in line with physical and regional base is called ..... approach.",
+        "correct": "ecological"
+    },
+    {
+        "id": 283,
+        "question": "The discovery of organic chemistry is credited to .....",
+        "correct": "Mc-Cormick"
+    },
+    {
+        "id": 284,
+        "question": "..... survey requires the application of basic laws and principles in solving human problem.",
+        "correct": "Field"
+    },
+    {
+        "id": 285,
+        "question": "In the statement no smoke without fire, ..... is the cause.",
+        "correct": "fire"
+    },
+    {
+        "id": 286,
+        "question": "Addressing the issue of abortion and prostitute requires .....",
+        "correct": "research"
+    },
+    {
+        "id": 287,
+        "question": "..... is a research instrument use for data collection.",
+        "correct": "Questionnaire"
+    },
+    {
+        "id": 288,
+        "question": "The first step in scientific research is called .....",
+        "correct": "experiment"
+    },
+    {
+        "id": 289,
+        "question": "The end product of research is called .....",
+        "correct": "knowledge"
+    },
+    {
+        "id": 290,
+        "question": "*Lecturers* and *students* mostly involve in ..... research",
+        "correct": "pure"
+    },
+    {
+        "id": 291,
+        "question": "Addressing the issue of examination failure and falling standard of education requires the use of basic ....",
+        "correct": "research"
+    },
+    {
+        "id": 292,
+        "question": "Developing and testing hypothesis is one of the ..... of research method.",
+        "correct": "qualities"
+    },
+    {
+        "id": 293,
+        "question": "*Census* and *opinion polls* are two good examples of ..... research.",
+        "correct": "applied"
+    },
+    {
+        "id": 294,
+        "question": "..... resources are divided into *biotic and soil resources*.",
+        "correct": "Renewable"
+    },
+    {
+        "id": 295,
+        "question": "The 4th national development plan collapsed because of indiscipline.",
+        "correct": "b",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 296,
+        "question": "The oldest method of waste disposal in Nigeria is called recycling.",
+        "correct": "b",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 297,
+        "question": "The philosopher _JEAN PIAGET_ is associated with the study of cognitive development.",
+        "correct": "a",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 298,
+        "question": "The per-capital generation of rate of refuse in Nigeria is lowest in the tropical rain forest.",
+        "correct": "b",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 299,
+        "question": "Science can be defined as activities culminating into a testable, falsifiable and verifiable body of knowledge.",
+        "correct": "a",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 300,
+        "question": "Petrochemical industries were cited in Nigeria during the fourth national development plan.",
+        "correct": "b",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 301,
+        "question": "It is easier to manipulate variables in field experiment than laboratory experiment.",
+        "correct": "b",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 302,
+        "question": "The acid that cause severe effect on the body organ is called sulphuric acid.",
+        "correct": "a",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 303,
+        "question": "The philosopher enquires into the discipline in physical, applied and natural science alone.",
+        "correct": "a",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 304,
+        "question": "Research design starts with field work and ends with research report.",
+        "correct": "a",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 305,
+        "question": "Both cocoa and rubber institutes of Nigeria are located in lbadan.",
+        "correct": "a",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 306,
+        "question": "Limestone is one of the important minerals found in the sokoto basin.",
+        "correct": "a",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 307,
+        "question": "The 3rd national development plan witnessed huge corruption and mismanagement.",
+        "correct": "b",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 308,
+        "question": "In science knowledge is tentative and not the ultimate statement of reality.",
+        "correct": "b",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 309,
+        "question": "In science the answer to today problem may turn to become tomorrow problem.",
+        "correct": "a",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 310,
+        "question": "Problem formulation, data analysis, field work and data observation are all basic steps in scientific research.",
+        "correct": "a",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 311,
+        "question": "The basement complex rocks are the youngest rocks types.",
+        "correct": "b",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 312,
+        "question": "The disagreement between science and religion arose because man love religion more than science.",
+        "correct": "a",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 313,
+        "question": "Nigerian environment can be best discussed in terms of vegetation.",
+        "correct": "b",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 314,
+        "question": "Public enlighten could be a way of reducing waste generation.",
+        "correct": "b",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 315,
+        "question": "Knowledge is an assumption in philosophy of science.",
+        "correct": "a",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 316,
+        "question": "Cognitive, historical, computational, scientific are all approaches in philosophy of science.",
+        "correct": "a",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 317,
+        "question": "One of the reasons for descriptive research is observe and explain phenomenon.",
+        "correct": "a",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 318,
+        "question": "Philosophy is a body of knowledge derived from observation and experimentation.",
+        "correct": "a",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 319,
+        "question": "Homo sapiens were believed to have appeared in Europe.",
+        "correct": "b",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 320,
+        "question": "Science is a body of knowledge which deals with application of laws and principles is called basic science.",
+        "correct": "b",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 321,
+        "question": "Research is a process directed to discovery of fact.",
+        "correct": "a",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 322,
+        "question": "Ethnological approach in resources management involves the corporation of public found consent.",
+        "correct": "a",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 323,
+        "question": "Kaolin, marble, diatomite and bentonite as economic minerals could be found in borno basin.",
+        "correct": "a",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 324,
+        "question": "Radiation techniques used in medicine is one of the importance of chemistry to man.",
+        "correct": "b",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 325,
+        "question": "Technological advancement has provide the opportunity but also created problems confronting human society.",
+        "correct": "a",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 326,
+        "question": "Homo holbergenesis were believed to have appear in Africa.",
+        "correct": "b",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 327,
+        "question": "Solid wastes are said to be of economic importance.",
+        "correct": "a",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 328,
+        "question": "An applied research is the one that deals with small scale studies.",
+        "correct": "b",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 329,
+        "question": "Solid waste are good breeding grounds for mosquitos, flies and other insect.",
+        "correct": "a",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 330,
+        "question": "Wastes could be classified into solid and liquid.",
+        "correct": "b",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 331,
+        "question": "Austrelopithecus is one of the genera of modern humans.",
+        "correct": "a",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 332,
+        "question": "Research refers to purposeful and planned activities.",
+        "correct": "a",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 333,
+        "question": "The largest meteoroid is called ceres.",
+        "correct": "a",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 334,
+        "question": "Environmental pollution occurs, it affects the ecology of human surroundings.",
+        "correct": "a",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 335,
+        "question": "Energy from the sun is the ultimate source of energy on earth.",
+        "correct": "a",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 336,
+        "question": "The 1st national development plan of Nigeria was from 1962-1978.",
+        "correct": "b",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 337,
+        "question": "Research techniques used in medicine is one of the importance of biology to man.",
+        "correct": "a",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 338,
+        "question": "There is plenty of liquid water in the moon.",
+        "correct": "b",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 339,
+        "question": "The basic language of science is latin.",
+        "correct": "b",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 340,
+        "question": "Solid wastes do not have any economic important.",
+        "correct": "b",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "id": 341,
+        "question": "A system of explicit rules and procedures is known as statistics.",
+        "correct": "a",
+        "options": {
+            "a": "True",
+            "b": "False"
+        }
+    }
+]
