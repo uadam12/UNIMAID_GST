@@ -4,7 +4,7 @@ export const Header = () => {
   const courses = [111, 112, 113, 122, 123, 211, 212, 221, 224, 231].map(code => 
     <li key={code}><span onClick={() => {
       saveCourse(code);
-      window.Location.reload();
+      window.location.reload();
     }} data-code={code} className="dropdown-item">GST {code}</span></li>);
     
   const modes = ["Quick", "Test", "Exam"].map(mode => 
@@ -29,7 +29,7 @@ export const Header = () => {
                 onClick={() => {
                   const pdf = require(`../handouts/${getCourse()}.pdf`);
                   window.open(pdf, "_blank");
-              }}>Read Handout</span>
+              }}>Handout</span>
             </li>
             <li className="nav-item dropdown">
               <span className="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown">Courses</span>

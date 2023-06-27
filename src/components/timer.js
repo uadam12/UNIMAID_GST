@@ -6,7 +6,9 @@ export default class Timer extends React.Component {
 
     this.quiz = props.quiz;
     this.state = {timeleft: this.quiz.timeAllowed};
+  }
 
+  componentDidMount() {
     const play = window.setInterval(() => {
       const timeleft = this.state.timeleft;
       
