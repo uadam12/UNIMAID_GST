@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/unimaid-gst/static/css/main.3ecf3825.css",
-    "main.js": "/unimaid-gst/static/js/main.d6706e70.js",
-    "static/js/787.a424504b.chunk.js": "/unimaid-gst/static/js/787.a424504b.chunk.js",
-    "static/media/122.pdf": "/unimaid-gst/static/media/122.18285fa4ac2dc59ef972.pdf",
-    "static/media/123.pdf": "/unimaid-gst/static/media/123.991f32c91fbd0ddabbfa.pdf",
-    "static/media/221.pdf": "/unimaid-gst/static/media/221.449ccc6424dee0f03d4b.pdf",
-    "static/media/224.pdf": "/unimaid-gst/static/media/224.d41423ec56d674f88d13.pdf",
-    "static/media/211.pdf": "/unimaid-gst/static/media/211.f17323a130ca40f332e8.pdf",
-    "static/media/logo.jpg": "/unimaid-gst/static/media/logo.bb84fcc90f3e1055db07.jpg",
-    "static/media/212.pdf": "/unimaid-gst/static/media/212.183eca13eb0fe2c0d554.pdf",
-    "static/media/113.pdf": "/unimaid-gst/static/media/113.d52bffe89f66d23ab447.pdf",
-    "static/media/231.pdf": "/unimaid-gst/static/media/231.f64ca5b71613e10f54ee.pdf",
-    "static/media/112.pdf": "/unimaid-gst/static/media/112.df280df05b8023f4a303.pdf",
-    "static/media/111.pdf": "/unimaid-gst/static/media/111.b093bcbfb82885ba87e8.pdf",
-    "index.html": "/unimaid-gst/index.html",
-    "main.3ecf3825.css.map": "/unimaid-gst/static/css/main.3ecf3825.css.map",
-    "main.d6706e70.js.map": "/unimaid-gst/static/js/main.d6706e70.js.map",
-    "787.a424504b.chunk.js.map": "/unimaid-gst/static/js/787.a424504b.chunk.js.map"
+    "main.css": "./static/css/main.3ecf3825.css",
+    "main.js": "./static/js/main.f3754cd2.js",
+    "static/js/787.17c92be5.chunk.js": "./static/js/787.17c92be5.chunk.js",
+    "static/media/122.pdf": "./static/media/122.18285fa4ac2dc59ef972.pdf",
+    "static/media/123.pdf": "./static/media/123.991f32c91fbd0ddabbfa.pdf",
+    "static/media/221.pdf": "./static/media/221.449ccc6424dee0f03d4b.pdf",
+    "static/media/224.pdf": "./static/media/224.d41423ec56d674f88d13.pdf",
+    "static/media/211.pdf": "./static/media/211.f17323a130ca40f332e8.pdf",
+    "static/media/logo.jpg": "./static/media/logo.bb84fcc90f3e1055db07.jpg",
+    "static/media/212.pdf": "./static/media/212.183eca13eb0fe2c0d554.pdf",
+    "static/media/113.pdf": "./static/media/113.d52bffe89f66d23ab447.pdf",
+    "static/media/231.pdf": "./static/media/231.f64ca5b71613e10f54ee.pdf",
+    "static/media/112.pdf": "./static/media/112.df280df05b8023f4a303.pdf",
+    "static/media/111.pdf": "./static/media/111.b093bcbfb82885ba87e8.pdf",
+    "index.html": "./index.html",
+    "main.3ecf3825.css.map": "./static/css/main.3ecf3825.css.map",
+    "main.f3754cd2.js.map": "./static/js/main.f3754cd2.js.map",
+    "787.17c92be5.chunk.js.map": "./static/js/787.17c92be5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3ecf3825.css",
-    "static/js/main.d6706e70.js"
+    "static/js/main.f3754cd2.js"
   ]
 }
