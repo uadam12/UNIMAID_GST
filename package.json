@@ -1,8 +1,8 @@
 {
-  "homepage": "http://uadam12.github.io/unimaid_gst",
+  "homepage": "http://uadam12.github.io/unimaid-gst",
   "name": "UNIMAID-GST/",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
