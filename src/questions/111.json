@@ -1,0 +1,497 @@
+[
+  {
+    "id": 1,
+    "question": "Divide the kola-nut between .....",
+    "correct": "a",
+    "options": {
+      "a": "him and her",
+      "b": "he and she"
+    }
+  },
+  {
+    "id": 2,
+    "question": "It is ....",
+    "correct": "b",
+    "options": {
+      "a": "me",
+      "b": "I"
+    }
+  },
+  {
+    "id": 3,
+    "question": "Talatu and ..... saw the thief.",
+    "correct": "b",
+    "options": {
+      "a": "me",
+      "b": "I"
+    }
+  },
+  {
+    "id": 4,
+    "question": "It seems to be ....",
+    "correct": "a",
+    "options": {
+      "a": "she",
+      "b": "her"
+    }
+  },
+  {
+    "id": 5,
+    "question": "We supposed it was .....",
+    "correct": "a",
+    "options": {
+      "a": "him",
+      "b": "he"
+    }
+  },
+  {
+    "id": 6,
+    "question": "They are stronger than ....",
+    "correct": "b",
+    "options": {
+      "a": "we",
+      "b": "us"
+    }
+  },
+  {
+    "id": 7,
+    "question": "It was ..... who went out.",
+    "correct": "a",
+    "options": {
+      "a": "he",
+      "b": "him"
+    }
+  },
+  {
+    "id": 8,
+    "question": "The ant entered ..... hole.",
+    "correct": "b",
+    "options": {
+      "a": "it's",
+      "b": "its"
+    }
+  },
+  {
+    "id": 9,
+    "question": "Either ..... should swim.",
+    "correct": "b",
+    "options": {
+      "a": "him or her",
+      "b": "he or she"
+    }
+  },
+  {
+    "id": 10,
+    "question": "Let ..... and you do it",
+    "correct": "a",
+    "options": {
+      "a": "me",
+      "b": "I"
+    }
+  },
+  {
+    "id": 11,
+    "question": "Neither of the thieves ..... caught",
+    "correct": "a",
+    "options": {
+      "a": "was",
+      "b": "were"
+    }
+  },
+  {
+    "id": 12,
+    "question": "None of the criminals .... been arrested.",
+    "correct": "b",
+    "options": {
+      "a": "have",
+      "b": "has"
+    }
+  },
+  {
+    "id": 13,
+    "question": "Each of the boys ..... in the class",
+    "correct": "b",
+    "options": {
+      "a": "are",
+      "b": "is"
+    }
+  },
+  {
+    "id": 14,
+    "question": "Which of the two students ..... out?",
+    "correct": "b",
+    "options": {
+      "a": "go",
+      "b": "goes"
+    }
+  },
+  {
+    "id": 15,
+    "question": "Everyone of them, ..... it right.",
+    "correct": "a",
+    "options": {
+      "a": "gets",
+      "b": "get"
+    }
+  },
+  {
+    "id": 16,
+    "question": "Everybody ..... the answer.",
+    "correct": "a",
+    "options": {
+      "a": "knows",
+      "b": "know"
+    }
+  },
+  {
+    "id": 17,
+    "question": "Each of the students ..... good English.",
+    "correct": "b",
+    "options": {
+      "a": "speak",
+      "b": "speaks"
+    }
+  },
+  {
+    "id": 18,
+    "question": "*Excommunication* contains ..... morphemes.",
+    "correct": "3"
+  },
+  {
+    "id": 19,
+    "question": "*Withdrawing* contains ..... morphemes.",
+    "correct": "3"
+  },
+  {
+    "id": 20,
+    "question": "*Steadfast* contains ..... morphemes.",
+    "correct": "2"
+  },
+  {
+    "id": 21,
+    "question": "*Reinforcement* contains ..... morphemes.",
+    "correct": "3"
+  },
+  {
+    "id": 22,
+    "question": "*Disappointment* contains ..... morphemes.",
+    "correct": "3"
+  },
+  {
+    "id": 23,
+    "question": "*Everlasting* contains ..... morphemes.",
+    "correct": "2"
+  },
+  {
+    "id": 24,
+    "question": "*Controversy* contains ..... morphemes.",
+    "correct": "2"
+  },
+  {
+    "id": 25,
+    "question": "*Encouragement* contains ..... morphemes.",
+    "correct": "3"
+  },
+  {
+    "id": 26,
+    "question": "*Importance* contains ..... morphemes.",
+    "correct": "2"
+  },
+  {
+    "id": 27,
+    "question": "*Man-eaters* contains ..... morphemes.",
+    "correct": "2"
+  },
+  {
+    "id": 28,
+    "question": "The method of _word formation_ in *communication* is .....",
+    "correct": "Suffixation"
+  },
+  {
+    "id": 29,
+    "question": "The method of _word formation_ in *love* is .....",
+    "correct": "Conversion"
+  },
+  {
+    "id": 30,
+    "question": "The method of _word formation_ in *development* is .....",
+    "correct": "Suffixation"
+  },
+  {
+    "id": 31,
+    "question": "The method of _word formation_ in *substandard* is .....",
+    "correct": "Pre fixation"
+  },
+  {
+    "id": 32,
+    "question": "The method of _word formation_ in *transplant* is .....",
+    "correct": "Pre fixation"
+  },
+  {
+    "id": 33,
+    "question": "The method of _word formation_ in *blindfold* is .....",
+    "correct": "Compounding"
+  },
+  {
+    "id": 34,
+    "question": "The method of _word formation_ in *classroom* is .....",
+    "correct": "Compounding"
+  },
+  {
+    "id": 35,
+    "question": "The method of _word formation_ in *full moon* is .....",
+    "correct": "Compounding"
+  },
+  {
+    "id": 36,
+    "question": "The method of _word formation_ in *feet* is .....",
+    "correct": "Conversion"
+  },
+  {
+    "id": 37,
+    "question": "The method of _word formation_ in *gease* is .....",
+    "correct": "Conversion"
+  },
+  {
+    "id": 38,
+    "question": "Language is always used in a .....",
+    "correct": "b",
+    "options": {
+      "a": "Circle",
+      "b": "Context",
+      "c": "Book",
+      "d": "Village"
+    }
+  },
+  {
+    "id": 39,
+    "question": "The *part of speech* is divided into .....",
+    "correct": "c",
+    "options": {
+      "a": "Four",
+      "b": "Three",
+      "c": "Two",
+      "d": "Five"
+    }
+  },
+  {
+    "id": 40,
+    "question": "*Minor sentences* are constructed in a/an ..... way.",
+    "correct": "a",
+    "options": {
+      "a": "Irregular",
+      "b": "Irrational",
+      "c": "Ambiguous",
+      "d": "Irrevocable"
+    }
+  },
+  {
+    "id": 41,
+    "question": "*Minor sentences* follow a/an ..... pattern of construction.",
+    "correct": "a",
+    "options": {
+      "a": "normal",
+      "b": "abnormal",
+      "c": "irregular",
+      "d": "obscure"
+    }
+  },
+  {
+    "id": 42,
+    "question": "*Simple sentence* is a ..... clause sentence.",
+    "correct": "a",
+    "options": {
+      "a": "one",
+      "b": "two",
+      "c": "large",
+      "d": "subordination"
+    }
+  },
+  {
+    "id": 43,
+    "question": "..... is an example of closed system",
+    "correct": "b",
+    "options": {
+      "a": "noun",
+      "b": "article",
+      "c": "verb",
+      "d": "adjective"
+    }
+  },
+  {
+    "id": 44,
+    "question": "In *compound sentences* clauses are link by .....",
+    "correct": "c",
+    "options": {
+      "a": "subordination",
+      "b": "concord",
+      "c": "coordination",
+      "d": "affiliation"
+    }
+  },
+  {
+    "id": 45,
+    "question": "..... is a _punctuation of speech_.",
+    "correct": "d",
+    "options": {
+      "a": "hyphen",
+      "b": "colon",
+      "c": "dash",
+      "d": "prosody"
+    }
+  },
+  {
+    "id": 46,
+    "question": "..... is _unit of pitch, use to express meaning_.",
+    "correct": "b",
+    "options": {
+      "a": "tone",
+      "b": "intonation",
+      "c": "stress",
+      "d": "loudness"
+    }
+  },
+  {
+    "id": 47,
+    "question": "..... is _the fundamental organizing principle of a language_.",
+    "correct": "b",
+    "options": {
+      "a": "vocabulary",
+      "b": "grammar",
+      "c": "sound",
+      "d": "semantics"
+    }
+  },
+  {
+    "id": 48,
+    "question": "In *essay writing*, there must always be a/an .....",
+    "correct": "b",
+    "options": {
+      "a": "observer",
+      "b": "topic",
+      "c": "controller",
+      "d": "audience"
+    }
+  },
+  {
+    "id": 49,
+    "question": "..... makes clear what we want to present in writing.",
+    "correct": "c",
+    "options": {
+      "a": "spelling",
+      "b": "grammar",
+      "c": "punctuation",
+      "d": "style"
+    }
+  },
+  {
+    "id": 50,
+    "question": "*New ideas* should not be brought into your .....",
+    "correct": "d",
+    "options": {
+      "a": "introduction",
+      "b": "presentation",
+      "c": "content",
+      "d": "conclusion"
+    }
+  },
+  {
+    "id": 51,
+    "question": "*Expository essay* would involve ..... a process",
+    "correct": "a",
+    "options": {
+      "a": "explaining",
+      "b": "molding",
+      "c": "citing",
+      "d": "creating"
+    }
+  },
+  {
+    "id": 52,
+    "question": "In *argumentative essay* one argues with the aim of ..... the audiences.",
+    "correct": "d",
+    "options": {
+      "a": "convicting",
+      "b": "confusing",
+      "c": "committing",
+      "d": "convincing"
+    }
+  },
+  {
+    "id": 53,
+    "question": "..... of voice, is used in reading a list of items.",
+    "correct": "a",
+    "options": {
+      "a": "pitch",
+      "b": "speed",
+      "c": "tempo",
+      "d": "loudness"
+    }
+  },
+  {
+    "id": 54,
+    "question": "One important thing to consider when writing a letter is .....",
+    "correct": "b",
+    "options": {
+      "a": "length",
+      "b": "simple language",
+      "c": "time factor",
+      "d": "the writer himself"
+    }
+  },
+  {
+    "id": 55,
+    "question": "*Formal letter* should be .....",
+    "correct": "d",
+    "options": {
+      "a": "brief",
+      "b": "concise",
+      "c": "short",
+      "d": "straight to the point"
+    }
+  },
+  {
+    "id": 56,
+    "question": "*Salutation* is written on the ..... hand side of the margin.",
+    "correct": "a",
+    "options": {
+      "a": "right",
+      "b": "left",
+      "c": "both",
+      "d": "none"
+    }
+  },
+  {
+    "id": 57,
+    "question": "*Personal letter* is written to .....",
+    "correct": "c",
+    "options": {
+      "a": "officials",
+      "b": "editors",
+      "c": "friends",
+      "d": "shop-keepers"
+    }
+  },
+  {
+    "id": 58,
+    "question": "Knowing *grammar* has to be with .....",
+    "correct": "d",
+    "options": {
+      "a": "luck",
+      "b": "wisdom",
+      "c": "intuition",
+      "d": "reading"
+    }
+  },
+  {
+    "id": 59,
+    "question": "*Letters* are of ..... kinds.",
+    "correct": "d",
+    "options": {
+      "a": "six",
+      "b": "five",
+      "c": "four",
+      "d": "three"
+    }
+  }
+]
