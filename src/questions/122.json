@@ -1,0 +1,556 @@
+[
+  {
+    "id": 1,
+    "question": "..... library serves as legal depository for the country",
+    "options": {
+      "a": "Academic Library",
+      "b": "Special Library",
+      "c": "National Library",
+      "d": "Private Library"
+    },
+    "correct": "c"
+  },
+  {
+    "id": 2,
+    "question": "One of these libraries is referred to as *\"people universities\"* established to provide information resources for rural dwellers",
+    "options": {
+      "a": "Special Library",
+      "b": "National Library",
+      "c": "Academic Library",
+      "d": "Public Library",
+      "e": "Private Library"
+    },
+    "correct": "d"
+  },
+  {
+    "id": 3,
+    "question": "Public libraries are established to perform one of these functions:",
+    "options": {
+      "a": "provision of information resources for sale",
+      "b": "Restriction of access to information",
+      "c": "Encouragement of educational process",
+      "d": "discouraging lending of materials",
+      "e": "Not proving information resources"
+    },
+    "correct": "c"
+  },
+  {
+    "id": 4,
+    "question": "One of the cardinal objective of the library is to:",
+    "options": {
+      "a": "advertise and sell books to users",
+      "b": "Acquire books and other library material in line with the curriculum and needs of users",
+      "c": "Hide information sources",
+      "d": "Keep books away from users",
+      "e": "Under develop the library collection"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 5,
+    "question": "The Lagos book club was formed by expatriate civil servants and some Nigerians in .....",
+    "options": {
+      "a": "1820",
+      "b": "1940",
+      "c": "1920",
+      "d": "1960",
+      "e": "1880"
+    },
+    "correct": "c"
+  },
+  {
+    "id": 6,
+    "question": "The Egyptians developed ..... which was a form of writing.",
+    "options": {
+      "a": "Histogram",
+      "b": "Literature",
+      "c": "paper and book",
+      "d": "Hieroglyphic",
+      "e": "Historian"
+    },
+    "correct": "d"
+  },
+  {
+    "id": 7,
+    "question": "*A collection of books and other literary materials kept for reading, study and consultation* is called a .....",
+    "options": {
+      "a": "Book shop",
+      "b": "Store",
+      "c": "Library",
+      "d": "Book room",
+      "e": "Book stand"
+    },
+    "correct": "c"
+  },
+  {
+    "id": 8,
+    "question": "Which of the following library classification scheme uses mixed notions",
+    "options": {
+      "a": "Dewey Decimal Classification",
+      "b": "Universal Decimal Classification",
+      "c": "Library of Congress",
+      "d": "Congress Classification"
+    },
+    "correct": "c"
+  },
+  {
+    "id": 9,
+    "question": "*Arrangement of all knowledge into generally accepted classes in the library* is known as:",
+    "options": {
+      "a": "Cataloguing",
+      "b": "Classification",
+      "c": "Acquisition",
+      "d": "Collation"
+    },
+    "correct": "a"
+  },
+  {
+    "id": 10,
+    "question": "Selection of books and monograph series for ordering is one of the functions of ..... division of the library",
+    "options": {
+      "a": "Cataloguing and Classification",
+      "b": "Circulation",
+      "c": "Acquisition",
+      "d": "Reference"
+    },
+    "correct": "c"
+  },
+  {
+    "id": 11,
+    "question": "Collection development and cataloguing and classification are department in ..... division of the library",
+    "options": {
+      "a": "Readers services",
+      "b": "serials",
+      "c": "Technical services, special collection",
+      "d": "Bindery"
+    },
+    "correct": "c"
+  },
+  {
+    "id": 12,
+    "question": "Reference unit of the library houses the following material except:",
+    "options": {
+      "a": "Encyclopedia",
+      "b": "Bibliographies",
+      "c": "Dictionaries",
+      "d": "Newspapers"
+    },
+    "correct": "d"
+  },
+  {
+    "id": 13,
+    "question": "..... unit is responsible for student registration and lending of books to users in the library",
+    "options": {
+      "a": "Reference",
+      "b": "Circulation",
+      "c": "Serial",
+      "d": "Reserved",
+      "e": "Bindery"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 14,
+    "question": "The following are the units in the readers service division of the library except:",
+    "options": {
+      "a": "circulation",
+      "b": "Reserved book room",
+      "c": "Reference",
+      "d": "Bindery"
+    },
+    "correct": "d"
+  },
+  {
+    "id": 15,
+    "question": "Official publication issued by the government and its agencies containing information about their programmes and activities are called",
+    "options": {
+      "a": "Government policy",
+      "b": "Government information",
+      "c": "Government",
+      "d": "Government publications"
+    },
+    "correct": "d"
+  },
+  {
+    "id": 16,
+    "question": "*Files of pamphlet* materials in the library are called .....",
+    "options": {
+      "a": "Supplementary",
+      "b": "Vertical files",
+      "c": "Serial file",
+      "d": "Reference files"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 17,
+    "question": "*Publications issued in successive parts at regular interval and intended to be continued indefinitely in several volumes* are called .....",
+    "options": {
+      "a": "Fiction books",
+      "b": "periodicals",
+      "c": "Textbooks",
+      "d": "Theses"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 18,
+    "question": "*All forms of information carries that can be used to record, store, preserve, transmit or retrieve information for research, learning and instructional purposes* are called .....",
+    "options": {
+      "a": "Library material",
+      "b": "Library shelves",
+      "c": "Library cards",
+      "d": "Library policy"
+    },
+    "correct": "a"
+  },
+  {
+    "id": 19,
+    "question": "*ISSN* means:",
+    "options": {
+      "a": "International social subject number",
+      "b": "International standard social number",
+      "c": "International standard serial number",
+      "d": "International study social number"
+    },
+    "correct": "c"
+  },
+  {
+    "id": 20,
+    "question": "..... is a printed classification scheme for arranging books in the library",
+    "options": {
+      "a": "Biography",
+      "b": "Schedule",
+      "c": "Scheme",
+      "d": "publication"
+    },
+    "correct": "c"
+  },
+  {
+    "id": 21,
+    "question": "Library materials are classified and catalogued in which division of the library",
+    "options": {
+      "a": "Law library",
+      "b": "Collection development",
+      "c": "cataloguing and classification",
+      "d": "serials"
+    },
+    "correct": "c"
+  },
+  {
+    "id": 22,
+    "question": "Library materials are divided into .....",
+    "options": {
+      "a": "Book and print",
+      "b": "Journal and book",
+      "c": "Print and non-print",
+      "d": "Periodicals and books"
+    },
+    "correct": "c"
+  },
+  {
+    "id": 23,
+    "question": "The following are type of print materials except",
+    "options": {
+      "a": "journals",
+      "b": "Audio-materials",
+      "c": "government publications"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 24,
+    "question": "One example of a general _electronic database_ is .....",
+    "options": {
+      "a": "ERIC & AGORA",
+      "b": "MEDLINE",
+      "c": "EBSCOHOST & JSTOR",
+      "d": "HINARI"
+    },
+    "correct": "c"
+  },
+  {
+    "id": 25,
+    "question": "_E-books, E-journal, E-dissertation and E-thesis_ are .... resources.",
+    "options": {
+      "a": "Offline",
+      "b": "Online",
+      "c": "Physical",
+      "d": "Software"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 26,
+    "question": "Knowledge and skills acquisition using electronic technology is called .....",
+    "options": {
+      "a": "E-commerce",
+      "b": "E-marketing",
+      "c": "E-learning",
+      "d": "E-banking"
+    },
+    "correct": "c"
+  },
+  {
+    "id": 27,
+    "question": "One of these is *not* a reference material:",
+    "options": {
+      "a": "Directory",
+      "b": "Manual",
+      "c": "index",
+      "d": "non-fiction"
+    },
+    "correct": "d"
+  },
+  {
+    "id": 28,
+    "question": "These are examples of general encyclopedia",
+    "options": {
+      "a": "Encyclopedia of social science and Education",
+      "b": "Encyclopedia of Economics and science",
+      "c": "Encyclopedia American and Britannica",
+      "d": "Encyclopedia of Arts & Humanities"
+    },
+    "correct": "c"
+  },
+  {
+    "id": 29,
+    "question": "A short summary of a content of a work is known as",
+    "options": {
+      "a": "Index",
+      "b": "Abstract",
+      "c": "Directory",
+      "d": "Bibliography"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 30,
+    "question": "A library ..... is a list of library materials arranged in systematic order to help the user to locate and retrieve book with ease",
+    "options": {
+      "a": "Serials",
+      "b": "Catalogue",
+      "c": "Card cabinet",
+      "d": "Shelves"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 31,
+    "question": "The catalogue cards in the library responsible for .....",
+    "options": {
+      "a": "Author's name",
+      "b": "Title of the books",
+      "c": "Content of the book",
+      "d": "class mark"
+    },
+    "correct": "a"
+  },
+  {
+    "id": 32,
+    "question": "The unit of the library responsible for the management of periodicals",
+    "options": {
+      "a": "Bindery",
+      "b": "Serials",
+      "c": "Special collection",
+      "d": "Acquisition"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 33,
+    "question": "Copyright violation attracts",
+    "options": {
+      "a": "Honour",
+      "b": "Fame",
+      "c": "Punishment",
+      "d": "Friends"
+    },
+    "correct": "c"
+  },
+  {
+    "id": 34,
+    "question": "One of the benefits of copyright law is to .....",
+    "options": {
+      "a": "To discourage piracy",
+      "b": "To stop creative works",
+      "c": "To punish",
+      "d": "To help discourage authors from making money"
+    },
+    "correct": "a"
+  },
+  {
+    "id": 35,
+    "question": "An important principle in referencing is to be .....",
+    "options": {
+      "a": "Unfavorable",
+      "b": "Simple",
+      "c": "Consistent",
+      "d": "Ambiguous"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 36,
+    "question": "The following are types of referencing style except:",
+    "options": {
+      "a": "Harvard citation",
+      "b": "American psychological Association",
+      "c": "British Psychological Association",
+      "d": "Modern language Association"
+    },
+    "correct": "c"
+  },
+  {
+    "id": 37,
+    "question": "..... is the destruction of library books through tearing of pages and cutting of pictures",
+    "options": {
+      "a": "Overdue notices",
+      "b": "Mutilation",
+      "c": "Stealing",
+      "d": "Noise making"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 38,
+    "question": "..... is a disadvantage to the use of *ICT* in libraries",
+    "options": {
+      "a": "Access to online resources",
+      "b": "Access to offline resources",
+      "c": "Erratic power supply",
+      "d": "Access to varieties of information"
+    },
+    "correct": "c"
+  },
+  {
+    "id": 39,
+    "question": "Group of computer electronically connected for the purpose of sharing resource is called .....",
+    "options": {
+      "a": "Computer system",
+      "b": "Computer network",
+      "c": "Computer programme",
+      "d": "Computer services"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 40,
+    "question": "*Copyright* of a work is infringed through unauthorized publication, scale lease, display and broadcast",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "correct": "a"
+  },
+  {
+    "id": 41,
+    "question": "The following are library service except:",
+    "options": {
+      "a": "Lending",
+      "b": "Consultancy",
+      "c": "Translation",
+      "d": "Mutilation"
+    },
+    "correct": "d"
+  },
+  {
+    "id": 42,
+    "question": "*_Organized collection of computerized information or data_* such as article, books, graphics and multimedia that are in general or subject-based information abstracts or full text and can be accessed online or over the internet is known as .....",
+    "options": {
+      "a": "Offline database",
+      "b": "Conventional database",
+      "c": "Online database",
+      "d": "Physical database"
+    },
+    "correct": "c"
+  },
+  {
+    "id": 43,
+    "question": "..... library services are _the direct personal assistance given to users in pursuit of information_",
+    "options": {
+      "a": "Serials services",
+      "b": "Reference services",
+      "c": "Directory services",
+      "d": "Loan service"
+    },
+    "correct": "d"
+  },
+  {
+    "id": 44,
+    "question": "Computer aided assessment consists of the following except",
+    "options": {
+      "a": "Web-site",
+      "b": "CD ROMs",
+      "c": "Educational animations",
+      "d": "Offline"
+    },
+    "correct": "d"
+  },
+  {
+    "id": 45,
+    "question": "..... activities in *E-learning* _involved the exchange of idea and information with one or two students at same period of time_",
+    "options": {
+      "a": "Disc",
+      "b": "Audio",
+      "c": "Synchronous",
+      "d": "Electronic"
+    },
+    "correct": "c"
+  },
+  {
+    "id": 46,
+    "question": "..... activities in E-learning use technology like blog, wikis and discussion boards",
+    "options": {
+      "a": "E-service",
+      "b": "Asynchronous",
+      "c": "E-administration",
+      "d": "CD ROM"
+    },
+    "correct": "a"
+  },
+  {
+    "id": 47,
+    "question": "In academic _using other peoples work without referencing them adequately_ amount to",
+    "options": {
+      "a": "Good work",
+      "b": "Plagiarism",
+      "c": "Piracy",
+      "d": "Achievement"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 48,
+    "question": "*Reference must be cited when you do the following* except:",
+    "options": {
+      "a": "Pirate",
+      "b": "Paraphrase",
+      "c": "Summarize",
+      "d": "Quote"
+    },
+    "correct": "a"
+  },
+  {
+    "id": 49,
+    "question": "*HTTP* used in citing online resources means",
+    "options": {
+      "a": "Higher technology transfer protocol",
+      "b": "Huge technical transfer protocol",
+      "c": "Hypertext transfer protocol",
+      "d": "higher technical translated programme"
+    },
+    "correct": "c"
+  },
+  {
+    "id": 50,
+    "question": "..... is a person responsible for the intellectual context of a book.",
+    "correct": "c",
+    "options": {
+      "a": "Publisher",
+      "b": "Book Seller",
+      "c": "Author",
+      "d": "Librarian"
+    }
+  }
+]
