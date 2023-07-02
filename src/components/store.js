@@ -24,7 +24,7 @@ function getCourse() {
 function getData() {
     const data = getCourse();
 
-    if(["111", "112", "122"].includes(data)) return "211";
+    if("122" === data) return "211";
 
     return data;
 }
