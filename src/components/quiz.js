@@ -81,8 +81,7 @@ export default class Quiz extends React.Component {
    }
 
    writeAnswer(ans) {
-      const i = this.state.index;
-      this.answers[i] = ans;
+      this.answers[this.state.index] = ans.trim();
    }
 
    lastQuestion() {
