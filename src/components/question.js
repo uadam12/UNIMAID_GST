@@ -4,7 +4,7 @@ export const Question = props => {
   const quiz = props.quiz;
   const question = quiz.getQuestion();
   const opts = quiz.getOptions();
-  const stms = question.statement;
+  const stms = question.statements;
   const statements = stms? stms.map(stm => <p>{stm}</p>): "";
   
   const Options = question.options? () => 
