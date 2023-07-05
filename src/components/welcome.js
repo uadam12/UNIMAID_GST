@@ -16,8 +16,8 @@ export const Welcome = props => (<div className="card m-3 mx-auto" style={{ maxW
     <p>
       UNIMAID GST contains <b>all GST handouts</b>.
       It also contains <b>Questions and their Answers</b> for
-      <i>7 out of the 10 available courses</i>
-      (Q and A for GST 111, 112 and 122 are <b>coming soon!</b>).
+      <i>9 out of the 10 available courses</i>
+      (<b>Q and A</b> for GST 112 is <b>coming soon!</b>).
     </p>
 
     <p>
